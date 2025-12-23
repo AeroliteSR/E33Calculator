@@ -32,7 +32,7 @@ def loadJson(path):
         data = json.load(f)
         return data
 
-def getCharStats(enemy, area, encounterLv, scriptLv=0, difficulty='Expert', ng=0):
+def getCharStats(enemy, area, encounter, scriptLv=0, difficulty='Expert', ng=0):
     global basepath
 
     if difficulty not in ['Story', 'Expeditioner', 'Expert']:
@@ -40,7 +40,9 @@ def getCharStats(enemy, area, encounterLv, scriptLv=0, difficulty='Expert', ng=0
 
     #defaultLv = enemydata.get('Level', None) # this gets defaulted to if none of the other values are used. Currently unneeded
 
+    encounterLv = loadJson(basepath / "DT_Encounters_Composite.json")[encounter].get('Level', 0)
     areaLv = loadJson(basepath / "DT_LevelData.json")[area].get('Level', 0)
+    scriptLv = ScriptOffset.get(encounter, 0) # set level to default 0 if not in the dictionary, aka no offset
     enemydata = loadJson(basepath / "DT_jRPG_Enemies.json")[enemy]
     archetype = enemydata.get('Archetype')
 
@@ -73,11 +75,9 @@ def ParseBattleStats(encounter, area, difficulty='Expert', ng=0):
     try:
         battle = loadJson(basepath / "DT_Encounters_Composite.json").get(encounter, None)
         enemies = battle.get('Enemies', None)
-        level = battle.get('Level', 0)
-        scriptLevel = ScriptOffset.get(encounter, 0) # set level to default 0 if not in the dictionary, aka no offset
 
         for enemy in enemies:
-            data[enemy] = getCharStats(enemy=enemy, area=area, encounterLv=level, scriptLv=scriptLevel, difficulty=difficulty, ng=ng)
+            data[enemy] = getCharStats(enemy=enemy, area=area, encounter=encounter, difficulty=difficulty, ng=ng)
 
         return data
 
@@ -86,8 +86,9 @@ def ParseBattleStats(encounter, area, difficulty='Expert', ng=0):
         return
     
 if __name__ == '__main__':
-    """Example usage:"""
     basepath = Path(sys.argv[0]).parent / "Data"
+
+    """Example usage:"""
     stats = ParseBattleStats(encounter="Boss_SimonALPHA*1", area='SideLevel_CleasTower', difficulty='Expert', ng=1)
 
     for k, v in stats.items():
