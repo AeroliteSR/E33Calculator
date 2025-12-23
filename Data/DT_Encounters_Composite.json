@@ -1,0 +1,8011 @@
+{
+    "Test_TestDummy": {
+        "Enemies": [
+            "SM_Lancelier",
+            "SM_Lancelier",
+            "SM_Lancelier",
+            "SM_Lancelier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_ChevaliereWhite*1": {
+        "Enemies": [
+            "YF_Chevaliere_A"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_ChevaliereWhite*2": {
+        "Enemies": [
+            "YF_Chevaliere_A",
+            "YF_Chevaliere_A"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_ChevaliereWhite*3": {
+        "Enemies": [
+            "YF_Chevaliere_A",
+            "YF_Chevaliere_A",
+            "YF_Chevaliere_A"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_ChevaliereWhite*4": {
+        "Enemies": [
+            "YF_Chevaliere_A",
+            "YF_Chevaliere_A",
+            "YF_Chevaliere_A",
+            "YF_Chevaliere_A"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Gault*1": {
+        "Enemies": [
+            "YF_GaultA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_GaultB*1": {
+        "Enemies": [
+            "YF_GaultB"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Potier_A*1": {
+        "Enemies": [
+            "YF_Potier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Jar*1": {
+        "Enemies": [
+            "YF_Jar"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Sapling*1_Gault*2": {
+        "Enemies": [
+            "YF_Sapling",
+            "YF_GaultA",
+            "YF_GaultA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Sapling*1": {
+        "Enemies": [
+            "YF_Sapling"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Glaise*1": {
+        "Enemies": [
+            "YF_Glaise"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_ChevaliereB*1": {
+        "Enemies": [
+            "YF_Chevaliere_B"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_ChevaliereC*1": {
+        "Enemies": [
+            "YF_Chevaliere_C"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Scavenger": {
+        "Enemies": [
+            "YF_Boss_Scavenger"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "YF_Gault*2": {
+        "Enemies": [
+            "YF_GaultA",
+            "YF_GaultA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Gault_Tuto_Atk": {
+        "Enemies": [
+            "YF_Gault_Tuto"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "YF_3Chevalieres_Alpha": {
+        "Enemies": [
+            "YF_Chevaliere_C_Alpha",
+            "YF_Chevaliere_B_Alpha",
+            "YF_Chevaliere_A_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "YF_Gault*3": {
+        "Enemies": [
+            "YF_GaultA",
+            "YF_GaultA",
+            "YF_GaultA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Gault*4": {
+        "Enemies": [
+            "YF_GaultA",
+            "YF_GaultA",
+            "YF_GaultA",
+            "YF_GaultA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_GaultA*1B*1": {
+        "Enemies": [
+            "YF_GaultA",
+            "YF_GaultB"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_GaultA*2B*1": {
+        "Enemies": [
+            "YF_GaultA",
+            "YF_GaultA",
+            "YF_GaultB"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_GaultA*1B*2": {
+        "Enemies": [
+            "YF_GaultA",
+            "YF_GaultB",
+            "YF_GaultB"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_GaultB*2": {
+        "Enemies": [
+            "YF_GaultB",
+            "YF_GaultB"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_GaultB*3": {
+        "Enemies": [
+            "YF_GaultB",
+            "YF_GaultB",
+            "YF_GaultB"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_GaultB*4": {
+        "Enemies": [
+            "YF_GaultB",
+            "YF_GaultB",
+            "YF_GaultB",
+            "YF_GaultB"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_GaultA*2B*2": {
+        "Enemies": [
+            "YF_GaultB",
+            "YF_GaultA",
+            "YF_GaultB",
+            "YF_GaultA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_GaultA*3B*1": {
+        "Enemies": [
+            "YF_GaultA",
+            "YF_GaultB",
+            "YF_GaultA",
+            "YF_GaultA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_GaultA*1B*3": {
+        "Enemies": [
+            "YF_GaultA",
+            "YF_GaultB",
+            "YF_GaultB",
+            "YF_GaultB"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "Test_DefaultMobLancelier": {
+        "Enemies": [
+            "SM_Lancelier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Jar*1Gault*2": {
+        "Enemies": [
+            "YF_Jar",
+            "YF_GaultA",
+            "YF_GaultA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Jar*1Gault*1GaultB*1": {
+        "Enemies": [
+            "YF_Jar",
+            "YF_GaultA",
+            "YF_GaultB"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Potier*1Gault*1": {
+        "Enemies": [
+            "YF_Potier",
+            "YF_GaultA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Potier*1GaultB*1": {
+        "Enemies": [
+            "YF_Potier",
+            "YF_GaultB"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Potier*2": {
+        "Enemies": [
+            "YF_Potier",
+            "YF_Potier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Jar*1Potier*1Gault*1GaultB*1": {
+        "Enemies": [
+            "YF_Jar",
+            "YF_Potier",
+            "YF_GaultA",
+            "YF_GaultB"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Jar*1Potier*1Gault*2": {
+        "Enemies": [
+            "YF_Jar",
+            "YF_Potier",
+            "YF_GaultA",
+            "YF_GaultA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Jar*1Potier*2Gault*1": {
+        "Enemies": [
+            "YF_Jar",
+            "YF_Potier",
+            "YF_Potier",
+            "YF_GaultA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Jar*1Potier*2": {
+        "Enemies": [
+            "YF_Jar",
+            "YF_Potier",
+            "YF_Potier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Glaise*1Gault*1": {
+        "Enemies": [
+            "YF_Glaise",
+            "YF_GaultA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Glaise*1GaultB*1": {
+        "Enemies": [
+            "YF_Glaise",
+            "YF_GaultB"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Glaise*1Potier*1": {
+        "Enemies": [
+            "YF_Glaise",
+            "YF_Potier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Glaise*1Potier*2": {
+        "Enemies": [
+            "YF_Glaise",
+            "YF_Potier",
+            "YF_Potier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Glaise*1Potier*1Gault*1": {
+        "Enemies": [
+            "YF_Glaise",
+            "YF_Potier",
+            "YF_GaultA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Glaise*1Gault*1GaultB*1": {
+        "Enemies": [
+            "YF_Glaise",
+            "YF_GaultA",
+            "YF_GaultB"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Sapling*2Gault*2": {
+        "Enemies": [
+            "YF_Sapling",
+            "YF_GaultA",
+            "YF_GaultA",
+            "YF_Sapling"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Sapling*1Gault*1GaultB*1": {
+        "Enemies": [
+            "YF_Sapling",
+            "YF_GaultA",
+            "YF_GaultB"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Sapling*1Gault*1GaultB*1Potier*1": {
+        "Enemies": [
+            "YF_Sapling",
+            "YF_GaultA",
+            "YF_GaultB",
+            "YF_Potier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Sapling*1Gault*1Potier*2": {
+        "Enemies": [
+            "YF_GaultA",
+            "YF_Potier",
+            "YF_Potier",
+            "YF_Sapling"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_ChevaliereA*1B*1": {
+        "Enemies": [
+            "YF_Chevaliere_A",
+            "YF_Chevaliere_B"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_ChevaliereA*1C*1": {
+        "Enemies": [
+            "YF_Chevaliere_C",
+            "YF_Chevaliere_A"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_ChevaliereA*1B*1C*1": {
+        "Enemies": [
+            "YF_Chevaliere_A",
+            "YF_Chevaliere_B",
+            "YF_Chevaliere_C"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_ChevaliereA*1B*1Sapling*1": {
+        "Enemies": [
+            "YF_Chevaliere_B",
+            "YF_Sapling",
+            "YF_Chevaliere_A"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_ChevaliereA*1B*1C*1Potier*1": {
+        "Enemies": [
+            "YF_Chevaliere_A",
+            "YF_Chevaliere_B",
+            "YF_Chevaliere_C",
+            "YF_Potier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_ChevaliereA*1B*2Glaise*1": {
+        "Enemies": [
+            "YF_Glaise",
+            "YF_Chevaliere_A",
+            "YF_Chevaliere_B",
+            "YF_Chevaliere_B"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Jar*1Potier*1Gault*1": {
+        "Enemies": [
+            "YF_Jar",
+            "YF_Potier",
+            "YF_GaultA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Potier*1GaultA*1B*1": {
+        "Enemies": [
+            "YF_Potier",
+            "YF_GaultA",
+            "YF_GaultB"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Limonsol": {
+        "Enemies": [
+            "YF_Gestral_Limonsol"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "YF_ChevaliereA*2B*1": {
+        "Enemies": [
+            "YF_Chevaliere_A",
+            "YF_Chevaliere_A",
+            "YF_Chevaliere_B"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_ChevaliereA*1B*2": {
+        "Enemies": [
+            "YF_Chevaliere_A",
+            "YF_Chevaliere_B",
+            "YF_Chevaliere_B"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Potier*1": {
+        "Enemies": [
+            "YF_Potier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Potier*4": {
+        "Enemies": [
+            "YF_Potier",
+            "YF_Potier",
+            "YF_Potier",
+            "YF_Potier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Jar*2": {
+        "Enemies": [
+            "YF_Jar",
+            "YF_Jar"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Sapling*4": {
+        "Enemies": [
+            "YF_Sapling",
+            "YF_Sapling",
+            "YF_Sapling",
+            "YF_Sapling"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Sapling*1Jar*1": {
+        "Enemies": [
+            "YF_Sapling",
+            "YF_Jar"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Glaise*2": {
+        "Enemies": [
+            "YF_Glaise",
+            "YF_Glaise"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Glaise*4": {
+        "Enemies": [
+            "YF_Glaise",
+            "YF_Glaise",
+            "YF_Glaise",
+            "YF_Glaise"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Glaise*1_Jar*1": {
+        "Enemies": [
+            "YF_Glaise",
+            "YF_Jar"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_ChevaliereB*4": {
+        "Enemies": [
+            "YF_Chevaliere_B",
+            "YF_Chevaliere_B",
+            "YF_Chevaliere_B",
+            "YF_Chevaliere_B"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_ChevaliereC*4": {
+        "Enemies": [
+            "YF_Chevaliere_C",
+            "YF_Chevaliere_C",
+            "YF_Chevaliere_C",
+            "YF_Chevaliere_C"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_GaultB_Alpha": {
+        "Enemies": [
+            "YF_GaultB_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SM_Lancelier*1": {
+        "Enemies": [
+            "SM_Lancelier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SM_FirstPortier*1": {
+        "Enemies": [
+            "SM_First_Portier"
+        ],
+        "Level": 1,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SM_Portier*1": {
+        "Enemies": [
+            "SM_Portier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SM_Volester*1": {
+        "Enemies": [
+            "SM_Volester"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SM_Abbest*1": {
+        "Enemies": [
+            "SM_Abbest"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SM_Eveque*1": {
+        "Enemies": [
+            "SM_Boss_Eveque"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SM_Lancelier*2": {
+        "Enemies": [
+            "SM_Lancelier",
+            "SM_Lancelier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SM_Lancelier*3": {
+        "Enemies": [
+            "SM_Lancelier",
+            "SM_Lancelier",
+            "SM_Lancelier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SM_Volester*2": {
+        "Enemies": [
+            "SM_Volester",
+            "SM_Volester"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SM_Volester*2_Lancelier*1": {
+        "Enemies": [
+            "SM_Lancelier",
+            "SM_Volester",
+            "SM_Volester"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SM_Lancelier_Alpha": {
+        "Enemies": [
+            "SM_Lancelier_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SM_Portier*1Lancelier*1Volester*1": {
+        "Enemies": [
+            "SM_Portier",
+            "SM_Volester",
+            "SM_Lancelier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SM_Abbest*1Volester*1Lancelier*1": {
+        "Enemies": [
+            "SM_Abbest",
+            "SM_Volester",
+            "SM_Lancelier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SM_Abbest*2Volester*1Lancelier*1": {
+        "Enemies": [
+            "SM_Abbest",
+            "SM_Volester",
+            "SM_Lancelier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SM_Abbest*2": {
+        "Enemies": [
+            "SM_Abbest",
+            "SM_Abbest"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "AS_PotatoBagTank*1": {
+        "Enemies": [
+            "AS_PotatoBag_Tank"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "AS_PotatoBagMage*1": {
+        "Enemies": [
+            "AS_PotatoBag_Mage"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "AS_PotatoBagRanger*1": {
+        "Enemies": [
+            "AS_PotatoBag_Ranger"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "AS_PotatoBagMage*1Tank*1": {
+        "Enemies": [
+            "AS_PotatoBag_Mage",
+            "AS_PotatoBag_Tank"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "AS_PotatoBag_Boss": {
+        "Enemies": [
+            "AS_PotatoBag_Boss"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "AS_GestralDragoon*1": {
+        "Enemies": [
+            "AS_Gestral_Dragoon"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "AS_GestralBullyA*1": {
+        "Enemies": [
+            "AS_GestralBully_A"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "AS_GestralBullyB*1": {
+        "Enemies": [
+            "AS_GestralBully_B"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "AS_GestralBullyC*1": {
+        "Enemies": [
+            "AS_GestralBully_C"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "AS_GestralBullyABC": {
+        "Enemies": [
+            "AS_GestralBully_A",
+            "AS_GestralBully_B",
+            "AS_GestralBully_C"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Cruler*1": {
+        "Enemies": [
+            "GO_Cruler"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Luster*1": {
+        "Enemies": [
+            "GO_Luster"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Bruler*1": {
+        "Enemies": [
+            "GO_Bruler"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Bruler*1Luster*1": {
+        "Enemies": [
+            "GO_Bruler",
+            "GO_Luster"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Bruler*1Cruler*1": {
+        "Enemies": [
+            "GO_Bruler",
+            "GO_Cruler"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Bruler*2Cruler*1": {
+        "Enemies": [
+            "GO_Bruler",
+            "GO_Bruler",
+            "GO_Cruler"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Cruler*1Luster*2": {
+        "Enemies": [
+            "GO_Cruler",
+            "GO_Luster",
+            "GO_Luster"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Demineur*3": {
+        "Enemies": [
+            "GO_Demineur",
+            "GO_Demineur",
+            "GO_Demineur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Luster*4": {
+        "Enemies": [
+            "GO_Luster",
+            "GO_Luster",
+            "GO_Luster",
+            "GO_Luster"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Goblu": {
+        "Enemies": [
+            "GO_Goblu"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "GO_Summon_Luster*3": {
+        "Enemies": [
+            "GO_Luster",
+            "GO_Luster",
+            "GO_Luster"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Bourgeon*1": {
+        "Enemies": [
+            "GO_Bourgeon"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "GO_Luster*3": {
+        "Enemies": [
+            "GO_Luster",
+            "GO_Luster",
+            "GO_Luster"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Luster*2": {
+        "Enemies": [
+            "GO_Luster",
+            "GO_Luster"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Bruler*1Luster*2": {
+        "Enemies": [
+            "GO_Bruler",
+            "GO_Luster",
+            "GO_Luster"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Bruler*1Luster*3": {
+        "Enemies": [
+            "GO_Bruler",
+            "GO_Luster",
+            "GO_Luster"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Cruler*1Luster*1": {
+        "Enemies": [
+            "GO_Cruler",
+            "GO_Luster"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Cruler*1Luster*2Bruler*1": {
+        "Enemies": [
+            "GO_Cruler",
+            "GO_Luster",
+            "GO_Bruler"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_LusterAlpha": {
+        "Enemies": [
+            "GO_Luster_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Test_PlaceHolderBattle": {
+        "Enemies": [
+            "Test_PlaceHolderBattleDude"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_CultistDualSword*1": {
+        "Enemies": [
+            "SC_CultistDualSword"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_CultistHeavy*1": {
+        "Enemies": [
+            "SC_CultistHeavy"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_CultistMage*1": {
+        "Enemies": [
+            "SC_CultistMage"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_CultistFlying*1": {
+        "Enemies": [
+            "SC_CultistFlying"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_FearLight*1": {
+        "Enemies": [
+            "SC_FearLight"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_SapNevronBoss*1": {
+        "Enemies": [
+            "SC_SapNevronBoss"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_Gestral_Sonnyso*1": {
+        "Enemies": [
+            "SC_Gestral_Sonnyso"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_CultistHeavy_Alpha": {
+        "Enemies": [
+            "SC_CultistHeavy_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SC_CultistMage*1_CultistDualSword*2": {
+        "Enemies": [
+            "SC_CultistMage",
+            "SC_CultistDualSword",
+            "SC_CultistDualSword"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "EN_Francois": {
+        "Enemies": [
+            "EN_Francois"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SM_FirstLancelier*2": {
+        "Enemies": [
+            "SM_FirstLancelier",
+            "SM_FirstLancelier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SM_FirstLancelier*1": {
+        "Enemies": [
+            "SM_FirstLancelier"
+        ],
+        "Level": 1,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SM_FirstLancelier*3": {
+        "Enemies": [
+            "SM_FirstLancelier",
+            "SM_FirstLancelier",
+            "SM_FirstLancelier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Demineur*1": {
+        "Enemies": [
+            "GO_Demineur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Luster*2_Demineur*1": {
+        "Enemies": [
+            "GO_Luster",
+            "GO_Luster",
+            "GO_Demineur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Bruler*1Luster*2_Demineur*1": {
+        "Enemies": [
+            "GO_Bruler",
+            "GO_Luster",
+            "GO_Luster"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Bruler*1Cruler*1_Demineur*1": {
+        "Enemies": [
+            "GO_Bruler",
+            "GO_Cruler",
+            "GO_Demineur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SM_Abbest_Alpha*1": {
+        "Enemies": [
+            "SM_Abbest_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SC_CultistDualSword*2": {
+        "Enemies": [
+            "SC_CultistDualSword",
+            "SC_CultistDualSword"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_CultistDualSword*3": {
+        "Enemies": [
+            "SC_CultistDualSword",
+            "SC_CultistDualSword",
+            "SC_CultistDualSword"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_CultistDualSword*2_FlyingCultist*1": {
+        "Enemies": [
+            "SC_CultistFlying",
+            "SC_CultistDualSword",
+            "SC_CultistDualSword"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_FearLight*2": {
+        "Enemies": [
+            "SC_FearLight",
+            "SC_FearLight"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_FearLight*3": {
+        "Enemies": [
+            "SC_FearLight",
+            "SC_FearLight",
+            "SC_FearLight"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_CultistDualSword*1_FlyingCultist*1_HeavyCultist*1": {
+        "Enemies": [
+            "SC_CultistFlying",
+            "SC_CultistDualSword",
+            "SC_CultistHeavy"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_CultistDualSword*2_HeavyCultist*1": {
+        "Enemies": [
+            "SC_CultistDualSword",
+            "SC_CultistDualSword",
+            "SC_CultistHeavy"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_CultistHeavy*3": {
+        "Enemies": [
+            "SC_CultistHeavy",
+            "SC_CultistHeavy",
+            "SC_CultistHeavy"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_CultistDualSword*1_FlyingCultist*2_HeavyCultist*1": {
+        "Enemies": [
+            "SC_CultistFlying",
+            "SC_CultistDualSword",
+            "SC_CultistHeavy"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_Ramasseur*1": {
+        "Enemies": [
+            "FB_Ramasseur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "FB_Ramasseur*4": {
+        "Enemies": [
+            "FB_Ramasseur",
+            "FB_Ramasseur",
+            "FB_Ramasseur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_Troubadour*1": {
+        "Enemies": [
+            "FB_Troubadour"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_Troubadour*1_Ramasseur*2": {
+        "Enemies": [
+            "FB_Troubadour",
+            "FB_Ramasseur",
+            "FB_Ramasseur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_ChalierHammer*1": {
+        "Enemies": [
+            "FB_ChalierHammer"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_Benisseur*1": {
+        "Enemies": [
+            "FB_Benisseur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_Benisseur*1_Ramasseur*2": {
+        "Enemies": [
+            "FB_Benisseur",
+            "FB_Ramasseur",
+            "FB_Ramasseur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_DuallisteR*1": {
+        "Enemies": [
+            "FB_DuallisteR"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "FB_DullisteL*1": {
+        "Enemies": [
+            "FB_DuallisteL"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "FB_DuallisteL*1_FB_DuallisteR*1": {
+        "Enemies": [
+            "FB_DuallisteR",
+            "FB_DuallisteL"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "FB_DuallisteLR": {
+        "Enemies": [
+            "FB_DuallisteLR"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "FB_ChalierSpear*1": {
+        "Enemies": [
+            "FB_ChalierSpear"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_ChalierDagger*1": {
+        "Enemies": [
+            "FB_ChalierDagger"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_ChalierSword*1": {
+        "Enemies": [
+            "FB_ChalierSword"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_Dualliste_Phase1*1": {
+        "Enemies": [
+            "FB_Dualliste_Phase1"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "NevronWall": {
+        "Enemies": [
+            "NevronWall"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_Pelerin*1": {
+        "Enemies": [
+            "MM_Pelerin"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_Pelerin*3": {
+        "Enemies": [
+            "MM_Pelerin",
+            "MM_Pelerin",
+            "MM_Pelerin"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_Danseuse*1": {
+        "Enemies": [
+            "MM_Danseuse"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_DanseuseClone*1": {
+        "Enemies": [
+            "MM_Danseuse_Clone"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_Stalact": {
+        "Enemies": [
+            "MM_Stalact"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_Danseuse*1_Braseleur*2": {
+        "Enemies": [
+            "MM_Danseuse",
+            "MM_Braseleur",
+            "MM_Braseleur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_Braseleur*1": {
+        "Enemies": [
+            "MM_Braseleur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_Braseleur*1_Danseuse*2": {
+        "Enemies": [
+            "MM_Braseleur",
+            "MM_Danseuse",
+            "MM_Danseuse"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_DanseuseAlpha*1": {
+        "Enemies": [
+            "MM_Danseuse_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "MM_DanseuseAlphaSummon": {
+        "Enemies": [
+            "MM_Danseuse_CloneAlpha",
+            "MM_Danseuse_CloneAlpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "MM_MirrorRenoir": {
+        "Enemies": [
+            "MM_MirrorRenoir"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "MM_Gargant": {
+        "Enemies": [
+            "MM_Gargant"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "LancelierAlternatifA*1": {
+        "Enemies": [
+            "SM_Lancelier_AlternatifA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "LancelierAlternatifB*1": {
+        "Enemies": [
+            "SM_Lancelier_AlternatifB"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "LancelierAlternatifC*1": {
+        "Enemies": [
+            "SM_Lancelier_AlternatifC"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "LancelierAlternatifD*1": {
+        "Enemies": [
+            "SM_Lancelier_AlternatifD"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "TestMichel_LancelierTest": {
+        "Enemies": [
+            "TestMichel_Lancelier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GaultAlternativA*1": {
+        "Enemies": [
+            "YF_Gault_AlternativA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GaultAlternativB*1": {
+        "Enemies": [
+            "YF_Gault_AlternativB"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GaultAlternativC*1": {
+        "Enemies": [
+            "YF_Gault_AlternativC"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GaultAlternativD*1": {
+        "Enemies": [
+            "YF_Gault_AlternativD"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GaultAlternativE*1": {
+        "Enemies": [
+            "YF_Gault_AlternativE"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "PortierAlternativA*1": {
+        "Enemies": [
+            "SM_Portier_AlternativA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "PortierAlternativB*1": {
+        "Enemies": [
+            "SM_Portier_AlternativB"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "PortierAlternativC*1": {
+        "Enemies": [
+            "SM_Portier_AlternativC"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "PortierAlternativD*1": {
+        "Enemies": [
+            "SM_Portier_AlternativD"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "PortierAlternativE*1": {
+        "Enemies": [
+            "SM_Portier_AlternativE"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "VolesterAlternativA*1": {
+        "Enemies": [
+            "SM_Volester_AlternativA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "VolesterAlternativB*1": {
+        "Enemies": [
+            "SM_Volester_AlternativB"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "VolesterAlternativC*1": {
+        "Enemies": [
+            "SM_Volester_AlternativC"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "VolesterAlternativD*1": {
+        "Enemies": [
+            "SM_Volester_AlternativD"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "VolesterAlternativE*1": {
+        "Enemies": [
+            "SM_Volester_AlternativE"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "PotierAlternativeA*1": {
+        "Enemies": [
+            "YF_Potier_AlternativeA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "PotierAlternativeB*1": {
+        "Enemies": [
+            "YF_Potier_AlternativeB"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "PotierAlternativeC*1": {
+        "Enemies": [
+            "YF_Potier_AlternativeC"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "PotierAlternativeD*1": {
+        "Enemies": [
+            "YF_Potier_AlternativeD"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "PotierAlternativeE*1": {
+        "Enemies": [
+            "YF_Potier_AlternativeE"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SaplingAlternativeA*1": {
+        "Enemies": [
+            "YF_Sapling_AlternativeA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SaplingAlternativeB*1": {
+        "Enemies": [
+            "YF_Sapling_AlternativeB"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SaplingAlternativeC*1": {
+        "Enemies": [
+            "YF_Sapling_AlternativeC"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SaplingAlternativeB*1_Gault*2": {
+        "Enemies": [
+            "YF_Sapling_AlternativeB",
+            "YF_GaultA",
+            "YF_GaultA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "JarAlternativeA*1": {
+        "Enemies": [
+            "YF_Jar_AlternativeA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "JarAlternativeB*1": {
+        "Enemies": [
+            "YF_Jar_AlternativeB"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "JarAlternativeC*1": {
+        "Enemies": [
+            "YF_Jar_AlternativeC"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "JarAlternativeA*1_Gault*2": {
+        "Enemies": [
+            "YF_Jar_AlternativeA",
+            "YF_GaultA",
+            "YF_GaultA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GDC_Troubadour*1_Chalier*1_Chevalier*1": {
+        "Enemies": [
+            "GDC_Troubadour",
+            "GDC_Chalier",
+            "GDC_Chevaliere_A"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GDC_Dualliste": {
+        "Enemies": [
+            "FB_DuallisteLR"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "CZ_ChromaVerso": {
+        "Enemies": [
+            "CZ_ChromaVerso"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CZ_ChromaMaelle": {
+        "Enemies": [
+            "CZ_ChromaMaelle"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CZ_ChromaSciel": {
+        "Enemies": [
+            "CZ_ChromaSciel"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CZ_ChromaLune": {
+        "Enemies": [
+            "CZ_ChromaLune"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CZ_ChromaMonoco": {
+        "Enemies": [
+            "CZ_ChromaMonoco"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_ChalierSwordAlpha*1": {
+        "Enemies": [
+            "FB_ChalierSword_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "FB_Benisseur*1_Alpha": {
+        "Enemies": [
+            "FB_Benisseur_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TEST_Troubadour*1_Chalier*1_Ramasseur*1_Benisseur*1": {
+        "Enemies": [
+            "FB_Troubadour",
+            "FB_ChalierSword",
+            "FB_Ramasseur",
+            "FB_Benisseur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "TEST_Dualliste": {
+        "Enemies": [
+            "FB_DuallisteLR"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "TEST_BenisseurAlpha*1_ChalierSwordAlpha*1": {
+        "Enemies": [
+            "FB_Benisseur_Alpha",
+            "FB_ChalierSword_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "CZ_ChromaVerso*1_ChromaMaelle*1": {
+        "Enemies": [
+            "CZ_ChromaMaelle",
+            "CZ_ChromaVerso"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CZ_ChromaLune*1_ChromaSciel*1": {
+        "Enemies": [
+            "CZ_ChromaLune",
+            "CZ_ChromaSciel"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CZ_ChromaVerso*1_ChromaMaelle*1_ChromaLune*1": {
+        "Enemies": [
+            "CZ_ChromaLune",
+            "CZ_ChromaMaelle",
+            "CZ_ChromaVerso"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CZ_ChromaMaelle*1_ChromaSciel*1_ChromaLune*1": {
+        "Enemies": [
+            "CZ_ChromaMaelle",
+            "CZ_ChromaSciel",
+            "CZ_ChromaLune"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CZ_ChromaSciel*1_ChromaMaelle*1_ChromaVerso*1": {
+        "Enemies": [
+            "CZ_ChromaSciel",
+            "CZ_ChromaMaelle",
+            "CZ_ChromaVerso"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CZ_ChromaVerso*1_ChromaMaelle*1_ChromaLune*1_ChromaSciel*1": {
+        "Enemies": [
+            "CZ_ChromaLune",
+            "CZ_ChromaMaelle",
+            "CZ_ChromaSciel",
+            "CZ_ChromaVerso"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_Danseuse*1_Braseleur*1_Stalact*1": {
+        "Enemies": [
+            "MM_Stalact",
+            "MM_Braseleur",
+            "MM_Danseuse"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_Danseuse*2_Stalact*1": {
+        "Enemies": [
+            "MM_Stalact",
+            "MM_Danseuse",
+            "MM_Danseuse"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_Danseuse*1_Stalact*1_Braseleur*1_Pelerin*1": {
+        "Enemies": [
+            "MM_Danseuse",
+            "MM_Stalact",
+            "MM_Braseleur",
+            "MM_Pelerin"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_Danseuse*2_Braseleur*2": {
+        "Enemies": [
+            "MM_Danseuse",
+            "MM_Braseleur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_Stalact*1_Danseuse*2_Braseleur*1": {
+        "Enemies": [
+            "MM_Stalact",
+            "MM_Danseuse",
+            "MM_Danseuse",
+            "MM_Braseleur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_Pelerin*2_Danseuse*1_Braseleur*1": {
+        "Enemies": [
+            "MM_Pelerin",
+            "MM_Pelerin",
+            "MM_Danseuse",
+            "MM_Braseleur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SM_EvequeLuneScript*1": {
+        "Enemies": [
+            "SM_Boss_EvequeLuneScript"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_Pelerin*1_Gault": {
+        "Enemies": [
+            "YF_GaultA",
+            "MM_Pelerin"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_Moissoneuse*1": {
+        "Enemies": [
+            "MF_Moissonneuse"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_Boucheclier": {
+        "Enemies": [
+            "MF_Boucheclier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_Chapelier*1": {
+        "Enemies": [
+            "MF_Chapelier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_Contorsionniste": {
+        "Enemies": [
+            "MF_Contorsionniste"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_Boucheclier*1_Moissoneuse*2": {
+        "Enemies": [
+            "MF_Boucheclier",
+            "MF_Moissonneuse",
+            "MF_Moissonneuse"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_BoucheclierSadness": {
+        "Enemies": [
+            "MF_BoucheclierSadness"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_BoucheclieSadnessr*1_Moissoneuse*2_0": {
+        "Enemies": [
+            "YF_GaultA",
+            "YF_GaultA",
+            "MF_BoucheclierSadness"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_MoissoneuseALPHA": {
+        "Enemies": [
+            "MF_Moissonneuse_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "AS_PotatoBag_Boss_ALPHA": {
+        "Enemies": [
+            "AS_PotatoBag_Boss_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "AS_PotatoBagRangerALPHA*1_0": {
+        "Enemies": [
+            "AS_PotatoBag_Ranger_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "AS_PotatoBagMageALPHA*1_0": {
+        "Enemies": [
+            "AS_PotatoBag_Mage_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "AS_PotatoBagTankALPHA*1_0": {
+        "Enemies": [
+            "AS_PotatoBag_Tank_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SM_EvequeEarthALPHA*1": {
+        "Enemies": [
+            "SM_Boss_Eveque_Earth_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "MF_BoucheclierALPHA": {
+        "Enemies": [
+            "MF_Boucheclier_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "GO_BourgeonALPHA*1_0": {
+        "Enemies": [
+            "GO_Bourgeon_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "MM_BraseleurALPHA*1": {
+        "Enemies": [
+            "MM_Braseleur_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "GO_BrulerALPHA": {
+        "Enemies": [
+            "GO_Bruler_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "MF_ChapelieALPHA": {
+        "Enemies": [
+            "MF_Chapelier_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SC_CultistDualSwordALPHA": {
+        "Enemies": [
+            "SC_CultistDualSword_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SC_CultistMageALPHA": {
+        "Enemies": [
+            "SC_CultistMage_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SC_CultistFlyingALPHA": {
+        "Enemies": [
+            "SC_CultistFlying_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "FB_DuallisteALPHA": {
+        "Enemies": [
+            "FB_DuallisteLR_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "MM_GargantALPHA": {
+        "Enemies": [
+            "MM_Gargant_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "MM_PelerinALPHA": {
+        "Enemies": [
+            "MM_Pelerin_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SM_PortierALPHA": {
+        "Enemies": [
+            "SM_Portier_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "FB_RamasseurALPHA": {
+        "Enemies": [
+            "FB_Ramasseur_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "MM_StalactALPHA": {
+        "Enemies": [
+            "MM_Stalact_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "FB_TroubadourAlpha": {
+        "Enemies": [
+            "FB_Troubadour_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SM_VolesterALPHA": {
+        "Enemies": [
+            "SM_Volester_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "YF_SaplingALPHA": {
+        "Enemies": [
+            "YF_Sapling_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "YF_GlaiseALPHA": {
+        "Enemies": [
+            "YF_Glaise_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "YF_JarALPHA": {
+        "Enemies": [
+            "YF_Jar_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "YF_PotierALPHA": {
+        "Enemies": [
+            "YF_Potier_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "MF_MaskSadness": {
+        "Enemies": [
+            "MF_MaskSadness"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_MaskAnger": {
+        "Enemies": [
+            "MF_MaskAnger"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_MaskJoy": {
+        "Enemies": [
+            "MF_MaskJoy"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_ChapelierJoie": {
+        "Enemies": [
+            "MF_Chapelier_Joie"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GA_GestralSumo": {
+        "Enemies": [
+            "GA_GestralSumo"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "GA_GestralSkinny": {
+        "Enemies": [
+            "GA_GestralSkinny"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "GA_GestralChad": {
+        "Enemies": [
+            "GA_GestralChad"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "GA_GestralBuff": {
+        "Enemies": [
+            "GA_GestralBuff"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "GA_GestralTall": {
+        "Enemies": [
+            "GA_GestralTall"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "GA_GestralBaby": {
+        "Enemies": [
+            "GA_GestralBaby"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "MF_MaskJoy_Chapelier*2": {
+        "Enemies": [
+            "MF_MaskJoy",
+            "MF_Chapelier_Joie",
+            "MF_Chapelier_Joie"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_MaskAnger_Moissonneuse*2": {
+        "Enemies": [
+            "MF_MaskAnger",
+            "MF_MoissonneuseJoy",
+            "MF_MoissonneuseJoy"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_MaskSadness_Boucheclier*2": {
+        "Enemies": [
+            "MF_MaskSadness",
+            "MF_BoucheclierAnger",
+            "MF_BoucheclierSadness"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_LumiereCitizen*1": {
+        "Enemies": [
+            "L_LumiereCitizen"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "QUEST_MatthieuTheColossus*1": {
+        "Enemies": [
+            "QUEST_MatthieuTheColossus"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "QUEST_BertrandBigHands*1": {
+        "Enemies": [
+            "QUEST_BertrandBigHands"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "QUEST_DominiqueGiantFeet*1": {
+        "Enemies": [
+            "QUEST_DominiqueGiantFeet"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "QUEST_JulienTinyHead*1": {
+        "Enemies": [
+            "QUEST_JulienTinyHead"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "MF_ANGRY_Boucheclier*2_Moissonneuse*1": {
+        "Enemies": [
+            "MF_Moissonneuse",
+            "MF_BoucheclierAnger",
+            "MF_BoucheclierAnger"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_ANGRY_Moissoneuse*1_Boucheclier*1_Chapelier*1": {
+        "Enemies": [
+            "MF_Moissonneuse",
+            "MF_Chapelier",
+            "MF_BoucheclierAnger"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_ANGRY_Boucheclier*3": {
+        "Enemies": [
+            "MF_BoucheclierAnger",
+            "MF_BoucheclierAnger",
+            "MF_BoucheclierAnger"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_ANGRY_Boucheclier*2_Moissonneuse*1_Chapelier*1": {
+        "Enemies": [
+            "MF_BoucheclierAnger",
+            "MF_Moissonneuse",
+            "MF_BoucheclierAnger"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_ANGRY_Boucheclier*1_Chapelier*2": {
+        "Enemies": [
+            "MF_BoucheclierAnger",
+            "MF_Chapelier",
+            "MF_Chapelier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_ANGRY_Boucheclier*2_Contorsionniste*1": {
+        "Enemies": [
+            "MF_Contorsionniste",
+            "MF_BoucheclierAnger",
+            "MF_BoucheclierAnger"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_SADNESS_Chapelier*2_Boucheclier*1": {
+        "Enemies": [
+            "MF_Boucheclier",
+            "MF_ChapelierSadness",
+            "MF_ChapelierSadness"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_SADNESS_Boucheclier*1_Chapelier*1_Moissoneuse*1": {
+        "Enemies": [
+            "MF_Boucheclier",
+            "MF_Moissonneuse",
+            "MF_ChapelierSadness"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_SADNESS_Boucheclier*1_Chapelier*1": {
+        "Enemies": [
+            "MF_Boucheclier",
+            "MF_ChapelierSadness"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_SADNESS_Chapelier*1_Moissoneuse*1": {
+        "Enemies": [
+            "MF_Moissonneuse",
+            "MF_ChapelierSadness"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_SADNESS_Chapelier*2_Boucheclier*1_Moissoneuse*1": {
+        "Enemies": [
+            "MF_ChapelierSadness",
+            "MF_Moissonneuse",
+            "MF_ChapelierSadness"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_SADNESS_Boucheclier*2_Chapelier*2": {
+        "Enemies": [
+            "MF_ChapelierSadness",
+            "MF_Boucheclier",
+            "MF_ChapelierSadness",
+            "MF_Boucheclier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_SADNESS_Chapelier*2_Contorsionniste*1": {
+        "Enemies": [
+            "MF_ChapelierSadness",
+            "MF_ChapelierSadness",
+            "MF_Contorsionniste"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_JOY_Moissonneuse*2_Boucheclier*1": {
+        "Enemies": [
+            "MF_Boucheclier",
+            "MF_MoissonneuseJoy",
+            "MF_MoissonneuseJoy"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_JOY_Moissonneuse*2_Chapelier*1": {
+        "Enemies": [
+            "MF_Chapelier",
+            "MF_MoissonneuseJoy",
+            "MF_MoissonneuseJoy"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_JOY_Chapelier*1_Moissonneuse*1_Boucheclier*1": {
+        "Enemies": [
+            "MF_Chapelier",
+            "MF_Boucheclier",
+            "MF_MoissonneuseJoy"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_JOY_Moissonneuse*2": {
+        "Enemies": [
+            "MF_MoissonneuseJoy",
+            "MF_MoissonneuseJoy"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_JOY_Chapelier*1_Moissonneuse*1": {
+        "Enemies": [
+            "MF_MoissonneuseJoy",
+            "MF_Chapelier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_JOY_Moissonneuse*1_Boucheclier*1": {
+        "Enemies": [
+            "MF_MoissonneuseJoy",
+            "MF_Boucheclier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_JOY_Moissonneuse*2_Contorsionniste*1": {
+        "Enemies": [
+            "MF_Contorsionniste",
+            "MF_MoissonneuseJoy",
+            "MF_MoissonneuseJoy"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_JOY_Moissonneuse*2_Boucheclier*1_Chapelier*1": {
+        "Enemies": [
+            "MF_Boucheclier",
+            "MF_MoissonneuseJoy",
+            "MF_MoissonneuseJoy"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_JOY_Moissonneuse*2_Boucheclier*2": {
+        "Enemies": [
+            "MF_Boucheclier",
+            "MF_MoissonneuseJoy",
+            "MF_MoissonneuseJoy",
+            "MF_Boucheclier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_JOY_Moissonneuse*3": {
+        "Enemies": [
+            "MF_MoissonneuseJoy",
+            "MF_MoissonneuseJoy",
+            "MF_MoissonneuseJoy"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_GobluALPHA": {
+        "Enemies": [
+            "GO_Goblu_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "GO_DemineurALPHA": {
+        "Enemies": [
+            "GO_Demineur_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "GO_CrulerALPHA*1_0": {
+        "Enemies": [
+            "GO_Cruler_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "GO_Bourgeon*1_BourgeonAlpha*1": {
+        "Enemies": [
+            "GO_Bourgeon",
+            "GO_Bourgeon_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SI_Ballet*1": {
+        "Enemies": [
+            "SI_Ballet"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SI_Ballet*2": {
+        "Enemies": [
+            "SI_Ballet",
+            "SI_Ballet_Melee"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SI_Ballet*3": {
+        "Enemies": [
+            "SI_Ballet",
+            "SI_Ballet_Melee",
+            "SI_Ballet"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SI_BalletALPHA*1": {
+        "Enemies": [
+            "SI_Ballet_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "MS_Monoco": {
+        "Enemies": [
+            "MS_Monoco"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "FB_Ramasseur*2": {
+        "Enemies": [
+            "FB_Ramasseur",
+            "FB_Ramasseur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_Ramasseur*3": {
+        "Enemies": [
+            "FB_Ramasseur",
+            "FB_Ramasseur",
+            "FB_Ramasseur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_Troubadour*1_Ramasseur*1": {
+        "Enemies": [
+            "FB_Troubadour",
+            "FB_Ramasseur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_Troubadour*1_Ramasseur*3": {
+        "Enemies": [
+            "FB_Troubadour",
+            "FB_Ramasseur",
+            "FB_Ramasseur",
+            "FB_Ramasseur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_Troubadour*1_ChalierSword*1": {
+        "Enemies": [
+            "FB_Troubadour",
+            "FB_ChalierSword"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_Troubadour*1_ChalierSpear*1": {
+        "Enemies": [
+            "FB_Troubadour",
+            "FB_ChalierSpear"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_ChalierSword*1_Ramasseur*2_Troubadour*1": {
+        "Enemies": [
+            "FB_ChalierSword",
+            "FB_Troubadour",
+            "FB_Ramasseur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_ChalierHammer*1_Ramasseur*1": {
+        "Enemies": [
+            "FB_ChalierHammer",
+            "FB_Ramasseur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_Benisseur*1_Ramasseur*1": {
+        "Enemies": [
+            "FB_Benisseur",
+            "FB_Ramasseur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_Benisseur*1_ChalierHammer*1": {
+        "Enemies": [
+            "FB_Benisseur",
+            "FB_ChalierHammer"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_ChalierSpear*1_Troubadour*1_Ramasseur*1": {
+        "Enemies": [
+            "FB_Troubadour",
+            "FB_Ramasseur",
+            "FB_ChalierSpear"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_Benisseur*1_Chaliersword*1_troubadour*1": {
+        "Enemies": [
+            "FB_Benisseur",
+            "FB_ChalierSword",
+            "FB_Troubadour"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_ChalierSpear*1_Troubadour*1_ChalierSword*1": {
+        "Enemies": [
+            "FB_Troubadour",
+            "FB_ChalierSword",
+            "FB_ChalierSpear"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_Benisseur*1_ChalierHammer*1_ChalierSpear*1": {
+        "Enemies": [
+            "FB_Benisseur",
+            "FB_ChalierHammer",
+            "FB_ChalierSpear"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_Benisseur*1_ChalierHammer*1_troubadour*1": {
+        "Enemies": [
+            "FB_Benisseur",
+            "FB_ChalierHammer",
+            "FB_Troubadour"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_ChalierHammer*1_ChalierSword*1_ChalierSpear*1": {
+        "Enemies": [
+            "FB_ChalierHammer",
+            "FB_ChalierSword",
+            "FB_ChalierSpear"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_ChalierHammer*1_ChalierSword*1_ChalierSpear*1_Benisseur*1": {
+        "Enemies": [
+            "FB_ChalierHammer",
+            "FB_ChalierSword",
+            "FB_ChalierSpear"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Demineur*2": {
+        "Enemies": [
+            "GO_Demineur",
+            "GO_Demineur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Luster*1_Demineur*1": {
+        "Enemies": [
+            "GO_Luster",
+            "GO_Demineur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Bruler*1_Demineur*1": {
+        "Enemies": [
+            "GO_Demineur",
+            "GO_Bruler"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Cruler*2": {
+        "Enemies": [
+            "GO_Cruler",
+            "GO_Cruler"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SM_EvequeFireALPHA*1": {
+        "Enemies": [
+            "SM_Boss_Eveque_Fire_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SM_EvequeIceALPHA*1": {
+        "Enemies": [
+            "SM_Boss_Eveque_Ice_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SM_EvequeLightningALPHA*1": {
+        "Enemies": [
+            "SM_Boss_Eveque_Lightning_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SI_Glissando*1": {
+        "Enemies": [
+            "SI_Glissando"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SI_Axon_Sirene": {
+        "Enemies": [
+            "SI_Axon_Sirene"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "MF_Axon_Visages": {
+        "Enemies": [
+            "MF_Axon_Visages"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SI_BalletSummon*3": {
+        "Enemies": [
+            "SI_Ballet_Melee",
+            "SI_Ballet_Melee",
+            "SI_Ballet_Melee"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SI_BalletSummon*2": {
+        "Enemies": [
+            "SI_Ballet_Melee",
+            "SI_Ballet_Melee"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SI_BalletSummon*1": {
+        "Enemies": [
+            "SI_Ballet_Melee"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RE_OrphelinHammer*1": {
+        "Enemies": [
+            "RE_OrphelinHammer"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RE_OrphelinSpoon*1": {
+        "Enemies": [
+            "RE_OrphelinSpoon"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RE_OrphelinNail*1": {
+        "Enemies": [
+            "RE_OrphelinNail"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "Quest_WeaponlessChalier*1": {
+        "Enemies": [
+            "Quest_WeaponlessChalier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Quest_DemineurWithMine*1": {
+        "Enemies": [
+            "Quest_DemineurWithMine"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Quest_DemineurWithoutMine*1": {
+        "Enemies": [
+            "Quest_DemineurWithoutMine"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SI_Tisseur": {
+        "Enemies": [
+            "SI_Tisseur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "QUEST_Danseuse_DanceClass*1": {
+        "Enemies": [
+            "QUEST_Danseuse_DanceClass"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "QUEST_JarNeedLight*1": {
+        "Enemies": [
+            "QUEST_JarNeedLight"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "RC_Alicia": {
+        "Enemies": [
+            "RC_Alicia"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SL_Sapling_CrushingWalls_0": {
+        "Enemies": [
+            "SL_Sapling_CrushingWall"
+        ],
+        "Level": 0,
+        "CanRetry": false,
+        "CantFlee": true
+    },
+    "L_LumiereCitizenGunSword_Female": {
+        "Enemies": [
+            "L_LumiereCitizen_GunSword_Female"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "Portier_DoorSoul": {
+        "Enemies": [
+            "Portier_DoorSoul"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "L_Boss_Paintress_P1": {
+        "Enemies": [
+            "MO_Boss_Paintress"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "L_Boss_Curator_P1": {
+        "Enemies": [
+            "L_Boss_Curator"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "FB_Duallist_Phase2*1": {
+        "Enemies": [
+            "FB_Dualliste_Phase2"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "MF_ANGRY_BoucheclierMaskAnger*3_0": {
+        "Enemies": [
+            "MF_Boucheclier_MaskAnger",
+            "MF_Chapelier",
+            "MF_Moissonneuse"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "MF_SADNESS_Chapelier_MaskSadness*3": {
+        "Enemies": [
+            "MF_Chapelier_MaskSadness",
+            "MF_Moissonneuse",
+            "MF_Boucheclier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "MF_JOY_Moissonneuse_MaskJoy*3_0": {
+        "Enemies": [
+            "MF_MoissonneuseMaskJoy",
+            "MF_Boucheclier",
+            "MF_Chapelier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SC_Hexga*1": {
+        "Enemies": [
+            "SC_Hexga"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_Hexga*1_DualSwordCultist*2": {
+        "Enemies": [
+            "SC_Hexga",
+            "SC_CultistDualSword",
+            "SC_CultistDualSword"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "Merchant_GoblusLair": {
+        "Enemies": [
+            "Merchant_GoblusLair"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Merchant_GestralVillage1": {
+        "Enemies": [
+            "Merchant_GestralVillage1"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Merchant_GestralVillage2": {
+        "Enemies": [
+            "Merchant_GestralVillage2"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Merchant_GestralVillage3": {
+        "Enemies": [
+            "Merchant_GestralVillage3",
+            "Merchant_GestralVillage3_Minions",
+            "Merchant_GestralVillage3_Minions"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Merchant_SeaCliff": {
+        "Enemies": [
+            "Merchant_SeaCliff"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Merchant_ForgottenBattlefield": {
+        "Enemies": [
+            "Merchant_ForgottenBattlefield"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Merchant_GrandisStation": {
+        "Enemies": [
+            "Merchant_GrandisStation"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Merchant_OldLumiere": {
+        "Enemies": [
+            "Merchant_OldLumiere"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Merchant_Visages": {
+        "Enemies": [
+            "Merchant_Visages"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Merchant_Sirene": {
+        "Enemies": [
+            "Merchant_Sirene"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Merchant_Monolith": {
+        "Enemies": [
+            "Merchant_Monolith"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Merchant_Lumiere": {
+        "Enemies": [
+            "Merchant_Lumiere"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Merchant_YellowForest": {
+        "Enemies": [
+            "Merchant_YellowForest"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Merchant_OrangeForest": {
+        "Enemies": [
+            "Merchant_OrangeForest"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Merchant_MonocosMountain": {
+        "Enemies": [
+            "Merchant_MonocosMountain"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Merchant_Reacher": {
+        "Enemies": [
+            "Merchant_Reacher"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Merchant_CleaIsland": {
+        "Enemies": [
+            "Merchant_CleaIsland",
+            "MM_Danseuse",
+            "MM_Danseuse"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Merchant_Optional1": {
+        "Enemies": [
+            "Merchant_Optional1"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Merchant_Optional2": {
+        "Enemies": [
+            "Merchant_Optional2"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Merchant_Optional3": {
+        "Enemies": [
+            "Merchant_Optional3",
+            "RD_Aberration",
+            "RD_Contorsionniste"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "MirrorRenoirCloneObscure": {
+        "Enemies": [
+            "MirrorRenoirCloneObscure"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "FinalBossVerso": {
+        "Enemies": [
+            "FinalBoss_Verso"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "FinalBossMaelle": {
+        "Enemies": [
+            "FinalBoss_Maelle"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "QUEST_Gestral_OnoPuncho": {
+        "Enemies": [
+            "Quest_GestralSumo9999"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "QUEST_PotatoBag_Boss_Upgraded": {
+        "Enemies": [
+            "AS_PotatoBag_Boss_Quest"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "ML_PaintressIntro": {
+        "Enemies": [
+            "ML_PaintressIntro"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "L_MaelleTutorial*1": {
+        "Enemies": [
+            "L_MaelleTutorial"
+        ],
+        "Level": 2,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "MirrorRenoirCloneClaire": {
+        "Enemies": [
+            "MirrorRenoirCloneClaire"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SI_Benisseur*1": {
+        "Enemies": [
+            "SI_Benisseur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SI_Benisseur*2": {
+        "Enemies": [
+            "SI_Benisseur",
+            "SI_Benisseur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SI_Benisseur*1_Ballet*2": {
+        "Enemies": [
+            "SI_Benisseur",
+            "SI_Ballet_Melee",
+            "SI_Ballet_Melee"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Cruler_JumpTutorial*1": {
+        "Enemies": [
+            "GO_Cruler_JumpTutorial"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "MF_Axon_MaskKeeper_VisagesPhase2*1": {
+        "Enemies": [
+            "MF_Axon_MaskKeeper_VisagesPhase2"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SI_Chorale*1": {
+        "Enemies": [
+            "SI_Chorale"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SI_Chorale*1_Ballet*1": {
+        "Enemies": [
+            "SI_Chorale",
+            "SI_Ballet"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SI_Chorale*1_Ballet*2": {
+        "Enemies": [
+            "SI_Chorale",
+            "SI_Ballet",
+            "SI_Ballet_Melee"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SI_Chorale*2_Ballet*1": {
+        "Enemies": [
+            "SI_Chorale",
+            "SI_Ballet",
+            "SI_Ballet_Melee"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "OL_MirrorRenoir_FirstFight": {
+        "Enemies": [
+            "OL_MirrorRenoir_FirstFight"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "FB_Chalier_GradientCounterTutorial*1": {
+        "Enemies": [
+            "FB_Chalier_GradientCounterTutorial"
+        ],
+        "Level": 0,
+        "CanRetry": false,
+        "CantFlee": true
+    },
+    "OL_VersoDisappears_Chevaliere*2": {
+        "Enemies": [
+            "YF_Chevaliere_A",
+            "YF_Chevaliere_B"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "GV_Sciel*1": {
+        "Enemies": [
+            "GV_Sciel_Arena"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "MM_Stalact_GradientAttackTutorial*1": {
+        "Enemies": [
+            "MM_Stalact_GradientAttackTutorial"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "GO_Bruler*1Luster*1Demineur*1": {
+        "Enemies": [
+            "GO_Bruler",
+            "GO_Luster",
+            "GO_Demineur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Bruler*2Luster*1": {
+        "Enemies": [
+            "GO_Bruler",
+            "GO_Luster",
+            "GO_Bruler"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Cruler*1Demineur*1": {
+        "Enemies": [
+            "GO_Cruler",
+            "GO_Demineur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Cruler*1Bruler*1": {
+        "Enemies": [
+            "GO_Cruler",
+            "GO_Bruler"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Cruler*1Demineur*2": {
+        "Enemies": [
+            "GO_Cruler",
+            "GO_Demineur",
+            "GO_Demineur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Bruler*1Demineur*2": {
+        "Enemies": [
+            "GO_Bruler",
+            "GO_Demineur",
+            "GO_Demineur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SM_Abbest*1Volester*1": {
+        "Enemies": [
+            "SM_Abbest",
+            "SM_Volester"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SM_Abbest*1Volester*2": {
+        "Enemies": [
+            "SM_Abbest",
+            "SM_Volester",
+            "SM_Volester"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "AS_PotatoBagRanger*1PotatobagMage*1": {
+        "Enemies": [
+            "AS_PotatoBag_Ranger",
+            "AS_PotatoBag_Mage"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_CultistFlying*1DualSword*1": {
+        "Enemies": [
+            "SC_CultistFlying",
+            "SC_CultistDualSword"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_CultistDualSword*1HeavyCultist*1": {
+        "Enemies": [
+            "SC_CultistDualSword",
+            "SC_CultistHeavy"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_CultistFlying*1Dual*2": {
+        "Enemies": [
+            "SC_CultistFlying",
+            "SC_CultistDualSword",
+            "SC_CultistDualSword"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_CultistFlying*2Dual*1": {
+        "Enemies": [
+            "SC_CultistFlying",
+            "SC_CultistDualSword",
+            "SC_CultistFlying"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_CultistHeavy*1Flying*1": {
+        "Enemies": [
+            "SC_CultistHeavy",
+            "SC_CultistFlying"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_Hexga*1_DualSwordCultist*1": {
+        "Enemies": [
+            "SC_Hexga",
+            "SC_CultistDualSword"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_ChalierSword*1Ramasseur*1": {
+        "Enemies": [
+            "FB_ChalierSword",
+            "FB_Ramasseur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_ChalierSword*1Ramasseur*2": {
+        "Enemies": [
+            "FB_ChalierSword",
+            "FB_Ramasseur",
+            "FB_Ramasseur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_Troubadour*1ChevaliereA*1": {
+        "Enemies": [
+            "FB_Troubadour",
+            "YF_Chevaliere_A"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_Troubadour*1ChevaliereB*1": {
+        "Enemies": [
+            "FB_Troubadour",
+            "YF_Chevaliere_B"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_Troubadour*1ChevaliereB*1ChevaliereA*1": {
+        "Enemies": [
+            "FB_Troubadour",
+            "YF_Chevaliere_B",
+            "YF_Chevaliere_A"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RE_OrphelinHammer*1_OrphelinSpoon*1_OrphelinNail*1": {
+        "Enemies": [
+            "RE_OrphelinSpoon",
+            "RE_OrphelinNail",
+            "RE_OrphelinHammer"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RE_OrphelinHammer*1_OrphelinSpoon*1": {
+        "Enemies": [
+            "RE_OrphelinSpoon",
+            "RE_OrphelinHammer"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RE_OrphelinHammer*1__OrphelinNail*1": {
+        "Enemies": [
+            "RE_OrphelinHammer",
+            "RE_OrphelinNail"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RE_OrphelinSpoon*1_OrphelinNail*1_0": {
+        "Enemies": [
+            "RE_OrphelinSpoon",
+            "RE_OrphelinNail"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "QUEST_SleepingBenisseur*1": {
+        "Enemies": [
+            "QUEST_SleepingBenisseur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "QUEST_HexgaLuster*1": {
+        "Enemies": [
+            "QUEST_HexgaLuster"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "QUEST_TroubadourCantPlay*1": {
+        "Enemies": [
+            "QUEST_TroubadourCantPlay"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "RE_Echassier*1": {
+        "Enemies": [
+            "RE_Echassier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RE_Echassier*1_OrphelinNail*1_OrphelinSpoon*1": {
+        "Enemies": [
+            "RE_Echassier",
+            "RE_OrphelinHammer",
+            "RE_OrphelinNail"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RE_Echassier*2": {
+        "Enemies": [
+            "RE_Echassier",
+            "RE_Echassier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RE_Echassier*1_OrphelinHammer*1": {
+        "Enemies": [
+            "RE_Echassier",
+            "RE_OrphelinHammer"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_GrossTete*1": {
+        "Enemies": [
+            "MF_GrossTete"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RF_ChevaliereC": {
+        "Enemies": [
+            "YF_Chevaliere_C"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "QUEST_GrownBourgeon": {
+        "Enemies": [
+            "GO_Bourgeon_Quest"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "WM_Sprong": {
+        "Enemies": [
+            "WM_Sprong"
+        ],
+        "Level": 70,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SC_LampMaster": {
+        "Enemies": [
+            "SC_LampMaster"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "QUEST_JudgeOfMercy*1": {
+        "Enemies": [
+            "QUEST_JudgeOfMercy"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "QUEST_Golgra_DarkArena*1": {
+        "Enemies": [
+            "QUEST_Golgra_DarkArena"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "QUEST_Golgra_SacredRiver*1": {
+        "Enemies": [
+            "QUEST_Golgra_SacredRiver"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "ML_Obscur": {
+        "Enemies": [
+            "ML_Obscur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Clair": {
+        "Enemies": [
+            "ML_Clair"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_ClairObscur": {
+        "Enemies": [
+            "ML_ClairObscur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_Moissonneuse*1_Chapelier*2": {
+        "Enemies": [
+            "MF_Moissonneuse",
+            "MF_Chapelier",
+            "MF_Chapelier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "Petank_Blue": {
+        "Enemies": [
+            "Petank_Blue"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "Petank_Green": {
+        "Enemies": [
+            "Petank_Green"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "Petank_Orange": {
+        "Enemies": [
+            "Petank_Orange"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "Petank_Red": {
+        "Enemies": [
+            "Petank_Red"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "Petank_Violet": {
+        "Enemies": [
+            "Petank_Violet"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "Petank_Yellow": {
+        "Enemies": [
+            "Petank_Yellow"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_Creation": {
+        "Enemies": [
+            "L_Creation"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_Aberration": {
+        "Enemies": [
+            "L_Aberration"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_Aberration*2": {
+        "Enemies": [
+            "L_Aberration",
+            "L_Aberration"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_Aberration*3": {
+        "Enemies": [
+            "L_Aberration",
+            "L_Aberration",
+            "L_Aberration"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SI_Ballet_Melee*1": {
+        "Enemies": [
+            "SI_Ballet_Melee"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_Rocher*1": {
+        "Enemies": [
+            "SC_Rocher"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_Rocher*2": {
+        "Enemies": [
+            "SC_Rocher",
+            "SC_Rocher"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_Rocher*3": {
+        "Enemies": [
+            "SC_Rocher",
+            "SC_Rocher",
+            "SC_Rocher"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_Rocher*1_Hexga*1": {
+        "Enemies": [
+            "SC_Rocher",
+            "SC_Hexga"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_Rocher*2_Hexga*1": {
+        "Enemies": [
+            "SC_Hexga",
+            "SC_Rocher",
+            "SC_Rocher"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_Rocher*1_CultistFlying*1": {
+        "Enemies": [
+            "SC_Rocher",
+            "SC_CultistFlying"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_Rocher*1_CultistFlying*1_CultistHeavy*1": {
+        "Enemies": [
+            "SC_CultistHeavy",
+            "SC_CultistFlying",
+            "SC_Rocher"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_Rocher*1_HExga*1_CultistHeavy*1": {
+        "Enemies": [
+            "SC_Hexga",
+            "SC_CultistHeavy",
+            "SC_Rocher"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_LumiereCitizenMage_Female": {
+        "Enemies": [
+            "L_LumiereCitizen_Mage_Female"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_LumiereCitizenFleuret_Female": {
+        "Enemies": [
+            "L_LumiereCitizen_Fleuret_Female"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_Aberration*1_MageFemale*1": {
+        "Enemies": [
+            "L_LumiereCitizen_Mage_Female",
+            "L_Aberration"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_Aberration*1*LumiereCitizenGunSwordMale*1_GunSwordFemale*1_MageFemale*1": {
+        "Enemies": [
+            "L_Aberration",
+            "L_LumiereCitizen_Fleuret_Male",
+            "L_LumiereCitizen_GunSword_Female"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_Aberration*2_LumiereCitizenGunSwordFemale": {
+        "Enemies": [
+            "L_LumiereCitizen_GunSword_Female",
+            "L_Aberration",
+            "L_Aberration"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_LumiereCitizenGunSword_Female*1_GunSwordFemale*1_MageFemale*1": {
+        "Enemies": [
+            "L_LumiereCitizen_Fleuret_Female",
+            "L_LumiereCitizen_Mage_Female",
+            "L_LumiereCitizen_GunSword_Female"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_LumiereCitizenGunSword_Female*1_L_LumiereCitizenMage_Male*1": {
+        "Enemies": [
+            "L_LumiereCitizen_Mage_Male",
+            "L_LumiereCitizen_GunSword_Female"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_Aberration*1_L_LumiereCitizenMage_Male*1_L_LumiereCitizenGunSword_Male*1": {
+        "Enemies": [
+            "L_Aberration",
+            "L_LumiereCitizen_Mage_Male",
+            "L_LumiereCitizen_GunSword_Male"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_LumiereCitizenGunSword_Female*1_GunSwordFemale*1_MageFemale*1_Magemale*1": {
+        "Enemies": [
+            "L_LumiereCitizen_Mage_Male",
+            "L_LumiereCitizen_Mage_Female",
+            "L_LumiereCitizen_Fleuret_Female"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_Aberration*3_0": {
+        "Enemies": [
+            "L_Aberration",
+            "L_Aberration",
+            "L_Aberration"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_LumiereCitizenFleuret_Male*1": {
+        "Enemies": [
+            "L_LumiereCitizen_Fleuret_Male"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_Creation*1_Aberration*2": {
+        "Enemies": [
+            "L_Creation",
+            "L_Aberration",
+            "L_Aberration"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Curator_JumpTutorial*1": {
+        "Enemies": [
+            "GO_Curator_JumpTutorial"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Test_Gargant_mobs": {
+        "Enemies": [
+            "MM_Gargant",
+            "MM_Braseleur",
+            "MM_Pelerin"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "OF_Glaise*1_Sapling*1": {
+        "Enemies": [
+            "YF_Glaise",
+            "YF_Sapling"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "OF_Glaise*1_Sapling*2": {
+        "Enemies": [
+            "YF_Sapling",
+            "YF_Sapling",
+            "YF_Glaise"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "OF_Glaise*2": {
+        "Enemies": [
+            "YF_Glaise",
+            "YF_Glaise"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "OF_Sapling*3": {
+        "Enemies": [
+            "YF_Sapling",
+            "YF_Sapling",
+            "YF_Sapling"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "OF_BalletAlpha": {
+        "Enemies": [
+            "SI_Ballet_ALPHA_Charm",
+            "SI_Ballet_ALPHA_Melee",
+            "SI_Ballet_ALPHA_Range"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "YF_GlaiseBoss*1": {
+        "Enemies": [
+            "YF_Glaise_Boss"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TS_PotatoBagTankTwilight*1": {
+        "Enemies": [
+            "TS_PotatoBag_Tank_Twilight"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "TS_PotatoBagMageTwilight*1": {
+        "Enemies": [
+            "TS_PotatoBag_Mage_Twilight"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "TS_PotatoBagRangerTwilight*1": {
+        "Enemies": [
+            "TS_PotatoBag_Ranger_Twilight"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "TS_PotatoBagBossTwilight*1_Tank*1_Ranger*1": {
+        "Enemies": [
+            "TS_PotatoBag_Boss_Twilight",
+            "TS_PotatoBag_Ranger_Twilight",
+            "TS_PotatoBag_Tank_Twilight"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TS_PotatoBagTankTwilight*1_Mage*1": {
+        "Enemies": [
+            "TS_PotatoBag_Mage_Twilight",
+            "TS_PotatoBag_Tank_Twilight"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "TS_PotatoBagTankTwilight*1_Ranger*1": {
+        "Enemies": [
+            "TS_PotatoBag_Ranger_Twilight",
+            "TS_PotatoBag_Tank_Twilight"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "TS_PotatoBagRangerTwilight*1_Mage*1": {
+        "Enemies": [
+            "TS_PotatoBag_Mage_Twilight",
+            "TS_PotatoBag_Ranger_Twilight"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "TS_PotatoBagRangerTwilight*1_Mage*1_Tank*1": {
+        "Enemies": [
+            "TS_PotatoBag_Tank_Twilight",
+            "TS_PotatoBag_Mage_Twilight",
+            "TS_PotatoBag_Ranger_Twilight"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "TS_PotatoBagRangerTwilight*3": {
+        "Enemies": [
+            "TS_PotatoBag_Ranger_Twilight",
+            "TS_PotatoBag_Ranger_Twilight",
+            "TS_PotatoBag_Ranger_Twilight"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "TS_PotatoBagMageTwilight*2_Tank*1": {
+        "Enemies": [
+            "TS_PotatoBag_Mage_Twilight",
+            "TS_PotatoBag_Tank_Twilight",
+            "TS_PotatoBag_Mage_Twilight"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "TS_PotatoBagMageTwilight*2_Ranger*1": {
+        "Enemies": [
+            "TS_PotatoBag_Mage_Twilight",
+            "TS_PotatoBag_Ranger_Twilight",
+            "TS_PotatoBag_Mage_Twilight"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CFH_Boss_Eveque": {
+        "Enemies": [
+            "CFH_Boss_Eveque_Fire_ALPHA",
+            "CFH_Boss_Eveque_Ice_ALPHA",
+            "CFH_Boss_Eveque_Lightning_ALPHA"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "CFH_Boss_Goblu": {
+        "Enemies": [
+            "CFH_Goblu"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "CFH_Boss_Lampmaster": {
+        "Enemies": [
+            "CFH_LampMaster"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "CFH_Boss_Dualliste": {
+        "Enemies": [
+            "CFH_Dualliste"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "RE_Veilleur*1": {
+        "Enemies": [
+            "RE_Veilleur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RE_Veilleur*1_Orphelins*2": {
+        "Enemies": [
+            "RE_Veilleur",
+            "RE_OrphelinNail",
+            "RE_OrphelinHammer"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RE_Echassier*3": {
+        "Enemies": [
+            "RE_Echassier",
+            "RE_Echassier",
+            "RE_Echassier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RE_Echassier*2_OrphelinHammer*1": {
+        "Enemies": [
+            "RE_OrphelinHammer",
+            "RE_Echassier",
+            "RE_Echassier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RE_OrphelinNailBig*1": {
+        "Enemies": [
+            "RE_OrphelinNail_Big"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RE_OrphelinHammerBig*1": {
+        "Enemies": [
+            "RE_OrphelinHammer_Big"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RE_OrphelinSpoonBig*1": {
+        "Enemies": [
+            "RE_OrphelinSpoon_Big"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RE_OrphelinSpoonBig*1_HammerBig*1_NailBig*1": {
+        "Enemies": [
+            "RE_OrphelinHammer_Big",
+            "RE_OrphelinNail_Big",
+            "RE_OrphelinSpoon_Big"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RE_OrphelinSpoonBig*1_HammerBig*1": {
+        "Enemies": [
+            "RE_OrphelinHammer_Big",
+            "RE_OrphelinSpoon_Big"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RE_OrphelinSpoonBig*1_NailBig*1": {
+        "Enemies": [
+            "RE_OrphelinNail_Big",
+            "RE_OrphelinSpoon_Big"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RE_OrphelinSpoonBig*3": {
+        "Enemies": [
+            "RE_OrphelinSpoon_Big",
+            "RE_OrphelinSpoon_Big",
+            "RE_OrphelinSpoon_Big"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RE_OrphelinHammerBig*3": {
+        "Enemies": [
+            "RE_OrphelinHammer_Big",
+            "RE_OrphelinHammer_Big",
+            "RE_OrphelinHammer_Big"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RE_OrphelinHammerBig*2_Nail*1": {
+        "Enemies": [
+            "RE_OrphelinNail_Big",
+            "RE_OrphelinHammer_Big",
+            "RE_OrphelinHammer_Big"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RE_Veilleur*1_Echassier*2": {
+        "Enemies": [
+            "RE_Veilleur",
+            "RE_Echassier",
+            "RE_Echassier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_Aberration*1_LumiereCitizenGunSword_Male*1_LumiereCitizenGunSword_Female*1": {
+        "Enemies": [
+            "L_Aberration",
+            "L_LumiereCitizen_GunSword_Male",
+            "L_LumiereCitizen_Fleuret_Female"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_LumiereCitizenFleuret_Female*1_GunSwordMale*1": {
+        "Enemies": [
+            "L_LumiereCitizen_GunSword_Male",
+            "L_LumiereCitizen_Fleuret_Female"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_LumiereCitizenFleuret_Female*1_GunSwordFemale*1_MageFemale_1": {
+        "Enemies": [
+            "L_LumiereCitizen_Mage_Female",
+            "L_LumiereCitizen_GunSword_Female",
+            "L_LumiereCitizen_Fleuret_Female"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "LU_Ballet*1_OrphelinNail*1_Boucheclier*1": {
+        "Enemies": [
+            "SI_Ballet",
+            "MF_Boucheclier",
+            "RE_OrphelinNail"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "LU_Benisseur*1_Echassier*2": {
+        "Enemies": [
+            "SI_Benisseur",
+            "RE_Echassier",
+            "RE_Echassier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "LU_Contorsionniste*2_Chorale*1": {
+        "Enemies": [
+            "MF_Contorsionniste"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "LU_Aberration*1_BalletMelee*1_Moissoneuse*1": {
+        "Enemies": [
+            "L_Aberration",
+            "SI_Ballet_Melee",
+            "MF_Moissonneuse"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_Aberration*1_Chapelier*1_LumiereCitizenMageFemale*1": {
+        "Enemies": [
+            "L_Aberration",
+            "MF_Chapelier",
+            "L_LumiereCitizen_Mage_Female"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_Aberration*1_Contorsionniste*1": {
+        "Enemies": [
+            "L_Aberration",
+            "MF_Contorsionniste"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_Aberration*2_OrphelinHammerBig*1": {
+        "Enemies": [
+            "RE_OrphelinHammer_Big",
+            "L_Aberration",
+            "L_Aberration"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_Aberration*2_Contorsionniste*1": {
+        "Enemies": [
+            "MF_Contorsionniste",
+            "L_Aberration",
+            "L_Aberration"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_Aberration*1_LumiereCitizenFleuretMale*1": {
+        "Enemies": [
+            "L_Aberration",
+            "L_LumiereCitizen_Fleuret_Male"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "DarkGestralArena_Round1": {
+        "Enemies": [
+            "AS_PotatoBag_Mage_ALPHA",
+            "GA_GestralBuff",
+            "GA_GestralSumo"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "DarkGestralArena_Round2": {
+        "Enemies": [
+            "AS_PotatoBag_Ranger_ALPHA",
+            "GA_GestralSkinny",
+            "GA_GestralBaby"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "DarkGestralArena_Round3": {
+        "Enemies": [
+            "AS_PotatoBag_Tank_ALPHA",
+            "GA_GestralTall",
+            "GA_GestralTall"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "RT_ChevaliereWhite*2_Clair*1": {
+        "Enemies": [
+            "ML_Clair",
+            "YF_Chevaliere_A",
+            "YF_Chevaliere_A"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RT_ChevaliereWhite*1_Clair*1": {
+        "Enemies": [
+            "ML_Clair",
+            "YF_Chevaliere_A"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Clair*1_Obscure*1": {
+        "Enemies": [
+            "ML_Obscur",
+            "ML_Clair"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RT_Obscure*1_ChevaliereC*2": {
+        "Enemies": [
+            "ML_Obscur",
+            "YF_Chevaliere_C",
+            "YF_Chevaliere_C"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RT_ChevaliereB*1_Clair*1": {
+        "Enemies": [
+            "ML_Clair",
+            "YF_Chevaliere_B"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RT_ChevaliereB*1_Clair*1_ChevaliereWhite*1": {
+        "Enemies": [
+            "ML_Clair",
+            "YF_Chevaliere_B",
+            "YF_Chevaliere_A"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RD_Contorsionniste*3": {
+        "Enemies": [
+            "RD_Contorsionniste",
+            "RD_Contorsionniste",
+            "RD_Contorsionniste"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RD_Aberration*1_BalletRange*1_Benisseur*1": {
+        "Enemies": [
+            "RD_Aberration",
+            "RD_Ballet",
+            "RD_Benisseur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RD_Aberration*1_Chapelier*2": {
+        "Enemies": [
+            "RD_Aberration",
+            "RD_Chapelier",
+            "RD_Chapelier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RD_MoissoneuseAlpha*1_Moissoneuse*2": {
+        "Enemies": [
+            "MF_Moissonneuse_ALPHA",
+            "RD_Moissonneuse",
+            "RD_Moissonneuse"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "RE_Veilleur*1_Benisseur*2": {
+        "Enemies": [
+            "RE_Veilleur",
+            "SI_Benisseur",
+            "SI_Benisseur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RD_OrphelinHammer*1_OrphelinSpoon*1_Boucheclier*1": {
+        "Enemies": [
+            "MF_Boucheclier",
+            "RD_OrphelinSpoon",
+            "RD_OrphelinHammer"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RD_Creation*2": {
+        "Enemies": [
+            "RD_Creation",
+            "RD_Creation"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RD_Creation*1_Contorsionniste*1": {
+        "Enemies": [
+            "RD_Contorsionniste",
+            "RD_Creation"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RD_Echassier*2_Moissoneuse*1": {
+        "Enemies": [
+            "RD_Echassier",
+            "RD_Echassier",
+            "RD_Moissonneuse"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RD_CreationAlpha": {
+        "Enemies": [
+            "RD_Creation_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "L_Aberration*2_Veilleur*1": {
+        "Enemies": [
+            "RD_Veilleur",
+            "L_Aberration",
+            "L_Aberration"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RD_Echassier*1_Boucheclier*1_Benisseur*1": {
+        "Enemies": [
+            "RD_Benisseur",
+            "RD_Echassier",
+            "RD_Boucheclier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "DS_Noire*3": {
+        "Enemies": [
+            "DS_Noire",
+            "DS_Noire",
+            "DS_Noire"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "DS_Noire*2": {
+        "Enemies": [
+            "DS_Noire",
+            "DS_Noire"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "DS_Noire*1": {
+        "Enemies": [
+            "DS_Noire"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_ChalierSword*1_Boucheclier*1_Rocher*1": {
+        "Enemies": [
+            "MF_Boucheclier",
+            "FB_ChalierSword",
+            "SC_Rocher"
+        ],
+        "Level": 56,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Portier*2_Bruler*1": {
+        "Enemies": [
+            "GO_Bruler",
+            "SM_Portier",
+            "SM_Portier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "WM_OrphelinSpoonBig*1_HammerBig*1_PotatoBagTank*1": {
+        "Enemies": [
+            "AS_PotatoBag_Tank",
+            "RE_OrphelinSpoon_Big",
+            "RE_OrphelinHammer_Big"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "WM_Troubadour*1_Volester*1": {
+        "Enemies": [
+            "FB_Troubadour",
+            "SM_Volester"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "WM_Contorsioniste*1_CultistFlying*1_Braseleur*1": {
+        "Enemies": [
+            "MF_Contorsionniste",
+            "SC_CultistFlying",
+            "MM_Braseleur"
+        ],
+        "Level": 37,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Moissoneuse*1_Jar*1_Abbest*1": {
+        "Enemies": [
+            "SM_Abbest",
+            "MF_Moissonneuse",
+            "YF_Jar"
+        ],
+        "Level": 30,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Veilleur*1_Pelerin*1_PotatoBagMage*1": {
+        "Enemies": [
+            "RE_Veilleur",
+            "AS_PotatoBag_Mage",
+            "MM_Pelerin"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "WM_CultistHeavy*1_Ramasseur*1_Gault*1": {
+        "Enemies": [
+            "SC_CultistHeavy",
+            "FB_Ramasseur",
+            "YF_Gault_AlternativD"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "WM_Echassier*1_Ballet*1_Sapling*1": {
+        "Enemies": [
+            "RE_Echassier",
+            "SI_Ballet",
+            "YF_Sapling_AlternativeB"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Boss_Simon*1": {
+        "Enemies": [
+            "Boss_Simon"
+        ],
+        "Level": 0,
+        "CanRetry": false,
+        "CantFlee": true
+    },
+    "SC_MirrorRenoir_GustaveEnd": {
+        "Enemies": [
+            "SC_MirrorRenoir_GustaveEnd"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "WM_Potier*1_Glaise*1_Volester*1": {
+        "Enemies": [
+            "YF_Glaise",
+            "YF_Potier",
+            "SM_Volester_AlternativC"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "WM_Demineur*1_Hexga*1_Demineur*1": {
+        "Enemies": [
+            "SC_Hexga",
+            "GO_Demineur",
+            "GO_Demineur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "WM_Benisseur*1_Chapelier*1_Stalact*1": {
+        "Enemies": [
+            "MM_Stalact",
+            "FB_Benisseur",
+            "MF_Chapelier"
+        ],
+        "Level": 87,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "OL_MirrorRenoirHealingSources*2": {
+        "Enemies": [
+            "OL_MirrorRenoir_HealingSource",
+            "OL_MirrorRenoir_HealingSource"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SC_CultistFlying*2": {
+        "Enemies": [
+            "SC_CultistFlying",
+            "SC_CultistFlying"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_CultistHeavy*1Flying*2": {
+        "Enemies": [
+            "SC_CultistHeavy",
+            "SC_CultistFlying",
+            "SC_CultistFlying"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_CultistHeavy*2": {
+        "Enemies": [
+            "SC_CultistHeavy",
+            "SC_CultistHeavy"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_Hexga*1_Rocher*2": {
+        "Enemies": [
+            "SC_Hexga",
+            "SC_Rocher",
+            "SC_Rocher"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_CultistHeavy*1_Rocher*2": {
+        "Enemies": [
+            "SC_CultistHeavy",
+            "SC_Rocher",
+            "SC_Rocher"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_CultistHeavy*1_Rocher*1_CultistFluing*1": {
+        "Enemies": [
+            "SC_CultistHeavy",
+            "SC_Rocher",
+            "SC_CultistFlying"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_CultistHeavy*2_Rocher*1": {
+        "Enemies": [
+            "SC_CultistHeavy",
+            "SC_CultistHeavy",
+            "SC_Rocher"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_Rocher*2_CultistFlying*1": {
+        "Enemies": [
+            "SC_CultistFlying",
+            "SC_Rocher",
+            "SC_Rocher"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_Hexga*1_Rocher*1_CultistHeavy*1": {
+        "Enemies": [
+            "SC_Hexga",
+            "SC_CultistHeavy",
+            "SC_Rocher"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SC_Hexga*1_CultistHeavy*2": {
+        "Enemies": [
+            "SC_Hexga",
+            "SC_CultistHeavy",
+            "SC_CultistHeavy"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "Mime*1": {
+        "Enemies": [
+            "Mime"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "Mime*1_Lancelier*2": {
+        "Enemies": [
+            "Mime",
+            "SM_Lancelier",
+            "SM_Lancelier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CT_MaskKeeper_NoMask*1": {
+        "Enemies": [
+            "CT_MaskKeeper_NoMask"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "QUEST_MonocoDuel": {
+        "Enemies": [
+            "QUEST_MonocoDuel"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "QUEST_FrancoisDuel": {
+        "Enemies": [
+            "QUEST_FrancoisDuel"
+        ],
+        "Level": 0,
+        "CanRetry": false,
+        "CantFlee": true
+    },
+    "CFH_Boss_Clea": {
+        "Enemies": [
+            "CFH_Boss_Clea"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "FB_Prologue_Verso": {
+        "Enemies": [
+            "Prologue_Verso"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CW_Boss_LampmasterAlpha": {
+        "Enemies": [
+            "CW_LampMasterAlpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "ML_Lancelier_Gold*1": {
+        "Enemies": [
+            "ML_Lancelier_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Portier_Gold*1": {
+        "Enemies": [
+            "ML_Portier_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Volester*2_Lancelier*1": {
+        "Enemies": [
+            "ML_Lancelier_Gold",
+            "ML_Volester_Gold",
+            "ML_Volester_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Portier*1_Lancelier*1_Volester*1": {
+        "Enemies": [
+            "ML_Portier_Gold",
+            "ML_Lancelier_Gold",
+            "ML_Volester_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Abbest*1_Volester*1_Lancelier*1": {
+        "Enemies": [
+            "ML_Abbest_Gold",
+            "ML_Volester_Gold",
+            "ML_Lancelier_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Portier*1_Lancelier*2": {
+        "Enemies": [
+            "ML_Portier_Gold",
+            "ML_Lancelier_Gold",
+            "ML_Lancelier_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Portier*1_Lancelier*1_Abbest*1": {
+        "Enemies": [
+            "ML_Portier_Gold",
+            "ML_Lancelier_Gold",
+            "ML_Abbest_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Bruler*2_Cruler*1": {
+        "Enemies": [
+            "ML_Bruler_Gold",
+            "ML_Bruler_Gold",
+            "ML_Cruler_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Cruler*1_Luster*2": {
+        "Enemies": [
+            "ML_Cruler_Gold",
+            "ML_Luster_Gold",
+            "ML_Luster_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Demineur*3": {
+        "Enemies": [
+            "ML_Demineur_Gold",
+            "ML_Demineur_Gold",
+            "ML_Demineur_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Luster*3": {
+        "Enemies": [
+            "ML_Luster_Gold",
+            "ML_Luster_Gold",
+            "ML_Luster_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Bruler*1Luster*2": {
+        "Enemies": [
+            "ML_Bruler_Gold",
+            "ML_Luster_Gold",
+            "ML_Luster_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Luster*2_Demineur*1": {
+        "Enemies": [
+            "ML_Luster_Gold",
+            "ML_Luster_Gold",
+            "ML_Demineur_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Bruler*1_Cruler*1_Demineur*1": {
+        "Enemies": [
+            "ML_Bruler_Gold",
+            "ML_Cruler_Gold",
+            "ML_Demineur_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Cruler*1_Demineur*2": {
+        "Enemies": [
+            "ML_Cruler_Gold",
+            "ML_Demineur_Gold",
+            "ML_Demineur_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Bruler*1_Luster*1_Demineur*1": {
+        "Enemies": [
+            "ML_Bruler_Gold",
+            "ML_Luster_Gold",
+            "ML_Demineur_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Eveque*1": {
+        "Enemies": [
+            "ML_Eveque_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_PotatoBagTank*1": {
+        "Enemies": [
+            "ML_PotatoBag_Tank_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_PotatoBagMage*1": {
+        "Enemies": [
+            "ML_PotatoBag_Mage_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_PotatoBagRanger*1": {
+        "Enemies": [
+            "ML_PotatoBag_Ranger_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_CultistHeavy*3": {
+        "Enemies": [
+            "ML_CultistHeavy_Gold",
+            "ML_CultistHeavy_Gold",
+            "ML_CultistHeavy_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Rocher*2_Hexga*1": {
+        "Enemies": [
+            "ML_Hexga_Gold",
+            "ML_Rocher_Gold",
+            "ML_Rocher_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Rocher*1_CultistFlying*1_CultistHeavy*1": {
+        "Enemies": [
+            "ML_Rocher_Gold",
+            "ML_CultistFlying_Gold",
+            "ML_Rocher_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Rocher*1_Hexga*1_CultistHeavy*1": {
+        "Enemies": [
+            "ML_Rocher_Gold",
+            "ML_Hexga_Gold",
+            "ML_CultistHeavy_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_CultistHeavy*1Flying*2": {
+        "Enemies": [
+            "ML_CultistHeavy_Gold",
+            "ML_CultistFlying_Gold",
+            "ML_CultistFlying_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_CultistHeavy*1_Rocher*2": {
+        "Enemies": [
+            "ML_CultistHeavy_Gold",
+            "ML_Rocher_Gold",
+            "ML_Rocher_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Hexga*1_Rocher*1_CultistHeavy*1": {
+        "Enemies": [
+            "ML_Hexga_Gold",
+            "ML_Rocher_Gold",
+            "ML_CultistHeavy_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Troubadour*1_Ramasseur*2": {
+        "Enemies": [
+            "ML_Troubadour_Gold",
+            "ML_Ramasseur_Gold",
+            "ML_Ramasseur_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Ramasseur*3": {
+        "Enemies": [
+            "ML_Ramasseur_Gold",
+            "ML_Ramasseur_Gold",
+            "ML_Ramasseur_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_ChalierSword*1_Ramasseur*2": {
+        "Enemies": [
+            "ML_ChalierSword_Gold",
+            "ML_Ramasseur_Gold",
+            "ML_Ramasseur_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_ChalierSword*2_Troubadour*1": {
+        "Enemies": [
+            "ML_Troubadour_Gold",
+            "ML_ChalierSword_Gold",
+            "ML_ChalierSword_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_ChalierSword*1_Ramasseur*1_Troubadour*1": {
+        "Enemies": [
+            "ML_ChalierSword_Gold",
+            "ML_Troubadour_Gold",
+            "ML_Ramasseur_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Danseuse*1_Braseleur*2": {
+        "Enemies": [
+            "ML_Danseuse_Gold",
+            "ML_Braseleur_Gold",
+            "ML_Braseleur_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Gargant": {
+        "Enemies": [
+            "ML_Gargant_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "ML_Danseuse*1_Braseleur*1_Stalact*1": {
+        "Enemies": [
+            "ML_Danseuse_Gold",
+            "ML_Braseleur_Gold",
+            "ML_Stalact_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Pelerin*1_Danseuse*1_Braseleur*1": {
+        "Enemies": [
+            "ML_Pelerin_Gold",
+            "ML_Danseuse_Gold",
+            "ML_Braseleur_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Stalact*1_Braseleur*1_Pelerin*1": {
+        "Enemies": [
+            "ML_Stalact_Gold",
+            "ML_Braseleur_Gold",
+            "ML_Pelerin_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Bourgeon*1": {
+        "Enemies": [
+            "ML_Bourgeon_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "L_MaelleTutorial*1_NoTutorialVersion": {
+        "Enemies": [
+            "L_MaelleTutorial_NoTutorial"
+        ],
+        "Level": 2,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "RF_ChevaliereCAlpha_Clair_Obscur": {
+        "Enemies": [
+            "YF_Chevaliere_C_Alpha",
+            "ML_Clair",
+            "ML_Obscur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "RT_Obscur*1_ChevaliereAAlpha*1_ChevaliereBAlpha*1": {
+        "Enemies": [
+            "ML_Obscur",
+            "YF_Chevaliere_A_Alpha",
+            "YF_Chevaliere_B_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "WM_MimeBald*1": {
+        "Enemies": [
+            "WM_Mime_Bald"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GV_Golgra": {
+        "Enemies": [
+            "GV_Golgra"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "MM_ClairObscurAlpha": {
+        "Enemies": [
+            "MM_ClairObscurAlpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "ML_Volester*2_Clair*1": {
+        "Enemies": [
+            "ML_Clair",
+            "ML_Volester_Gold",
+            "ML_Volester_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Bruler*1_Cruler*1_Obscur*1": {
+        "Enemies": [
+            "ML_Obscur",
+            "ML_Bruler_Gold",
+            "ML_Cruler_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_PotatoBagRanger*1_Mage*1_Clair*1": {
+        "Enemies": [
+            "ML_Clair",
+            "ML_PotatoBag_Ranger_Gold",
+            "ML_PotatoBag_Mage_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Obscur*1_Hexga*1_CultistHeavy*1": {
+        "Enemies": [
+            "ML_Hexga_Gold",
+            "ML_Obscur",
+            "ML_CultistHeavy_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Obscur*1_Braseleur*1_Dancer*1": {
+        "Enemies": [
+            "ML_Obscur",
+            "ML_Braseleur_Gold",
+            "ML_Danseuse_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Clair*1_Obscure*1_CLairObscur*1": {
+        "Enemies": [
+            "ML_ClairObscur",
+            "ML_Clair",
+            "ML_Obscur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Clair*1_Chalier*1_Troubadour*1": {
+        "Enemies": [
+            "ML_Clair",
+            "ML_ChalierSword_Gold",
+            "ML_Troubadour_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_ChalierSpear*1_Troubadour*1_ChalierSword*1": {
+        "Enemies": [
+            "ML_Troubadour_Gold",
+            "ML_ChalierSword_Gold",
+            "ML_ChalierSpear_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_CultistFlying*3": {
+        "Enemies": [
+            "ML_CultistFlying_Gold",
+            "ML_CultistFlying_Gold",
+            "ML_CultistFlying_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_CultistHeavy*2": {
+        "Enemies": [
+            "ML_CultistHeavy_Gold",
+            "ML_CultistHeavy_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_PotatoBagRanger*1_Mage*1": {
+        "Enemies": [
+            "ML_PotatoBag_Ranger_Gold",
+            "ML_PotatoBag_Mage_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_PotatoBagRanger*1_Tank*1": {
+        "Enemies": [
+            "ML_PotatoBag_Ranger_Gold",
+            "ML_PotatoBag_Tank_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_PotatoBagMage*2": {
+        "Enemies": [
+            "ML_PotatoBag_Mage_Gold",
+            "ML_PotatoBag_Mage_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_PotatoBagMage1_Tank*1": {
+        "Enemies": [
+            "ML_PotatoBag_Tank_Gold",
+            "ML_PotatoBag_Mage_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Danseuse*2_Pelerin*1": {
+        "Enemies": [
+            "ML_Pelerin_Gold",
+            "ML_Danseuse_Gold",
+            "ML_Danseuse_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Danseuse*1_Pelerin*1_Braseleur*1": {
+        "Enemies": [
+            "ML_Pelerin_Gold",
+            "ML_Braseleur_Gold",
+            "ML_Danseuse_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_PotatoBagBoss*1_Mage*2": {
+        "Enemies": [
+            "ML_PotatoBag_Boss_Gold",
+            "ML_PotatoBag_Mage_Gold",
+            "ML_PotatoBag_Mage_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_ChevaliereC*1_B*2": {
+        "Enemies": [
+            "ML_ChevaliereC_Gold",
+            "ML_ChevaliereB_Gold",
+            "ML_ChevaliereB_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_ChevaliereC*1_A*2": {
+        "Enemies": [
+            "ML_ChevaliereC_Gold",
+            "ML_ChevaliereA_Gold",
+            "ML_ChevaliereA_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_ChevaliereC*1_A*1_B*1": {
+        "Enemies": [
+            "ML_ChevaliereC_Gold",
+            "ML_ChevaliereB_Gold",
+            "ML_ChevaliereA_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_ChevaliereC*2": {
+        "Enemies": [
+            "ML_ChevaliereC_Gold",
+            "ML_ChevaliereC_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Cruler*2": {
+        "Enemies": [
+            "ML_Cruler_Gold",
+            "ML_Cruler_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Danseuse*3": {
+        "Enemies": [
+            "ML_Danseuse_Gold",
+            "ML_Danseuse_Gold",
+            "ML_Danseuse_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_ChevaliereC*1_Clair*1_Obscur*1": {
+        "Enemies": [
+            "ML_Clair",
+            "ML_Obscur",
+            "ML_ChevaliereC_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_ChevaliereC*1_A*1_Clair*1": {
+        "Enemies": [
+            "ML_ChevaliereA_Gold",
+            "ML_Obscur",
+            "ML_ChevaliereC_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SM_Mime*1": {
+        "Enemies": [
+            "SM_Mime"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "YF_Mime*1": {
+        "Enemies": [
+            "YF_Mime"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Mime*1": {
+        "Enemies": [
+            "GO_Mime"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Clair*1_Obscure*1_Mime*1": {
+        "Enemies": [
+            "ML_Mime",
+            "ML_Clair",
+            "ML_Obscur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SL_GlissandoAlpha*1": {
+        "Enemies": [
+            "SI_Glissando_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "LU_EchassierAlpha*1": {
+        "Enemies": [
+            "LU_EchassierAlpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "L_Aberration*2_Creation*1": {
+        "Enemies": [
+            "L_Creation",
+            "L_Aberration",
+            "L_Aberration"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "LU_Act1_PunchingBall": {
+        "Enemies": [
+            "LU_Act1_PunchingBall"
+        ],
+        "Level": 1,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "LU_Act1_Sophie": {
+        "Enemies": [
+            "LU_Act1_Sophie"
+        ],
+        "Level": 1,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "LU_Act1_Mime": {
+        "Enemies": [
+            "LU_Act1_Mime"
+        ],
+        "Level": 1,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "LU_Act1_MaelleTutorialCivilian": {
+        "Enemies": [
+            "L_MaelleTutorial_Civilian"
+        ],
+        "Level": 1,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "LU_Act1_MaelleNoTutorialCivilian": {
+        "Enemies": [
+            "L_MaelleTutorial_NoTutorial_Civilian"
+        ],
+        "Level": 1,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SM_FirstLancelierNoTuto*1": {
+        "Enemies": [
+            "SM_FirstLancelier_NoTuto"
+        ],
+        "Level": 1,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SM_Eveque_ShieldTutorial*1": {
+        "Enemies": [
+            "SM_Boss_Eveque_ShieldTutorial"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SM_FirstPortier_NoTuto*1": {
+        "Enemies": [
+            "SM_First_Portier_NoTuto"
+        ],
+        "Level": 1,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "FB_Chalier_GradientCounterTutorial_NoTuto*1": {
+        "Enemies": [
+            "FB_Chalier_GradientCounterTutorial_Notuto"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "GO_Curator_JumpTutorial_NoTuto*1": {
+        "Enemies": [
+            "GO_Curator_JumpTutorial_NoTuto"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SM_Volester_TutoFlying*1": {
+        "Enemies": [
+            "SM_Volester",
+            "SM_Volester",
+            "SM_Volester_TutoFlying"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "QUEST_DominiqueGiantFeet_ScielTuto*1": {
+        "Enemies": [
+            "GV_GestralScielTuto"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "MM_Pelerin_MonocoTuto*1": {
+        "Enemies": [
+            "MM_Pelerin_MonocoTuto"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Boss_SimonPhase2*1": {
+        "Enemies": [
+            "Boss_Simon_Phase2"
+        ],
+        "Level": 0,
+        "CanRetry": false,
+        "CantFlee": true
+    },
+    "EN_Mime*1": {
+        "Enemies": [
+            "EN_Mime"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SI_DarkBalletSummon*3": {
+        "Enemies": [
+            "SI_DarkBallet",
+            "SI_DarkBallet",
+            "SI_DarkBallet"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_ANGRY_Moissoneuse*2_Contorsionniste*1": {
+        "Enemies": [
+            "MF_Contorsionniste",
+            "MF_Moissonneuse",
+            "MF_Moissonneuse"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_PetankAlpha": {
+        "Enemies": [
+            "WM_Petank_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "QUEST_Rocher_HexgaQuest*1": {
+        "Enemies": [
+            "QUEST_Rocher_HexgaQuest"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SC_Hexga_Alpha*1": {
+        "Enemies": [
+            "SC_Hexga_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SI_Mime*1": {
+        "Enemies": [
+            "SI_Mime"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_Mime*1": {
+        "Enemies": [
+            "MF_Mime"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_SADNESS_Chapelier*1_Moissoneuse*2": {
+        "Enemies": [
+            "MF_ChapelierSadness",
+            "MF_Moissonneuse",
+            "MF_Moissonneuse"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_ANGRY_Boucheclier*2": {
+        "Enemies": [
+            "MF_BoucheclierAnger",
+            "MF_BoucheclierAnger"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MF_ANGRY_Boucheclier*2_Chapelier*1": {
+        "Enemies": [
+            "MF_BoucheclierAnger",
+            "MF_Chapelier",
+            "MF_BoucheclierAnger"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "AS_Mime*1": {
+        "Enemies": [
+            "AS_Mime"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_Aberration_Alpha": {
+        "Enemies": [
+            "L_Aberration_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "L_ChromaFleuret*1_Mage*1_Contorsionist*1": {
+        "Enemies": [
+            "MF_Contorsionniste",
+            "L_LumiereCitizen_Fleuret_Female",
+            "L_LumiereCitizen_Mage_Female"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "L_Aberration*1_BigOrphelinHammer*1": {
+        "Enemies": [
+            "L_Aberration",
+            "RE_OrphelinHammer_Big"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CAMP_PunchingBall": {
+        "Enemies": [
+            "LU_Act1_PunchingBall"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RE_VeilleurAlpha": {
+        "Enemies": [
+            "RE_Veilleur_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "RE_OrphelinAlpha": {
+        "Enemies": [
+            "RE_OrphelinHammer_Alpha",
+            "RE_OrphelinNail_Alpha",
+            "RE_OrphelinSpoon_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "MF_ContorsionnisteALPHA": {
+        "Enemies": [
+            "MF_Contorsionniste_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "CFH_Mime*1": {
+        "Enemies": [
+            "CFH_Mime"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_Mime*1": {
+        "Enemies": [
+            "MM_Mime"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "OL_Mime*1": {
+        "Enemies": [
+            "OL_Mime"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RE_Mime*1": {
+        "Enemies": [
+            "RE_Mime"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CP_CultistHeavy*1": {
+        "Enemies": [
+            "SC_CultistHeavy"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "CP_Glaise*1": {
+        "Enemies": [
+            "CP_Glaise"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "CP_Stalact": {
+        "Enemies": [
+            "CP_Stalact"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "CP_Jar*1": {
+        "Enemies": [
+            "CP_Jar"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "CP_Chapelier*1": {
+        "Enemies": [
+            "MF_Chapelier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "CFH_ChevaliereB*2": {
+        "Enemies": [
+            "YF_Chevaliere_B",
+            "YF_Chevaliere_B"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CFH_Hexga*1_Portier*1": {
+        "Enemies": [
+            "SC_Hexga",
+            "SM_Portier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_ChalierSpear*1_Ramasseur*1_ChalierSword*1": {
+        "Enemies": [
+            "FB_Ramasseur",
+            "FB_ChalierSword",
+            "FB_ChalierSpear"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "FB_ChalierHammer*1_ChalierSword*1": {
+        "Enemies": [
+            "FB_ChalierSword",
+            "FB_ChalierHammer"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CC_Cruler*1Bruler*1": {
+        "Enemies": [
+            "CC_Cruler",
+            "CC_Bruler"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "FC_ChalierSpear*1": {
+        "Enemies": [
+            "FC_ChalierSpear"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "FC_ChalierSword*1": {
+        "Enemies": [
+            "FC_ChalierSword"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "FC_ChalierHammer*1": {
+        "Enemies": [
+            "FC_ChalierHammer"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "MM_Braseleur*2_Pelerin*1": {
+        "Enemies": [
+            "MM_Braseleur",
+            "MM_Braseleur",
+            "MM_Pelerin"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_Pelerin*2_Danseuse*1": {
+        "Enemies": [
+            "MM_Danseuse",
+            "MM_Pelerin",
+            "MM_Pelerin"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_Danseuse*2": {
+        "Enemies": [
+            "MM_Danseuse",
+            "MM_Danseuse"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_Braseleur*1_Danseuse*1": {
+        "Enemies": [
+            "MM_Braseleur",
+            "MM_Danseuse"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "Merchant_TwilightSanctuary": {
+        "Enemies": [
+            "Merchant_TwilightSanctuary",
+            "TS_PotatoBag_Ranger_Twilight"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "SI_Benisseur*1_Ballet*1_Chorale*1": {
+        "Enemies": [
+            "SI_Benisseur",
+            "SI_Ballet",
+            "SI_Chorale"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "ML_Lancelier*3": {
+        "Enemies": [
+            "ML_Lancelier_Gold",
+            "ML_Lancelier_Gold",
+            "ML_Lancelier_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CP_Contorsionniste": {
+        "Enemies": [
+            "CP_Contorsionniste"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "CP_Benisseur": {
+        "Enemies": [
+            "CP_Benisseur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "CFH_Glaise*1_Sapling*2": {
+        "Enemies": [
+            "YF_Glaise",
+            "YF_Sapling",
+            "YF_Sapling"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CFH_Bourgeon": {
+        "Enemies": [
+            "GO_Bourgeon"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "CFH_Jar*1_ChevaliereA*2": {
+        "Enemies": [
+            "YF_Jar",
+            "YF_Chevaliere_A",
+            "YF_Chevaliere_A"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CFH_Cruler*1_ChevaliereB*2": {
+        "Enemies": [
+            "GO_Cruler",
+            "YF_Chevaliere_B",
+            "YF_Chevaliere_B"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CFH_Stalact*1_Glaise*1": {
+        "Enemies": [
+            "YF_Glaise",
+            "MM_Stalact"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CFH_ChevaliereC*2": {
+        "Enemies": [
+            "YF_Chevaliere_C",
+            "YF_Chevaliere_C"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CFH_ChalierSword*1_Hexga*1_Lancelier*1": {
+        "Enemies": [
+            "SC_Hexga",
+            "FB_ChalierSword",
+            "SM_Lancelier"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CFH_Cruler*1_Troubadour*1_GaultB*1": {
+        "Enemies": [
+            "GO_Cruler",
+            "FB_Troubadour",
+            "YF_GaultB"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CFH_Jar*1_Ramasseur*2": {
+        "Enemies": [
+            "YF_Jar",
+            "FB_Ramasseur",
+            "FB_Ramasseur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CFH_Bourgeon_*1_ChevaliereB*2": {
+        "Enemies": [
+            "GO_Bourgeon",
+            "YF_Chevaliere_B",
+            "YF_Chevaliere_B"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "CFH_ChevaliereB*2_CultistHeavy*1": {
+        "Enemies": [
+            "SC_CultistHeavy",
+            "YF_Chevaliere_B",
+            "YF_Chevaliere_B"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CFH_Cruler*1_CultistFlying*2": {
+        "Enemies": [
+            "GO_Cruler",
+            "SC_CultistFlying",
+            "SC_CultistFlying"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CFH_Portier*1_Pelerin*2": {
+        "Enemies": [
+            "SM_Portier",
+            "MM_Pelerin",
+            "MM_Pelerin"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CFH_Gargant*1_Danseuse*2": {
+        "Enemies": [
+            "CFH_Gargant",
+            "MM_Danseuse",
+            "MM_Danseuse"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "CFH_Hexga*1_Braseleur*1_Pelerin*1": {
+        "Enemies": [
+            "SC_Hexga",
+            "MM_Braseleur",
+            "MM_Pelerin"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CFH_CultistHeavy*1_Ramasseur*2": {
+        "Enemies": [
+            "SC_CultistHeavy",
+            "FB_Ramasseur",
+            "FB_Ramasseur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CFH_Jar*2": {
+        "Enemies": [
+            "YF_Jar",
+            "YF_Jar"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CFH_ChevaliereC*1_ChalierSpear*1_ChalierHammer*1": {
+        "Enemies": [
+            "YF_Chevaliere_C",
+            "FB_ChalierHammer",
+            "FB_ChalierSpear"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CFH_Bourgeon*1_Troubadour*1_Pelerin*1": {
+        "Enemies": [
+            "GO_Bourgeon",
+            "FB_Troubadour",
+            "MM_Pelerin"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "CFH_ChevaliereB*1_ChevaliereA*2": {
+        "Enemies": [
+            "YF_Chevaliere_B",
+            "YF_Chevaliere_A",
+            "YF_Chevaliere_A"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CFH_Gargant": {
+        "Enemies": [
+            "CFH_Gargant"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "CFH_Bourgeon*1_Ramasseur*1_Danseuse*1": {
+        "Enemies": [
+            "GO_Bourgeon",
+            "FB_Ramasseur",
+            "MM_Danseuse"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "RF_ChevaliereC_Obscur": {
+        "Enemies": [
+            "YF_Chevaliere_C",
+            "ML_Obscur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RF_ChevaliereC_Obscur_Clair": {
+        "Enemies": [
+            "YF_Chevaliere_C",
+            "ML_Clair",
+            "ML_Obscur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RF_ChevaliereC*3": {
+        "Enemies": [
+            "YF_Chevaliere_C",
+            "YF_Chevaliere_C",
+            "YF_Chevaliere_C"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RF_ChevaliereC*2_Obscur": {
+        "Enemies": [
+            "ML_Obscur",
+            "YF_Chevaliere_C",
+            "YF_Chevaliere_C"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "GO_Cruler*3": {
+        "Enemies": [
+            "GO_Cruler",
+            "GO_Cruler",
+            "GO_Cruler"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CFH_Cruler*1_Abbest*2": {
+        "Enemies": [
+            "GO_Cruler",
+            "SM_Abbest",
+            "SM_Abbest"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CFH_Cruler*1_Demineur*1_Volester*1": {
+        "Enemies": [
+            "GO_Cruler",
+            "GO_Demineur",
+            "SM_Volester"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RD_Veilleur*1_Benisseur*2": {
+        "Enemies": [
+            "RD_Veilleur",
+            "RD_Benisseur",
+            "RD_Benisseur"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "RD_Aberration*2_Veilleur*1": {
+        "Enemies": [
+            "RD_Veilleur",
+            "RD_Aberration",
+            "RD_Aberration"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "QUEST_Danseuse_DanceClass_Kill*1": {
+        "Enemies": [
+            "QUEST_Danseuse_DanceClass_Kill"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "QUEST_TroubadourCantPlay_Kill*1": {
+        "Enemies": [
+            "QUEST_TroubadourCantPlay_Kill"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "QUEST_Danseuse_DanceClass_Clone*1": {
+        "Enemies": [
+            "QUEST_Danseuse_DanceClass_Clone"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "AS_PotatoBagTank*1_IntroFight": {
+        "Enemies": [
+            "AS_PotatoBag_Tank"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "GO_Bruler*2": {
+        "Enemies": [
+            "GO_Bruler",
+            "GO_Bruler"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_Danseuse*1_Braseleur*1_Pelerin*1": {
+        "Enemies": [
+            "MM_Danseuse",
+            "MM_Braseleur",
+            "MM_Pelerin"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_Braseleur*1_Pelerin*2": {
+        "Enemies": [
+            "MM_Braseleur",
+            "MM_Pelerin",
+            "MM_Pelerin"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_Danseuse*3": {
+        "Enemies": [
+            "MM_Danseuse",
+            "MM_Danseuse",
+            "MM_Danseuse"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_Danseuse*2_Pelerin*1": {
+        "Enemies": [
+            "MM_Pelerin",
+            "MM_Danseuse",
+            "MM_Danseuse"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_Danseuse*2_Braseleur*1": {
+        "Enemies": [
+            "MM_Braseleur",
+            "MM_Danseuse",
+            "MM_Danseuse"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_Pelerin*2_Braseleur*1": {
+        "Enemies": [
+            "MM_Braseleur",
+            "MM_Pelerin",
+            "MM_Pelerin"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "MM_Stalact*1_Pelerin*2": {
+        "Enemies": [
+            "MM_Stalact",
+            "MM_Pelerin",
+            "MM_Pelerin"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "SM_AbbestGold*2": {
+        "Enemies": [
+            "ML_Abbest_Gold",
+            "ML_Abbest_Gold"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "CFH_GrossTete*1": {
+        "Enemies": [
+            "CFH_GrossTete"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "Boss_SimonALPHA*1": {
+        "Enemies": [
+            "Boss_Simon_ALPHA"
+        ],
+        "Level": 99,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Boss_LampmasterALPHA": {
+        "Enemies": [
+            "Boss_LampMaster_ALPHA"
+        ],
+        "Level": 99,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Boss_Duolliste_P1": {
+        "Enemies": [
+            "Duolliste_A",
+            "Duolliste_B"
+        ],
+        "Level": 99,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Boss_Duolliste_P2": {
+        "Enemies": [
+            "Duolliste_P2"
+        ],
+        "Level": 99,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Boss_Clea_ALPHA": {
+        "Enemies": [
+            "Boss_Clea_ALPHA"
+        ],
+        "Level": 99,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "VD_Licorne*1": {
+        "Enemies": [
+            "VD_Licorne"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "VD_LicorneAlpha*1": {
+        "Enemies": [
+            "VD_Licorne_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "VD_Barbasucette*1": {
+        "Enemies": [
+            "VD_Barbasucette"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "VD_BarbasucetteAlpha*1": {
+        "Enemies": [
+            "VD_Barbasucette_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "VD_GestralBalloon*1": {
+        "Enemies": [
+            "VD_GestralBalloon"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "VD_Franctale*1": {
+        "Enemies": [
+            "VD_Franctale"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "VD_Franctale_Alpha*1": {
+        "Enemies": [
+            "VD_Franctale_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "VD_Machinapieds*1": {
+        "Enemies": [
+            "VD_Machinapieds"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "VD_licornapieds*1": {
+        "Enemies": [
+            "VD_Licornapieds"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "VD_Osquio*1": {
+        "Enemies": [
+            "VD_Osquio"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Quest_FeintFight": {
+        "Enemies": [
+            "Quest_FeintFight"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "VD_Licorne*3": {
+        "Enemies": [
+            "VD_Licorne",
+            "VD_Licorne",
+            "VD_Licorne"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "VD_Machinapied*1_Franctale*1": {
+        "Enemies": [
+            "VD_Machinapieds",
+            "VD_Franctale"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "VD_Machinapied*1_Barbasucette*1": {
+        "Enemies": [
+            "VD_Machinapieds",
+            "VD_Barbasucette"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "VD_Barbasucette*2": {
+        "Enemies": [
+            "VD_Barbasucette",
+            "VD_Barbasucette"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "VD_Licorne*2_Barbasucette*1": {
+        "Enemies": [
+            "VD_Barbasucette",
+            "VD_Licorne",
+            "VD_Licorne"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "VD_Barbasucette*1_Franctale*1": {
+        "Enemies": [
+            "VD_Barbasucette",
+            "VD_Franctale"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "VD_Licorne*2": {
+        "Enemies": [
+            "VD_Licorne",
+            "VD_Licorne"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "VD_Licorne*2_Franctale*1": {
+        "Enemies": [
+            "VD_Franctale",
+            "VD_Licorne",
+            "VD_Licorne"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "VD_Licorne*1_Franctale*1_Barbasucette*1": {
+        "Enemies": [
+            "VD_Franctale",
+            "VD_Licorne",
+            "VD_Barbasucette"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "VD_FranctaleAlpha*1": {
+        "Enemies": [
+            "VD_Franctale_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "VD_Quest_GestralSeesaw": {
+        "Enemies": [
+            "VD_Quest_GestralSeesaw"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "Merchant_VersosDraft": {
+        "Enemies": [
+            "Merchant_VersosDraft"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "VD_MachinapiedsAlpha*1": {
+        "Enemies": [
+            "VD_Machinapieds_Alpha"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "VD_Mime*1": {
+        "Enemies": [
+            "VD_Mime"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "VD_Licorne*1_Machinapieds*1_Barbasucette*1": {
+        "Enemies": [
+            "VD_Machinapieds",
+            "VD_Licorne",
+            "VD_Barbasucette"
+        ],
+        "Level": 0,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_EvequeIce_Alpha": {
+        "Enemies": [
+            "SM_Boss_Eveque_Ice_ALPHA"
+        ],
+        "Level": 50,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "WM_EvequeLighting_Alpha": {
+        "Enemies": [
+            "SM_Boss_Eveque_Lightning_ALPHA"
+        ],
+        "Level": 85,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "WM_Bruler_Alpha": {
+        "Enemies": [
+            "GO_Bruler_Alpha"
+        ],
+        "Level": 24,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "WM_CultistFlying_Alpha": {
+        "Enemies": [
+            "SC_CultistFlying_ALPHA"
+        ],
+        "Level": 34,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "WM_Demineur_Alpha": {
+        "Enemies": [
+            "GO_Demineur_Alpha"
+        ],
+        "Level": 68,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "WM_Goblu_Alpha": {
+        "Enemies": [
+            "GO_Goblu_Alpha"
+        ],
+        "Level": 90,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "WM_GrossTete": {
+        "Enemies": [
+            "MF_GrossTete"
+        ],
+        "Level": 45,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "WM_Petank_Alpha": {
+        "Enemies": [
+            "WM_Petank_Alpha"
+        ],
+        "Level": 87,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "WM_Serpenphare": {
+        "Enemies": [
+            "WM_Serpenphare"
+        ],
+        "Level": 90,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "WM_Gault_Alpha": {
+        "Enemies": [
+            "YF_GaultB_Alpha"
+        ],
+        "Level": 45,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "WM_Veilleur*1_Pelerin*1_ChalierHammer": {
+        "Enemies": [
+            "RE_Veilleur",
+            "FB_ChalierHammer",
+            "MM_Pelerin"
+        ],
+        "Level": 87,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Stalact_Ballet_Sapling": {
+        "Enemies": [
+            "MM_Stalact",
+            "SI_Ballet",
+            "YF_Sapling"
+        ],
+        "Level": 42,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Volester_Abbest_Lancelier": {
+        "Enemies": [
+            "SM_Lancelier",
+            "SM_Abbest",
+            "SM_Volester"
+        ],
+        "Level": 6,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Portier_Abbest_Volester": {
+        "Enemies": [
+            "SM_Portier",
+            "SM_Volester",
+            "SM_Abbest"
+        ],
+        "Level": 6,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Bruler_Luster_Portier": {
+        "Enemies": [
+            "SM_Portier",
+            "GO_Luster",
+            "GO_Bruler"
+        ],
+        "Level": 10,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Gault_CultistFlying_Portier": {
+        "Enemies": [
+            "SM_Portier",
+            "SC_CultistFlying",
+            "YF_GaultA"
+        ],
+        "Level": 21,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_CultistHeavy_Abbest_Bruler": {
+        "Enemies": [
+            "SC_CultistHeavy",
+            "SM_Abbest",
+            "GO_Bruler"
+        ],
+        "Level": 21,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Jar_Volester_Luster": {
+        "Enemies": [
+            "YF_Jar",
+            "SM_Volester",
+            "GO_Luster"
+        ],
+        "Level": 21,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Bourgeon_Rocher_Potier": {
+        "Enemies": [
+            "GO_Bourgeon",
+            "SC_Rocher",
+            "YF_Potier"
+        ],
+        "Level": 28,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Gault_Lancelier_CultistHeavy": {
+        "Enemies": [
+            "YF_GaultA",
+            "SM_Lancelier",
+            "SC_CultistHeavy"
+        ],
+        "Level": 22,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Bourgeon_Benisseur_OrphelinNailBig": {
+        "Enemies": [
+            "GO_Bourgeon",
+            "SI_Benisseur",
+            "RE_OrphelinNail_Big"
+        ],
+        "Level": 67,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Hexga_Bruler_Volester": {
+        "Enemies": [
+            "SC_Hexga",
+            "GO_Bruler",
+            "SM_Volester"
+        ],
+        "Level": 28,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_ChalierSpear_Jar_Cruler": {
+        "Enemies": [
+            "FB_ChalierSpear",
+            "YF_Jar",
+            "GO_Cruler"
+        ],
+        "Level": 23,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_ChalierHammer_Rocher_Abbest": {
+        "Enemies": [
+            "FB_ChalierHammer",
+            "SC_Rocher",
+            "SM_Abbest"
+        ],
+        "Level": 24,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Troubadour_Gault_Demineur": {
+        "Enemies": [
+            "FB_Troubadour",
+            "YF_GaultA",
+            "GO_Demineur"
+        ],
+        "Level": 23,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Troubadour_Luster_CultistFlying": {
+        "Enemies": [
+            "FB_Troubadour",
+            "GO_Luster",
+            "SC_CultistFlying"
+        ],
+        "Level": 23,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Ramasseur_Abbest_Potier": {
+        "Enemies": [
+            "FB_Ramasseur",
+            "SM_Abbest",
+            "YF_Potier"
+        ],
+        "Level": 32,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Noire_Danseuse_Benisseur": {
+        "Enemies": [
+            "DS_Noire",
+            "MM_Danseuse",
+            "SI_Benisseur"
+        ],
+        "Level": 57,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Rocher_Lancelier_Luster": {
+        "Enemies": [
+            "SC_Rocher",
+            "SM_Lancelier",
+            "GO_Luster"
+        ],
+        "Level": 18,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Cruler_Lancelier_Demineur": {
+        "Enemies": [
+            "GO_Cruler",
+            "SM_Lancelier",
+            "GO_Demineur"
+        ],
+        "Level": 16,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Bourgeon_Volester_Gault": {
+        "Enemies": [
+            "GO_Bourgeon",
+            "SM_Volester",
+            "YF_GaultA"
+        ],
+        "Level": 23,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Pelerin_CultistHeavy_Ramasseur": {
+        "Enemies": [
+            "MM_Pelerin",
+            "SC_CultistHeavy",
+            "FB_Ramasseur"
+        ],
+        "Level": 26,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Stalact_Bruler_ChevaliereA": {
+        "Enemies": [
+            "MM_Stalact",
+            "GO_Bruler",
+            "YF_Chevaliere_A"
+        ],
+        "Level": 32,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_ChevaliereB_Chorale_Troubadour": {
+        "Enemies": [
+            "YF_Chevaliere_B",
+            "FB_Troubadour",
+            "SI_Chorale"
+        ],
+        "Level": 32,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Pelerin_CultistFlying_ChalierSword": {
+        "Enemies": [
+            "MM_Pelerin",
+            "SC_CultistFlying",
+            "FB_ChalierSword"
+        ],
+        "Level": 26,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Hexga_Portier_ChevaliereA": {
+        "Enemies": [
+            "SC_Hexga",
+            "SM_Portier",
+            "YF_Chevaliere_A"
+        ],
+        "Level": 26,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Bourgeon_Ramasseur_Danseuse": {
+        "Enemies": [
+            "GO_Bourgeon",
+            "FB_Ramasseur",
+            "MM_Danseuse"
+        ],
+        "Level": 26,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Sapling_Rocher_Braseleur": {
+        "Enemies": [
+            "YF_Sapling",
+            "SC_Rocher",
+            "MM_Braseleur"
+        ],
+        "Level": 30,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Stalact_Glaise_Echassier": {
+        "Enemies": [
+            "MM_Stalact",
+            "YF_Glaise",
+            "RE_Echassier"
+        ],
+        "Level": 67,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_ChevaliereC_Glaise_OrphelinSpoonBig": {
+        "Enemies": [
+            "YF_Chevaliere_C",
+            "YF_Glaise",
+            "RE_OrphelinSpoon_Big"
+        ],
+        "Level": 87,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Mime_Mime": {
+        "Enemies": [
+            "WM_Mime_01",
+            "WM_Mime_02"
+        ],
+        "Level": 37,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Boucheclier_ChevaliereA_Potier": {
+        "Enemies": [
+            "MF_Boucheclier",
+            "YF_Chevaliere_A",
+            "YF_Potier"
+        ],
+        "Level": 31,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Ballet_Demineur_CultistHeavy": {
+        "Enemies": [
+            "SI_Ballet",
+            "GO_Demineur",
+            "SC_CultistHeavy"
+        ],
+        "Level": 36,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Hexga_Troubadour_ChevaliereA": {
+        "Enemies": [
+            "SC_Hexga",
+            "FB_Troubadour",
+            "YF_Chevaliere_A"
+        ],
+        "Level": 42,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Chapelier_Sapling_Gault": {
+        "Enemies": [
+            "MF_Chapelier",
+            "YF_Sapling",
+            "YF_GaultA"
+        ],
+        "Level": 30,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Jar_Contorsioniste_Blacksmith": {
+        "Enemies": [
+            "MF_Contorsionniste",
+            "YF_Jar",
+            "MM_Braseleur"
+        ],
+        "Level": 67,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Glaise_Moissoneuse_Benisseur": {
+        "Enemies": [
+            "YF_Glaise",
+            "SI_Benisseur",
+            "MF_Moissonneuse"
+        ],
+        "Level": 67,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Noire_ChevaliereC_OrphelinHammerBig": {
+        "Enemies": [
+            "DS_Noire",
+            "YF_Chevaliere_C",
+            "RE_OrphelinHammer_Big"
+        ],
+        "Level": 87,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Hexga_Glaise_Veilleur": {
+        "Enemies": [
+            "YF_Glaise",
+            "RE_Veilleur",
+            "SC_Hexga"
+        ],
+        "Level": 87,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_Portier_Alpha": {
+        "Enemies": [
+            "SM_Portier_ALPHA"
+        ],
+        "Level": 68,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "WM_Cruler*1_CultistFlying*1_Braseleur*1": {
+        "Enemies": [
+            "GO_Cruler",
+            "SC_CultistFlying",
+            "MM_Braseleur"
+        ],
+        "Level": 30,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "WM_MoissoneuseAlpha": {
+        "Enemies": [
+            "MF_Moissonneuse_ALPHA"
+        ],
+        "Level": 50,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "WM_BenisseurAlpha": {
+        "Enemies": [
+            "FB_Benisseur_Alpha"
+        ],
+        "Level": 80,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "WM_Abbest_Lancelier_Luster": {
+        "Enemies": [
+            "SM_Abbest",
+            "SM_Lancelier",
+            "GO_Luster"
+        ],
+        "Level": 11,
+        "CanRetry": true,
+        "CantFlee": false
+    },
+    "TowerBattle_1": {
+        "Enemies": [
+            "GO_Luster",
+            "FB_Ramasseur",
+            "YF_GaultB"
+        ],
+        "Level": 61,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_2": {
+        "Enemies": [
+            "YF_Chevaliere_A",
+            "SC_CultistHeavy",
+            "YF_Potier"
+        ],
+        "Level": 62,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_3": {
+        "Enemies": [
+            "FB_Dualliste_CleasTower",
+            "GO_Luster",
+            "FB_Troubadour"
+        ],
+        "Level": 63,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_4": {
+        "Enemies": [
+            "FB_Benisseur",
+            "SM_Volester",
+            "GO_Demineur"
+        ],
+        "Level": 64,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_5": {
+        "Enemies": [
+            "MF_ChapelierSadness",
+            "SI_Ballet",
+            "SC_CultistFlying"
+        ],
+        "Level": 65,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_6": {
+        "Enemies": [
+            "SC_LampMaster_CleasTower",
+            "RE_Echassier",
+            "YF_Potier"
+        ],
+        "Level": 66,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_7": {
+        "Enemies": [
+            "SC_Hexga",
+            "GO_Cruler",
+            "YF_GaultA"
+        ],
+        "Level": 67,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_8": {
+        "Enemies": [
+            "FB_Benisseur_Alpha",
+            "ML_Clair",
+            "MF_BoucheclierAnger"
+        ],
+        "Level": 68,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_9": {
+        "Enemies": [
+            "GO_Goblu_CleaTower",
+            "SM_Abbest_Alpha",
+            "FB_Troubadour"
+        ],
+        "Level": 69,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_10": {
+        "Enemies": [
+            "RE_OrphelinHammer_Alpha",
+            "YF_Chevaliere_B",
+            "GO_Cruler"
+        ],
+        "Level": 70,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_11": {
+        "Enemies": [
+            "GO_Bourgeon",
+            "SC_Rocher",
+            "YF_Jar"
+        ],
+        "Level": 71,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_12": {
+        "Enemies": [
+            "LU_EchassierAlpha",
+            "AS_PotatoBag_Mage",
+            "MF_MoissonneuseJoy"
+        ],
+        "Level": 72,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_13": {
+        "Enemies": [
+            "RE_Veilleur_Alpha",
+            "RE_OrphelinNail",
+            "GO_Bruler"
+        ],
+        "Level": 73,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_14": {
+        "Enemies": [
+            "SC_CultistHeavy_Alpha",
+            "RE_OrphelinSpoon",
+            "YF_Sapling"
+        ],
+        "Level": 74,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_15": {
+        "Enemies": [
+            "L_Aberration_Alpha",
+            "RE_OrphelinHammer",
+            "FB_Troubadour_Alpha"
+        ],
+        "Level": 75,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_16": {
+        "Enemies": [
+            "MM_Stalact",
+            "SM_Portier",
+            "MM_Danseuse"
+        ],
+        "Level": 76,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_17": {
+        "Enemies": [
+            "MM_Braseleur_ALPHA",
+            "YF_Glaise",
+            "MM_Pelerin"
+        ],
+        "Level": 77,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_18": {
+        "Enemies": [
+            "MM_Gargant",
+            "SM_Portier",
+            "DS_Noire"
+        ],
+        "Level": 78,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_19": {
+        "Enemies": [
+            "SM_Boss_Eveque_Fire_ALPHA_CleaTower",
+            "MM_Danseuse",
+            "MM_Pelerin"
+        ],
+        "Level": 79,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_20": {
+        "Enemies": [
+            "YF_Chevaliere_C_Alpha",
+            "L_Aberration",
+            "GO_Bruler_ALPHA"
+        ],
+        "Level": 80,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_21": {
+        "Enemies": [
+            "AS_PotatoBag_Boss",
+            "GO_Luster_Alpha_CleasTower",
+            "MM_Danseuse"
+        ],
+        "Level": 81,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_22": {
+        "Enemies": [
+            "EN_Francois",
+            "AS_PotatoBag_Tank",
+            "FB_Troubadour"
+        ],
+        "Level": 82,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_23": {
+        "Enemies": [
+            "SM_Lancelier_Alpha",
+            "MF_ChapelierSadness",
+            "MF_Boucheclier_ALPHA"
+        ],
+        "Level": 83,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_24": {
+        "Enemies": [
+            "AS_PotatoBag_Boss",
+            "YF_Glaise_ALPHA",
+            "ML_Obscur"
+        ],
+        "Level": 84,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_25": {
+        "Enemies": [
+            "SM_Boss_Eveque_Earth_ALPHA",
+            "MM_Braseleur",
+            "SI_Ballet_ALPHA_Charm"
+        ],
+        "Level": 85,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_26": {
+        "Enemies": [
+            "SM_Boss_Eveque_Lightning_ALPHA",
+            "MM_Stalact",
+            "GO_Demineur_ALPHA"
+        ],
+        "Level": 86,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_27": {
+        "Enemies": [
+            "MM_Danseuse_Alpha",
+            "SM_Boss_Eveque_Fire_ALPHA_CleaTower",
+            "SM_Boss_Eveque_Ice_ALPHA_CleaTower"
+        ],
+        "Level": 87,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_28": {
+        "Enemies": [
+            "SM_Portier_ALPHA",
+            "GO_Demineur_ALPHA",
+            "ML_Clair"
+        ],
+        "Level": 88,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_29": {
+        "Enemies": [
+            "YF_Chevaliere_C_Alpha",
+            "YF_Chevaliere_B_Alpha",
+            "YF_Chevaliere_A_Alpha"
+        ],
+        "Level": 89,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_30": {
+        "Enemies": [
+            "FB_ChalierSword_Alpha",
+            "YF_Jar_ALPHA",
+            "ML_Obscur"
+        ],
+        "Level": 90,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_31": {
+        "Enemies": [
+            "MF_Moissonneuse_ALPHA",
+            "CT_MaskKeeper_NoMask_CleaTwoer",
+            "FB_Dualliste_CleasTower"
+        ],
+        "Level": 93,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_32": {
+        "Enemies": [
+            "MM_ClairObscurAlpha",
+            "L_Creation",
+            "CFH_LampMaster"
+        ],
+        "Level": 96,
+        "CanRetry": true,
+        "CantFlee": true
+    },
+    "TowerBattle_33": {
+        "Enemies": [
+            "CT_Boss_Curator_CleaTower",
+            "CT_Boss_Paintress_CleaTower"
+        ],
+        "Level": 99,
+        "CanRetry": true,
+        "CantFlee": true
+    }
+}
