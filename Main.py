@@ -62,7 +62,7 @@ def getCharStats(enemy, area, encounter, scriptLv=0, difficulty='Expert', ng=0):
 
     archetypedata = loadJson(basepath / 'ScalingSystems' / difficulty / f"DT_EnemyArchetype_{archetype}.json")
     stats = archetypedata.get(f'Level_{level}', None)
-    scaling = enemydata.get('EnemyScaling', None)
+    scaling = enemydata.get('EnemyScaling', {})
 
     calculated = {}
     for k, v in scaling.items():
@@ -70,10 +70,18 @@ def getCharStats(enemy, area, encounter, scriptLv=0, difficulty='Expert', ng=0):
 
     return calculated
 
-def ParseBattleStats(encounter, area, difficulty='Expert', ng=0):
+def ParseBattleStats(encounter, area, difficulty='Expert', ng=0, dataPath=None):
+    global basepath
+    if dataPath:
+        basepath = dataPath
+
     data = {}
     try:
         battle = loadJson(basepath / "DT_Encounters_Composite.json").get(encounter, None)
+
+        if battle is None:
+            raise KeyError(f"Encounter '{encounter}' not found")
+        
         enemies = battle.get('Enemies', None)
 
         for enemy in enemies:

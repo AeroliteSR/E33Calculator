@@ -6,6 +6,7 @@ __pycache__/
 #customs
 Data.py
 parse.py
+dumper.py
 .gitignore
 
 # C extensions
