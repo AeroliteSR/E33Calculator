@@ -1,0 +1,5248 @@
+{
+    "Masks_GainAPOnMaskSwitch": {
+        "Display Name": "Weapon",
+        "Description": "+1 AP on Mask change.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "Mask_APCost-1OnCaster": {
+        "Display Name": "Weapon",
+        "Description": "Skills cost 1 less AP while in Caster Mask.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "Stance_VirtuoseDoubleBurn": {
+        "Display Name": "Weapon",
+        "Description": "In Virtuose Stance, every Burn applied is doubled.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "Foretell_HealOnApply": {
+        "Display Name": "Weapon",
+        "Description": "Recover 5% Health per Foretell applied.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "Foretell_ApplyBurnPerSunChargeOnConsume": {
+        "Display Name": "N/A",
+        "Description": "Consuming Foretell applies 2 Burn on target per Sun Charge.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "Stains_IncreaseDMGPerLightStain": {
+        "Display Name": "Weapon",
+        "Description": "20% increased damage with Skills per active Light Stain.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "AttackBurnWhilePowerful": {
+        "Display Name": "Weapon",
+        "Description": "While Powerful, 20% chance to Burn on hit.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "ShieldOnCounter": {
+        "Display Name": "Weapon",
+        "Description": "+1 Shield on Counterattack.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "DoubleAP": {
+        "Display Name": "Energy Master",
+        "Description": "Every AP gain is increased by 1.",
+        "Lumina Cost": 40,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP"
+        ]
+    },
+    "AP+1TurnStart": {
+        "Display Name": "Energising Turn",
+        "Description": "+1 AP on turn start.",
+        "Lumina Cost": 20,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP"
+        ]
+    },
+    "AP+1Attack": {
+        "Display Name": "Energising Attack I",
+        "Description": "+1 AP on Base Attack.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP",
+            "Base Attack"
+        ]
+    },
+    "AP+1Parry": {
+        "Display Name": "Energising Parry",
+        "Description": "+1 AP on successful Parry.",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP",
+            "Parry"
+        ]
+    },
+    "Augmented1stStrike": {
+        "Display Name": "Augmented First Strike",
+        "Description": "50% increased damage on the first hit. Once per battle.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage"
+        ]
+    },
+    "Survivor": {
+        "Display Name": "Survivor",
+        "Description": "Survive fatal damage with 1 Health. Once per battle.",
+        "Lumina Cost": 20,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Defense"
+        ]
+    },
+    "AegisRevival": {
+        "Display Name": "Aegis Revival",
+        "Description": "+1 Shield on being revived.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Death",
+            "Shield",
+            "Defense"
+        ]
+    },
+    "Recovery": {
+        "Display Name": "Recovery",
+        "Description": "Recovers 10% Health on turn start.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Heal"
+        ]
+    },
+    "LuckyAim": {
+        "Display Name": "Lucky Aim",
+        "Description": "30% chance to recover 1 AP on hitting a Weak Point.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "CounterUpdragdeA": {
+        "Display Name": "Augmented Counter I",
+        "Description": "25% increased Counterattack damage.",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Counter"
+        ]
+    },
+    "SecondChance": {
+        "Display Name": "Second Chance",
+        "Description": "Revive with 100% Health. Once per battle.",
+        "Lumina Cost": 40,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Death",
+            "Defense"
+        ]
+    },
+    "FirstStrike": {
+        "Display Name": "First Strike",
+        "Description": "Play first.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Speed"
+        ]
+    },
+    "SoloFighter": {
+        "Display Name": "Solo Fighter",
+        "Description": "Deal 50% more damage if fighting alone.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Solo",
+            "Damage"
+        ]
+    },
+    "Teamwork": {
+        "Display Name": "Teamwork",
+        "Description": "10% increased damage while all allies are alive.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage"
+        ]
+    },
+    "SweetKill": {
+        "Display Name": "Sweet Kill",
+        "Description": "Recover 50% Health on killing an enemy.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Heal"
+        ]
+    },
+    "AugmentedAttack_Weapon": {
+        "Display Name": "Augmented Attack",
+        "Description": "50% increased Base Attack damage.",
+        "Lumina Cost": 7,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "AttackLifesteal": {
+        "Display Name": "Attack Lifesteal",
+        "Description": "Recover 15% Health on Base Attack.",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Base Attack",
+            "Heal"
+        ]
+    },
+    "AugmentedAim": {
+        "Display Name": "Augmented Aim",
+        "Description": "50% increased Free Aim damage.",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Free Aim",
+            "Damage"
+        ]
+    },
+    "ComboAttack1": {
+        "Display Name": "Combo Attack I",
+        "Description": "Base Attack has 1 extra hit.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP",
+            "Base Attack"
+        ]
+    },
+    "HealingParry": {
+        "Display Name": "Healing Parry",
+        "Description": "Recover 3% Health on Parry.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Parry",
+            "Heal"
+        ]
+    },
+    "StartBattleInStance_Offensive": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "AutoPowerful": {
+        "Display Name": "Auto Powerful",
+        "Description": "Apply Powerful for 3 turns on battle start.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Buff",
+            "Damage"
+        ]
+    },
+    "AutoShell": {
+        "Display Name": "Auto Shell",
+        "Description": "Apply Shell for 3 turns on battle start.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Buff",
+            "Defense"
+        ]
+    },
+    "AutoRush": {
+        "Display Name": "Auto Rush",
+        "Description": "Apply Rush for 3 turns on battle start.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Buff",
+            "Speed"
+        ]
+    },
+    "Auto1HP": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "AutoRegen": {
+        "Display Name": "Auto Regen",
+        "Description": "Apply Regen for 3 turns on battle start.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Buff",
+            "Heal"
+        ]
+    },
+    "AntiBurn": {
+        "Display Name": "Anti-Burn",
+        "Description": "Immune to Burn.",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Status Effect",
+            "Defense"
+        ]
+    },
+    "AntiFrozen": {
+        "Display Name": "Anti-Freeze",
+        "Description": "Immune to Freeze.",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Status Effect",
+            "Defense"
+        ]
+    },
+    "AntiSilenced": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "AntiStun": {
+        "Display Name": "Anti-Stun",
+        "Description": "Immune to Stun.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Defense",
+            "Status Effect"
+        ]
+    },
+    "AntiInverted": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "AntiCurse": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "AntiBound": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "AntiDizzy": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "PhysicalCoat": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 20,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "FireCoat": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "IceCoat": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "ThunderCoat": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "EarthCoat": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "DarkCoat": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "LightCoat": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "BackAtYou": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 2,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Dodger": {
+        "Display Name": "Dodger",
+        "Description": "Gain 1 AP on Perfect Dodge. Once per turn.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP",
+            "Defense"
+        ]
+    },
+    "InitialAp+1A": {
+        "Display Name": "Energising Start I",
+        "Description": "+1 AP on battle start.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP"
+        ]
+    },
+    "InitialAp+1B": {
+        "Display Name": "Energising Start II",
+        "Description": "+1 AP on battle start.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP"
+        ]
+    },
+    "InitialAp+1C": {
+        "Display Name": "Energising Start III",
+        "Description": "+1 AP on battle start.",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP"
+        ]
+    },
+    "InitialAp+1D": {
+        "Display Name": "Energising Start IV",
+        "Description": "+1 AP on battle start.",
+        "Lumina Cost": 20,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP"
+        ]
+    },
+    "ManOfParry": {
+        "Display Name": "Perilous Parry",
+        "Description": "+1 AP on Parry, but damage received is doubled.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP",
+            "Parry"
+        ]
+    },
+    "Debug_Sciel": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Debug_Lune": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Debug_Maelle": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Debug_Verso": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Debug_Monoco": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Confident": {
+        "Display Name": "Confident",
+        "Description": "Take 50% less damage, but can't be Healed.",
+        "Lumina Cost": 20,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Defense"
+        ]
+    },
+    "BloodyBullet": {
+        "Display Name": "Bloody Bullet",
+        "Description": "+1 AP on Weak Point hit.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "ReviveCheer": {
+        "Display Name": "Energising Revive",
+        "Description": "+3 AP to all allies when revived.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Death",
+            "AP"
+        ]
+    },
+    "ReviveWithRegen": {
+        "Display Name": "Rejuvenating Revive",
+        "Description": "Apply Regen for 3 turns when revived.",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Death",
+            "Heal",
+            "Buff"
+        ]
+    },
+    "ReviveWithShell": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "ReviveWithPower": {
+        "Display Name": "Powerful Revive",
+        "Description": "Apply Powerful for 3 turns when revived.",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Death",
+            "Damage",
+            "Buff"
+        ]
+    },
+    "ReviveWithRush": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Solidifying": {
+        "Display Name": "Solidifying",
+        "Description": "+2 Shields when the character's Health falls below 50%. Once per battle.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Defense",
+            "Shield"
+        ]
+    },
+    "TheOne": {
+        "Display Name": "The One",
+        "Description": "Max Health is reduced to 1.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "BootyHunter": {
+        "Display Name": "Dead Energy II",
+        "Description": "+3 AP on killing an enemy.",
+        "Lumina Cost": 2,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP"
+        ]
+    },
+    "SniperWorlf": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "BurnShot": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "FrozenShot": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "StunShot": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "InvertShot": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "PiercingShot": {
+        "Display Name": "Piercing Shot",
+        "Description": "25% increased Free Aim damage.\nFree Aim shots ignore Shields.",
+        "Lumina Cost": 2,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Free Aim",
+            "Damage"
+        ]
+    },
+    "BurningDodge": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "DefenseRiserDodge": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "PowerBreakerDodge": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "PowerRiserDodge": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "SpeedSterDodge": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "DefenseBreakerDodge": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "HazardousChoice": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 2,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "HealingDeath": {
+        "Display Name": "Healing Death",
+        "Description": "On death, the rest of the Expedition recover all Health.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Death",
+            "Heal"
+        ]
+    },
+    "EnergyDeath": {
+        "Display Name": "Energising Death",
+        "Description": "On death, +4 AP to allies.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Death",
+            "AP"
+        ]
+    },
+    "ShieldingDeath": {
+        "Display Name": "Shielding Death",
+        "Description": "On death, allies gain 3 Shield points.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Death",
+            "Shield",
+            "Defense"
+        ]
+    },
+    "ProtectingDeath": {
+        "Display Name": "Protecting Death",
+        "Description": "On death, allies gain Shell.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Death",
+            "Buff",
+            "Defense"
+        ]
+    },
+    "EmpoweringDeath": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 7,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "BurnAffinity": {
+        "Display Name": "Burn Affinity",
+        "Description": "25% increased damage on Burning targets.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Burn",
+            "Damage",
+            "Status Effect"
+        ]
+    },
+    "FrozenAffinity": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "InvertedAffinity": {
+        "Display Name": "Inverted Affinity",
+        "Description": "Apply Inverted on self for 3 turns on battle start.\n50% increased damage while Inverted.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Status Effect",
+            "Damage"
+        ]
+    },
+    "ExhaustAffinity": {
+        "Display Name": "Exhausting Power",
+        "Description": "50% increased damage if Exhausted.",
+        "Lumina Cost": 2,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Status Effect",
+            "Damage"
+        ]
+    },
+    "AutoDeath": {
+        "Display Name": "Auto Death",
+        "Description": "Kill self on battle start.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Death"
+        ]
+    },
+    "AutoBurn": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "AutoCurse": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "LastStand": {
+        "Display Name": "At Death's Door",
+        "Description": "Deal 50% more damage if Health is below 10%.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage"
+        ]
+    },
+    "Stand": {
+        "Display Name": "Full Strength",
+        "Description": "25% increased damage on full Health.",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage"
+        ]
+    },
+    "OverPowered": {
+        "Display Name": "Painted Power",
+        "Description": "Damage can exceed 9,999.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage"
+        ]
+    },
+    "Perfection_ImmortalRankS": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_HalfLostOnHit": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_Perfection+butDMG+": {
+        "Display Name": "N/A",
+        "Description": "+1 to all Perfection gain but can't reach Rank S.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_x2": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_Attackx2": {
+        "Display Name": "N/A",
+        "Description": "Base Attack gives 4 Perfection.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_Dodgex2": {
+        "Display Name": "N/A",
+        "Description": "Dodging gives 2 Perfection instead of 1.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_Parryx2": {
+        "Display Name": "N/A",
+        "Description": "Parrying gives 2 Perfection instead of 1.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_HealRankDownLow": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_HealRankDownMedium": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_HealRankDownHigh": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_-APRankDown": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_+APRankUp": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_StartRankC": {
+        "Display Name": "N/A",
+        "Description": "Start battle on Rank C.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_StartRankB": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_StartRankA": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_StartRankS": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_ApplyOnAttack": {
+        "Display Name": "N/A",
+        "Description": "Base Attack applies 3 Foretell.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_ApplyOnFreeAimShot": {
+        "Display Name": "N/A",
+        "Description": "Free Aim shots apply 1 Foretell.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_ConsumeOnBaseAttack": {
+        "Display Name": "N/A",
+        "Description": "Base Attack consumes 1 Foretell to deal 30% more damage.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_OnlyDeathEmpress": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_OnlyJusticeChariot": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_OnlyFoolTower": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_AOEOnSwitch": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_DMG+Stanceless": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_CleanseVirtuose": {
+        "Display Name": "N/A",
+        "Description": "Cleanse self Status Effects when switching to Virtuose Stance.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_HealOnSwitch": {
+        "Display Name": "N/A",
+        "Description": "Recover 5% Health on Stance switch.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_DamageSwitch": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_DamageSelfSwitch": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_ShieldDStance": {
+        "Display Name": "N/A",
+        "Description": "+1 Shield on switching to Defensive Stance.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_ShieldOnOSstance": {
+        "Display Name": "N/A",
+        "Description": "+1 Shield on switching to Offensive Stance.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_AdditionalFire": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_EarthDMGUp": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_FireDMGUp": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_ICEDMGUp": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_ThunderDMGUp": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Weapon_ATKDMGUpNoAP": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Weapon_ATKSPDUpNoAP": {
+        "Display Name": "N/A",
+        "Description": null,
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Weapon_ATKLifestealLow": {
+        "Display Name": "N/A",
+        "Description": null,
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Weapon_ATKLifestealMedium": {
+        "Display Name": "N/A",
+        "Description": null,
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Weapon_ATKLifestealHigh": {
+        "Display Name": "N/A",
+        "Description": null,
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "SosShell": {
+        "Display Name": "SOS Shell",
+        "Description": "Apply Shell when falling below 50% Health.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Defense",
+            "Buff"
+        ]
+    },
+    "SosPower": {
+        "Display Name": "SOS Power",
+        "Description": "Apply Powerful when falling below 50% Health.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage",
+            "Buff"
+        ]
+    },
+    "AntiExhaust": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "PowerbreakerShot": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "GathererA": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "SosRush": {
+        "Display Name": "SOS Rush",
+        "Description": "Apply Rush when falling below 50% Health.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Speed",
+            "Buff"
+        ]
+    },
+    "LearnerA": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "SolidifyingMeditation": {
+        "Display Name": "Solidifying Meditation",
+        "Description": "+1 Shield when passing turn.",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Shield",
+            "Defense"
+        ]
+    },
+    "BrambleSkin": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "SosPrecision": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "DoubleBurn": {
+        "Display Name": "Double Burn",
+        "Description": "On applying a Burn stack, apply a second one.",
+        "Lumina Cost": 30,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Burn",
+            "Status Effect"
+        ]
+    },
+    "ProtectingFire": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "HealingFire": {
+        "Display Name": "Healing Fire",
+        "Description": "Recover 25% Health when attacking a Burning target. Once per turn.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Burn",
+            "Heal",
+            "Status Effect"
+        ]
+    },
+    "RewardingMark": {
+        "Display Name": "Rewarding Mark",
+        "Description": "+2 AP on dealing damage to a Marked target. Once per turn.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Mark",
+            "AP",
+            "Status Effect"
+        ]
+    },
+    "DoubleMark": {
+        "Display Name": "Double Mark",
+        "Description": "Mark requires 1 more hit to be removed.",
+        "Lumina Cost": 20,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Mark",
+            "Status Effect"
+        ]
+    },
+    "StunBoost": {
+        "Display Name": "Stun Boost",
+        "Description": "30% increased damage on Stunned targets.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Break",
+            "Damage"
+        ]
+    },
+    "Sniper": {
+        "Display Name": "Sniper",
+        "Description": "First Free Aim shot each turn deals 200% increased damage and can Break.",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Free Aim",
+            "Break"
+        ]
+    },
+    "PierceDefense": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Energy": {
+        "Display Name": "Energising Attack II",
+        "Description": "+1 AP on Base Attack.",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP",
+            "Base Attack"
+        ]
+    },
+    "Cheater": {
+        "Display Name": "Cheater",
+        "Description": "Always play twice in a row.",
+        "Lumina Cost": 40,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Speed"
+        ]
+    },
+    "FromBehind": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "ProBlocker": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "HealingCounter": {
+        "Display Name": "Healing Counter",
+        "Description": "Recover 25% Health on Counterattack.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Counter",
+            "Heal"
+        ]
+    },
+    "PowerfulShield": {
+        "Display Name": "Powerful Shield",
+        "Description": "10% increased damage per Shield Point on self.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage",
+            "Shield"
+        ]
+    },
+    "BaseShield": {
+        "Display Name": "Base Shield",
+        "Description": "+1 Shield if not affected by any Shield on turn start.",
+        "Lumina Cost": 20,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Shield",
+            "Defense"
+        ]
+    },
+    "InMediasRes": {
+        "Display Name": "In Medias Res",
+        "Description": "+3 Shields on Battle Start, but max Health is halved.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Shield",
+            "Defense"
+        ]
+    },
+    "ShieldBreaker": {
+        "Display Name": "Shield Breaker",
+        "Description": "All hits break 1 more Shield.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Shield"
+        ]
+    },
+    "ShieldAffinity": {
+        "Display Name": "Shield Affinity",
+        "Description": "30% increased damage while having Shields, but receiving any damage always removes all Shields.",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage",
+            "Shield"
+        ]
+    },
+    "CriticalMoment": {
+        "Display Name": "Critical Moment",
+        "Description": "50% increased Critical Chance if Health is below 30%.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Critical"
+        ]
+    },
+    "CriticalHavoc": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "FasterThanStrong": {
+        "Display Name": "Faster Than Strong",
+        "Description": "Always play twice in a row, but deal 50% less damage.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Speed"
+        ]
+    },
+    "Warming": {
+        "Display Name": "Warming Up",
+        "Description": "5% increased damage per turn. Can stack up to 5 times.",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage"
+        ]
+    },
+    "Shortcut": {
+        "Display Name": "Shortcut",
+        "Description": "Immediately play when falling below 30% Health. Once per battle.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Speed"
+        ]
+    },
+    "RandomDefense": {
+        "Display Name": "Random Defense",
+        "Description": "Damage taken is randomly multiplied by a value between 50% and 200%.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "GlassCanon": {
+        "Display Name": "Glass Cannon",
+        "Description": "Deal 25% more damage, but take 25% more damage.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage"
+        ]
+    },
+    "DefensiveMode": {
+        "Display Name": "Defensive Mode",
+        "Description": "On receiving damage, consume 1 AP to take 30% less damage, if possible.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Defense"
+        ]
+    },
+    "GreaterPowerful": {
+        "Display Name": "Greater Powerful",
+        "Description": "+15% to Powerful damage increase.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Buff",
+            "Damage"
+        ]
+    },
+    "GreaterSpeed": {
+        "Display Name": "Greater Rush",
+        "Description": "+25% to Rush Speed increase.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Buff",
+            "Speed"
+        ]
+    },
+    "GreaterPrecision": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "GreaterShell": {
+        "Display Name": "Greater Shell",
+        "Description": "+10% to Shell damage reduction.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Buff",
+            "Defense"
+        ]
+    },
+    "LastStandCritical": {
+        "Display Name": "Last Stand Critical",
+        "Description": "100% Critical Chance while fighting alone.",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Critical"
+        ]
+    },
+    "ReviveParadox": {
+        "Display Name": "Revive Paradox",
+        "Description": "Play immediately when revived.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Death",
+            "Speed"
+        ]
+    },
+    "EffectiveHeal": {
+        "Display Name": "Effective Heal",
+        "Description": "Double all Heals received.",
+        "Lumina Cost": 30,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Heal"
+        ]
+    },
+    "SharedCare": {
+        "Display Name": "Shared Care",
+        "Description": "When Healing an ally, also Heal self for 50% of that value.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Heal"
+        ]
+    },
+    "EnergizingHeal": {
+        "Display Name": "Energising Heal",
+        "Description": "On Healing an ally, also give 2 AP.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Heal",
+            "AP"
+        ]
+    },
+    "PowerfulHeal": {
+        "Display Name": "Powerful Heal",
+        "Description": "Healing an ally also applies Powerful for 1 turn.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Heal",
+            "Buff"
+        ]
+    },
+    "ProtectingHeal": {
+        "Display Name": "Protecting Heal",
+        "Description": "Healing an ally also applies Shell for 1 turn.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Heal",
+            "Buff"
+        ]
+    },
+    "AcceleratorHeal": {
+        "Display Name": "Accelerating Heal",
+        "Description": "Healing an ally also applies Rush for 1 turn.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Heal",
+            "Buff"
+        ]
+    },
+    "ConfidentFighter": {
+        "Display Name": "Confident Fighter",
+        "Description": "30% increased damage, but can't be Healed.",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage"
+        ]
+    },
+    "PerfectHeal": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "HealingShare": {
+        "Display Name": "Healing Share",
+        "Description": "Receive 15% of all Heals affecting other characters.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Heal"
+        ]
+    },
+    "WeaknessGain": {
+        "Display Name": "Weakness Gain",
+        "Description": "+1 AP on hitting an enemy's Weakness. Once per turn.",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP"
+        ]
+    },
+    "DeadEnergy": {
+        "Display Name": "Dead Energy I",
+        "Description": "+3 AP on killing an enemy.",
+        "Lumina Cost": 2,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP"
+        ]
+    },
+    "PatientFighter": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "EffectivSupport": {
+        "Display Name": "Effective Support",
+        "Description": "+2 AP on using an item.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP",
+            "Items"
+        ]
+    },
+    "VersatileHealer": {
+        "Display Name": "Energetic Healer",
+        "Description": "+2 AP on Healing an ally. Once per turn.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP",
+            "Heal"
+        ]
+    },
+    "BeneficialContamination": {
+        "Display Name": "Beneficial Contamination",
+        "Description": "+2 AP on applying a Status Effect. Once per turn.",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP",
+            "Status Effect"
+        ]
+    },
+    "PerfectReward": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "PhysicalFighter": {
+        "Display Name": "Physical Fighter",
+        "Description": "Convert all Skill damage to Physical damage.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Roulette": {
+        "Display Name": "Roulette",
+        "Description": "Every hit has a 50% chance to deal either 50% or 200% of its damage.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage"
+        ]
+    },
+    "SoulEater": {
+        "Display Name": "Soul Eater",
+        "Description": "Deal 30% more damage, but lose 20% Health per turn.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage"
+        ]
+    },
+    "Painter": {
+        "Display Name": "Painter",
+        "Description": "Convert all Physical damage to Void damage.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Immaculate": {
+        "Display Name": "Immaculate",
+        "Description": "30% increased damage until a hit is received.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage"
+        ]
+    },
+    "Tainted": {
+        "Display Name": "Tainted",
+        "Description": "15% increased damage for each Status Effect on self.",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage",
+            "Status Effect"
+        ]
+    },
+    "FirstOffensive": {
+        "Display Name": "First Offensive",
+        "Description": "First hit dealt and taken deals 50% more damage.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage"
+        ]
+    },
+    "CursedPower": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "CriticalCursedPower": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "ProRetreat": {
+        "Display Name": "Pro Retreat",
+        "Description": "Allows Flee to be instantaneous.",
+        "Lumina Cost": 40,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Defense"
+        ]
+    },
+    "ParryHelper": {
+        "Display Name": "Parry Helper",
+        "Description": "25% increased Parry window.",
+        "Lumina Cost": 30,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "ProtectionSpirit": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_IncreasedDamageOnRankD": {
+        "Display Name": "N/A",
+        "Description": "50% increased damage on Rank D. No damage increase on other ranks.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_PerfectionLostOnHeal": {
+        "Display Name": "N/A",
+        "Description": "No Perfection loss on damage taken. Perfection is instead lost on being Healed.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_DoublePerfectionVSBurn": {
+        "Display Name": "N/A",
+        "Description": "Base attack gives 1 Perfection per Burn on target.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_PerfectionBaseOnCurrentHP": {
+        "Display Name": "N/A",
+        "Description": "Perfection is now based on current Health. Gain 1 Rank every 20% missing Health.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_NoPerfectionLossButNoDamageIncrease": {
+        "Display Name": "N/A",
+        "Description": "Can't lose Perfection. No damage increase from Rank.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_RankLossOneByOne": {
+        "Display Name": "N/A",
+        "Description": "When hit, lose 1 Perfection instead of 1 Rank.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_GainAPOnRankUp": {
+        "Display Name": "N/A",
+        "Description": "+1 AP on Rank Up.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_StartRankBButLessHP": {
+        "Display Name": "N/A",
+        "Description": "Start battle on Rank B, but 50% Health.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_OnTurnStart": {
+        "Display Name": "N/A",
+        "Description": "Gain 2 Perfection on turn start.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_APOnPerfectionLoss": {
+        "Display Name": "N/A",
+        "Description": "+1 AP on Perfection loss.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "AttackPlayAgain": {
+        "Display Name": "N/A",
+        "Description": "Play again after a Base Attack.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_DoubleOnFreeAimShots": {
+        "Display Name": "N/A",
+        "Description": "Double Perfection gained on Free Aim shots.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "SkillsLightToPhysical": {
+        "Display Name": "N/A",
+        "Description": "Convert Light damage from Skills to Physical damage.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "LightSkillsRegenHP": {
+        "Display Name": "N/A",
+        "Description": "Dealing Light damage with a Skill recovers 3% Health.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "DMG+OnAlternatingPhysicalLight": {
+        "Display Name": "N/A",
+        "Description": "Casting a Light Skill increases damage of next Physical Skill cast by 50% and vice versa.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "AttackConsumeShieldForExtraDMG": {
+        "Display Name": "N/A",
+        "Description": "Base Attack consumes all Shields to deal 100% increased damage per Shield.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "DMG+WhenNoDMGTaken": {
+        "Display Name": "N/A",
+        "Description": "20% increased damage for each consecutive turn without taking damage. Can stack up to 5 times.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_MinC": {
+        "Display Name": "N/A",
+        "Description": "Rank can't be lower than C.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_RushOnS": {
+        "Display Name": "N/A",
+        "Description": "Apply Rush on Rank S.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_AttackLifestealOnD": {
+        "Display Name": "N/A",
+        "Description": "On Rank D, recover 20% Health with Base Attack.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_PowerfulOnB": {
+        "Display Name": "N/A",
+        "Description": "Apply Powerful on Rank B.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_CountersPerfection+": {
+        "Display Name": "N/A",
+        "Description": "Double Perfection gained on Counterattack.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_PerfectionBonusDamageShare": {
+        "Display Name": "N/A",
+        "Description": "Bonus damage from Perfection applies to all allies at half value. Bonus damage no longer applies to Verso.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_NoPerfectionLossOnPowerlessEnemy": {
+        "Display Name": "N/A",
+        "Description": "Don't lose Rank when taking damage from Powerless enemies.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_Perfection+1OnPowerlessEnemy": {
+        "Display Name": "N/A",
+        "Description": "+1 Perfection on hitting a Powerless enemy.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_Perfection+1OnCrit": {
+        "Display Name": "N/A",
+        "Description": "+1 Perfection on Critical hit.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_Perfection+1OnPowerful": {
+        "Display Name": "N/A",
+        "Description": "Perfection gained is increased by 1 while Powerful.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_Perfection+1OnBurn": {
+        "Display Name": "N/A",
+        "Description": "+1 Perfection on hitting a Burning enemy.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_PowerlessOnS": {
+        "Display Name": "N/A",
+        "Description": "On reaching Rank S, apply Powerless to all enemies.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_RankUpOnMark": {
+        "Display Name": "N/A",
+        "Description": "Gain 1 Rank on applying Mark.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_RankUpOnCounter": {
+        "Display Name": "N/A",
+        "Description": "Gain 1 Rank on Counterattack.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_SwitchRankSOnBreak": {
+        "Display Name": "N/A",
+        "Description": "Switch to Rank S on Break.\nBase Attack can Break.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_AlwaysCritOnRankS": {
+        "Display Name": "N/A",
+        "Description": "100% Critical Chance on Rank S.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_BurnOnBaseAtkPerRank": {
+        "Display Name": "N/A",
+        "Description": "Base Attack applies 2 Burn stack per Rank.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_BurnDamagePerRank": {
+        "Display Name": "N/A",
+        "Description": "Increase Burn damage by 50% per Rank, up to 300% on Rank S.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "FreeAimBreaksMoreShields": {
+        "Display Name": "N/A",
+        "Description": "Free Aim shots break 2 Shields.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "PhysicalAPCost-": {
+        "Display Name": "N/A",
+        "Description": "-1 AP cost for Physical Skills.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "SkillsLightDMG+": {
+        "Display Name": "N/A",
+        "Description": "20% increased Light damage with Skills.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "WeakSpotMark": {
+        "Display Name": "N/A",
+        "Description": "Hitting a Weak Spot applies Marked.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_APOnSwitch": {
+        "Display Name": "N/A",
+        "Description": "+1 AP on Stance switch.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "CritAppliesBurn": {
+        "Display Name": "N/A",
+        "Description": "Critical hits apply Burn.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_Heal+OnDStance": {
+        "Display Name": "N/A",
+        "Description": "30% increased Heals received in Defensive Stance.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "HealOnBurn": {
+        "Display Name": "N/A",
+        "Description": "Recover 2% Health on hitting a Burning target.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "AttackBurn": {
+        "Display Name": "N/A",
+        "Description": "Base Attack applies 2 Burn.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_StartOnVStance": {
+        "Display Name": "N/A",
+        "Description": "Start in Virtuose Stance.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_CounterSwitchToVStance": {
+        "Display Name": "N/A",
+        "Description": "Switch to Virtuose Stance on Counterattack.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_ShellOutVStance": {
+        "Display Name": "N/A",
+        "Description": "Gain Shell when switching out of Virtuose Stance.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_PierceOnVStance": {
+        "Display Name": "N/A",
+        "Description": "In Virtuose Stance, all damage pierce Shields.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_StancelessSwitchToOStance": {
+        "Display Name": "N/A",
+        "Description": "On turn start, if Stanceless, switch to Offensive Stance.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_StancelessSwitchToDStance": {
+        "Display Name": "N/A",
+        "Description": "On turn start, if Stanceless, switch to Defensive Stance.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_StancelessPowerful": {
+        "Display Name": "N/A",
+        "Description": "On turn start, gain Powerful if Stanceless.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "AttackShield": {
+        "Display Name": "N/A",
+        "Description": "+1 Shield on Base Attack. (once per turn)",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "SelfBurnButDmg+": {
+        "Display Name": "N/A",
+        "Description": "Apply Burn on self on turn start.\n10% increased damage for each self Burn stack.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_FullCritIfStanceless": {
+        "Display Name": "N/A",
+        "Description": "100% Critical Chance while Stanceless.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "CounterBurn": {
+        "Display Name": "N/A",
+        "Description": "Apply 5 Burn on Counterattack.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_BurnHealOnDStance": {
+        "Display Name": "N/A",
+        "Description": "While in Defensive Stance, receive Heal instead of Burn damage.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_FireStart": {
+        "Display Name": "N/A",
+        "Description": "Start battle with 1 Fire Stain.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_EarthStart": {
+        "Display Name": "N/A",
+        "Description": "Start battle with 1 Earth Stain.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_LightningStart": {
+        "Display Name": "N/A",
+        "Description": "Start battle with 1 Lightning Stain.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_IceStart": {
+        "Display Name": "N/A",
+        "Description": "Start battle with 1 Ice Stain.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_RandomGeneration": {
+        "Display Name": "N/A",
+        "Description": "Generate a random Stain on Free Aim shot.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_ElementalCyclingDMG+": {
+        "Display Name": "N/A",
+        "Description": "Casting a Skill increases the Skill damage of all other elements by 20%.\nResets when casting a Skill of a previous element.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_TurnStart+StainsIfNoStain": {
+        "Display Name": "N/A",
+        "Description": "On turn start, if no Stains, 2 random Stains are generated.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_Overflow": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_LightningOnFire": {
+        "Display Name": "N/A",
+        "Description": "When a Fire Stain is generated, a Lightning Stain is also generated. Once per turn.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_EarthOnLightning": {
+        "Display Name": "N/A",
+        "Description": "When a Lightning Stain is generated, an Earth Stain is also generated. Once per turn.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_IceOnEarth": {
+        "Display Name": "N/A",
+        "Description": "When an Earth Stain is generated, an Ice Stain is also generated. Once per turn.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_FireOnIce": {
+        "Display Name": "N/A",
+        "Description": "When an Ice Stain is generated, a Fire Stain is also generated. Once per turn.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "SkillsConversionToPhysical": {
+        "Display Name": "N/A",
+        "Description": "Convert all Skill damage to Physical damage.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_APOnConsumption": {
+        "Display Name": "N/A",
+        "Description": "+1 AP when Stains are consumed.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_FullCritIfFullStain": {
+        "Display Name": "N/A",
+        "Description": "100% Critical Chance when 4 Stains are simultaneously active.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_+RandomStainOnHeal": {
+        "Display Name": "N/A",
+        "Description": "Healing Skills generate one additional Light stain.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_OverchargeDMG+": {
+        "Display Name": "N/A",
+        "Description": "Using a Skill that consumes Stains increases damage by 20%. Can stack up to 5 times.\nResets on using a Skill without consuming Stains.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_FireAppliesBurn": {
+        "Display Name": "N/A",
+        "Description": "Consuming a Fire Stain applies 1 Burn.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "FreezeOnLowHP": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_IceAppliesSlow": {
+        "Display Name": "N/A",
+        "Description": "Consuming a Light Stain applies Slow to a random enemy.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_EarthAppliesShield": {
+        "Display Name": "N/A",
+        "Description": "Consuming an Earth Stain applies 1 Shield to self.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_LightningAppliesRush": {
+        "Display Name": "N/A",
+        "Description": "Consuming a Lightning Stain applies Rush on a random ally.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "UnfreezeAndHeal": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "FireAPCost-": {
+        "Display Name": "N/A",
+        "Description": "Fire Skills cost 1 less AP.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "EarthAPCost-": {
+        "Display Name": "N/A",
+        "Description": "Earth Skills cost 1 less AP.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "LightningAPCost-": {
+        "Display Name": "N/A",
+        "Description": "Lightning Skills cost 1 less AP.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "IceAPCost-": {
+        "Display Name": "N/A",
+        "Description": "Ice Skills cost 1 less AP.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "SkillsFireDMG+": {
+        "Display Name": "N/A",
+        "Description": "20% increased Fire damage with Skills.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "SkillsEarthDMG+": {
+        "Display Name": "N/A",
+        "Description": "20% increased Earth damage with Skills.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "SkillsLightningDMG+": {
+        "Display Name": "N/A",
+        "Description": "20% increased Lightning damage with Skills.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "SkillsIceDMG+": {
+        "Display Name": "N/A",
+        "Description": "20% increased Ice damage with Skills.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_AttackFire+": {
+        "Display Name": "N/A",
+        "Description": "Base Attack generates a Fire Stain.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_AttackLightning+": {
+        "Display Name": "N/A",
+        "Description": "Base Attack generates a Lightning Stain.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_AttackEarth+": {
+        "Display Name": "N/A",
+        "Description": "Base Attack generates an Earth Stain.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_AttackIce+": {
+        "Display Name": "N/A",
+        "Description": "Base Attack generates an Ice Stain.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "HealOnHitIfFrozen": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_Ice+IfSelfFrozen": {
+        "Display Name": "N/A",
+        "Description": "Gain 2 Ice Stains and 3 AP when Frozen.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "FreezeSelfOnLowHP2": {
+        "Display Name": "N/A",
+        "Description": "Freeze self when falling below 30% health.\nPrevent the next instance of damage while Frozen.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "DefreezeAndHealOnTurnStart": {
+        "Display Name": "N/A",
+        "Description": "On turn start, if Frozen, remove Freeze and recover 60% Health.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_HealEfficiencyIceStains": {
+        "Display Name": "N/A",
+        "Description": "30% increased Heal efficiency per Ice Stain.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_IceStainOnTurnStart": {
+        "Display Name": "N/A",
+        "Description": "Generate one Ice Stain at the beginning of each turn.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "InstantReplayOnOverchargedHealSkills": {
+        "Display Name": "N/A",
+        "Description": "Replay instantly on consuming Stains with a Healing Skill.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "HealAPCost-": {
+        "Display Name": "N/A",
+        "Description": "Healing Skills cost 1 less AP.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_EarthStainOnTurnStart": {
+        "Display Name": "N/A",
+        "Description": "Generate one Earth Stain at the beginning of each turn.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_IncreaseCritChancePerFireStain": {
+        "Display Name": "N/A",
+        "Description": "30% increased Critical Chance per Ice Stain.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "GradientPointOnCrit": {
+        "Display Name": "N/A",
+        "Description": "+5% of a Gradient Charge on Critical hit.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_ApplyBurnStackPerFireStainOnAttack": {
+        "Display Name": "N/A",
+        "Description": "Base Attack applies 2 Burn per Fire Stain.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_FireStainOnTurnStart": {
+        "Display Name": "N/A",
+        "Description": "Generate one Fire Stain at the beginning of each turn.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_IncreaseBurnDMGPerFireStain": {
+        "Display Name": "N/A",
+        "Description": "30% increased Burn damage per Fire Stain.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_IncreaseBreakDMGPerEarthStain": {
+        "Display Name": "N/A",
+        "Description": "30% increased Break damage per Earth Stain.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "APonBreak": {
+        "Display Name": "N/A",
+        "Description": "Gain 9 AP on Breaking an enemy.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "InstantReplayOnHittingStunEnemy": {
+        "Display Name": "N/A",
+        "Description": "Replay instantly on hitting a Stunned enemy.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_GenerateStainsOnGradientAttack": {
+        "Display Name": "N/A",
+        "Description": "Using a Gradient Attack generates 1 additional Light Stain.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_GainGradientChargeOnStainConsumption": {
+        "Display Name": "N/A",
+        "Description": "+5% of a Gradient Charge for each Stain consumed.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "GradientAttackAndCounterDMG+": {
+        "Display Name": "N/A",
+        "Description": "Gradient Attacks and Gradient Counters deal 50% more damage.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_GenerateLightStainRandom": {
+        "Display Name": "N/A",
+        "Description": "50% chance to generate a Light Stain when consuming Stains.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_GainAPOnLightStainConsumption": {
+        "Display Name": "N/A",
+        "Description": "+1 AP on consuming a Light Stain.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_GenerateDarkStainRandom": {
+        "Display Name": "N/A",
+        "Description": "50% chance to generate a Dark Stain when consuming Stains.\nDeal 50% more damage with Skills per active Dark Stain.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_ConsumeDarkStainsOnAttackDMG+": {
+        "Display Name": "N/A",
+        "Description": "Base Attacks can consume one Dark Stain to deal 200% more damage.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_ConsumeFourDarkStainsDMG+OnSkills": {
+        "Display Name": "N/A",
+        "Description": "With 4 active Dark Stains, any Skill can consume them to deal 300% more damage.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stains_GenerateLightOrDarkStainRandom": {
+        "Display Name": "N/A",
+        "Description": "50% chance to generate a Dark or Light Stain when consuming Stains.\nDeal 50% more damage with Skills per active Dark Stain.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_TryConsumeForDMG+": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_DMG+PerForetell": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_HealSelfOnConsume": {
+        "Display Name": "N/A",
+        "Description": "Recover 5% Health per Foretell applied.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_PropagationOnKill": {
+        "Display Name": "N/A",
+        "Description": "Killing an enemy with Foretell applies its Foretell to another random enemy.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_PropagationOnApplication": {
+        "Display Name": "N/A",
+        "Description": "Every time Foretell is applied, it also affects another random enemy.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_Justice+AP": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_FoolEverySecondTurn": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_EmpressPowerful": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_ChariotPlayTwice": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_DeathDefenseless": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_AttackConsumeToApplyBurn": {
+        "Display Name": "N/A",
+        "Description": "Base Attack consumes all Foretell to apply Burns instead.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_CurseSelfButDMG+": {
+        "Display Name": "N/A",
+        "Description": "Curse self on battle start.\nDeal 50% more damage while Cursed.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_ApplyOnParry": {
+        "Display Name": "N/A",
+        "Description": "Apply 1 Foretell on Parry.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_ApplyOnTurnStart": {
+        "Display Name": "N/A",
+        "Description": "Apply 1 Foretell to each enemy on turn start.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_ApplyBurnEveryXForetell": {
+        "Display Name": "N/A",
+        "Description": "Apply 1 Burn every 3 Foretell applied with Skills.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_MarkOnConsume": {
+        "Display Name": "N/A",
+        "Description": "Apply Mark on consuming Foretell.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_FreeAimShotsConsumeForDMG+": {
+        "Display Name": "N/A",
+        "Description": "Free Aim shots can consume 1 Foretell to deal 100% more damage.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "SkillsConversionToDark": {
+        "Display Name": "N/A",
+        "Description": "Convert all Skill damage to Dark damage.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_TowerFreeAimDMG+": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_DrawFoolOnForetellStacks": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_ApplyOnCounter": {
+        "Display Name": "N/A",
+        "Description": "Apply 2 Foretell on Counterattack.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_SunSkillsDMG+PerForetell": {
+        "Display Name": "N/A",
+        "Description": "Sun Skills have increased damage for each Foretell on the target.\nMoon Skills don't generate Moon charges anymore.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_SunAPIncrease": {
+        "Display Name": "N/A",
+        "Description": "With at least 1 active Sun charge, gain one additional AP per Foretell consumed.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_AttackConsumeSunCharge": {
+        "Display Name": "N/A",
+        "Description": "Base attack can consume 1 Sun charge to apply 5 Foretell.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_AttackGainMoonCharge": {
+        "Display Name": "N/A",
+        "Description": "Base Attack gives 1 Moon charge.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_HealEfficiencyPerMoonCharge": {
+        "Display Name": "N/A",
+        "Description": "30% increased Heal efficiency per Moon charge.\nBase Attack gives 1 Moon charge.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_AttackDMG+PerForetell": {
+        "Display Name": "N/A",
+        "Description": "Base Attack has 30% increased damage for each Foretell on target.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_PropagateForetellOnApplication": {
+        "Display Name": "N/A",
+        "Description": "During Twilight, every time Foretell is applied it also affects another random enemy.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_ConsumeChargesOnFreeAim": {
+        "Display Name": "N/A",
+        "Description": "Free Aim shots can consume a Sun charge to apply 5 Foretell and consume a Moon charge to deal 400% more damage.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_GivesAPOnConsumingCharge": {
+        "Display Name": "N/A",
+        "Description": "Consuming a Sun or Moon charge gives 1 AP.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_AttackApplyBurnPerSunCharge": {
+        "Display Name": "N/A",
+        "Description": "Base Attack applies one Burn stack per active Sun charge.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_SunSkillsCharge+": {
+        "Display Name": "N/A",
+        "Description": "Sun Skills give one more charge.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_ResetCurseOnTwilight": {
+        "Display Name": "N/A",
+        "Description": "Reset Curse duration when entering Twilight state.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_InstantReplayOnTwilight": {
+        "Display Name": "N/A",
+        "Description": "Play again when entering Twilight state.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_ApplyMaxForetellOnSunSkills": {
+        "Display Name": "N/A",
+        "Description": "Sun Skills always apply 10 Foretell, but all damage taken is doubled.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_AttackConsumeToApplyBurnMoonCharge": {
+        "Display Name": "N/A",
+        "Description": "Base Attack gives 1 Moon charge and consumes all Foretell to apply Burn.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_OnTwilightBurnDMG+": {
+        "Display Name": "N/A",
+        "Description": "100% increased Burn damage in Twilight state.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_HealOnTurnStartConsumeMoonCharge": {
+        "Display Name": "N/A",
+        "Description": "Can consume 1 Moon charge on turn start to recover 20% of each ally's Health.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_MoonSkillsCharge+": {
+        "Display Name": "N/A",
+        "Description": "Moon Skills give one more charge.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_ChangeTwilightAlwaysCrit": {
+        "Display Name": "N/A",
+        "Description": "100% Critical Chance during Twilight.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_ApplyForetellOnCrit": {
+        "Display Name": "N/A",
+        "Description": "Apply 1 Foretell on Critical hit.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_DarkConversionOnTwilight": {
+        "Display Name": "N/A",
+        "Description": "During Twilight, all damage dealt is converted to Dark damage.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_BuffsOnStates": {
+        "Display Name": "N/A",
+        "Description": "Apply Shell during Moon, Powerful during Sun, and Rush during Twilight.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_ShieldOnTurnStartWhenSunCharge": {
+        "Display Name": "N/A",
+        "Description": "On turn start, gain 1 Shield if at least 1 Sun charge is active.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_ApplyForetellOnShieldBreakPerSunCharge": {
+        "Display Name": "N/A",
+        "Description": "Apply 5 Foretell on enemies that break Shields.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_GivesSunChargesOnCounterAttack": {
+        "Display Name": "N/A",
+        "Description": "+2 Sun charges on Counterattack.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_ApplyBurnOnHitTakenOnSun": {
+        "Display Name": "N/A",
+        "Description": "While having at least 1 active Sun charge, apply one Burn stack per hit taken.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_ApplyBurnPerSunChargeOnCounterAttack": {
+        "Display Name": "N/A",
+        "Description": "Counterattacks apply 1 Burn per active Sun charge.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_MoonSkillsAlwaysCritOnMoon": {
+        "Display Name": "N/A",
+        "Description": "While having at least 1 active Moon charge, Moon Skills are always Critical but damage taken is doubled.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_DMG+PerMoonCharge": {
+        "Display Name": "N/A",
+        "Description": "25% increased damage per Moon charge.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_ExtendOrIncreaseTwilight": {
+        "Display Name": "N/A",
+        "Description": "Extend Twilight by one turn on using a Moon Skill. +50% Twilight damage increase on using a Sun Skill.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_ExtendTwilight": {
+        "Display Name": "N/A",
+        "Description": "Twilight duration is increased by 1.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_DealAOEDamagePerChargeOnTwilightSwitch": {
+        "Display Name": "N/A",
+        "Description": "On Twilight Start, deal damage to all enemies based on the amount of charges.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_ApplyForetellPerChargeOnTwilightSwitch": {
+        "Display Name": "N/A",
+        "Description": "On Twilight Start, apply 2 Foretell per charge to all enemies.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_DoubleChargeGain": {
+        "Display Name": "N/A",
+        "Description": "Double Sun and Moon charge generation.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_OnTwilightSwitchApplyMarkAOE": {
+        "Display Name": "N/A",
+        "Description": "On Twilight Start, apply Mark to all enemies.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_DontRemoveMarkOnTwilight": {
+        "Display Name": "N/A",
+        "Description": "Hitting a Marked enemy during Twilight doesn't remove Mark.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_ApplyForetellOnApplyMark": {
+        "Display Name": "N/A",
+        "Description": "Apply 3 Foretell on applying Mark.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_ApplyGreaterRushSlowOnSunMoon": {
+        "Display Name": "N/A",
+        "Description": "During Moon, all allies have Greater Rush.\nDuring Sun, all enemies have Greater Slow.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_ApplyGreaterRushSlowOnTwilight": {
+        "Display Name": "N/A",
+        "Description": "During Twilight, all allies have Greater Rush and all enemies have Greater Slow.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "GainAPOnApplyBuffsDebuffs": {
+        "Display Name": "N/A",
+        "Description": "+3 AP on applying a Buff or Debuff. Once per turn.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_GainAPPerMoonChargeOnTurnStart": {
+        "Display Name": "N/A",
+        "Description": "+1 AP per Moon charge on turn start.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_BaseAttackConsumeAllAPOnTwilight": {
+        "Display Name": "N/A",
+        "Description": "During Twilight, Base Attack consumes all AP.\nBase Attack applies 1 Foretell and deals 50% increased damage per AP consumed.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Foretell_TwilightFreeAimDMG+": {
+        "Display Name": "N/A",
+        "Description": "During Twilight, Free Aim shots deal double damage.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_ShellOnHeavy": {
+        "Display Name": "N/A",
+        "Description": "Heavy Mask applies Shell for 3 turns.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_PowerfulOnBalanced": {
+        "Display Name": "N/A",
+        "Description": "Balanced Mask applies Powerful for 3 turns.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_RegenOnCaster": {
+        "Display Name": "N/A",
+        "Description": "Caster Mask applies Regen for 3 turns.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_RushOnAgile": {
+        "Display Name": "N/A",
+        "Description": "Agile Mask applies Rush for 3 turns.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_APOnAlmighty": {
+        "Display Name": "N/A",
+        "Description": "+3 AP when in Almighty Mask.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_ReverseBestialMeter": {
+        "Display Name": "N/A",
+        "Description": "Reverse Bestial Wheel order.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_BestialMeter+OnSkillCast": {
+        "Display Name": "N/A",
+        "Description": "Using a Skill to update the Bestial Wheel moves it 1 step further.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_BestialMeter+OnParrybutResetOnDMG": {
+        "Display Name": "N/A",
+        "Description": "Parries increase the Bestial Wheel by 1. Taking damage resets the Bestial Wheel.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_WheelSpinOnFreeAimShot": {
+        "Display Name": "N/A",
+        "Description": "Free Aim shots spin the Bestial Wheel to a random value.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_Overcharge+APOnAllies": {
+        "Display Name": "N/A",
+        "Description": "Using an Upgraded Skill gives 1 AP to all other allies.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_BestialMeterRandomIncrementOnSkillCast": {
+        "Display Name": "N/A",
+        "Description": "Add a random value between -3 and +3 to the Bestial Wheel on Skill cast.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_AttackAP-ButAlmighty": {
+        "Display Name": "N/A",
+        "Description": "Using Base Attack consumes 1 AP, but moves the Bestial Wheel to Almighty.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_StartHeavy": {
+        "Display Name": "N/A",
+        "Description": "Start battle in Heavy Mask.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_StartBalanced": {
+        "Display Name": "N/A",
+        "Description": "Start battle in Balanced Mask.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_StartCaster": {
+        "Display Name": "N/A",
+        "Description": "Start battle in Caster Mask.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_StartAgile": {
+        "Display Name": "N/A",
+        "Description": "Start battle in Agile Mask.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_StartAlmighty": {
+        "Display Name": "N/A",
+        "Description": "Start battle in Almighty Mask.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_HeavyAPCost-1": {
+        "Display Name": "N/A",
+        "Description": "Heavy Mask Skills cost 1 less AP.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_BalancedAPCost-1": {
+        "Display Name": "N/A",
+        "Description": "Balanced Mask Skills cost 1 less AP.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_CasterAPCost-1": {
+        "Display Name": "N/A",
+        "Description": "Skills cost 1 less AP while in Caster Mask.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_AgileAPCost-1": {
+        "Display Name": "N/A",
+        "Description": "Agile Mask Skills cost 1 less AP.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_APCost-1IfAlmighty": {
+        "Display Name": "N/A",
+        "Description": "Almighty Mask Skills cost 1 less AP.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_GainAPOnDMGTakenOnHeavy": {
+        "Display Name": "N/A",
+        "Description": "+1 AP per hit taken.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_SupportSkillsCostReducedOnCaster": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_CritChanceOnAgile": {
+        "Display Name": "N/A",
+        "Description": "+50% Critical Chance while in Agile Mask.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_DoubleBreakDMGOnAlmighty": {
+        "Display Name": "N/A",
+        "Description": "Break damage is doubled while in Almighty Mask.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_GainAPAllAlliesOnAlmightySwitch": {
+        "Display Name": "N/A",
+        "Description": "Almighty Mask gives 2 AP to all allies.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_SwitchToAlmightyOnBreak": {
+        "Display Name": "N/A",
+        "Description": "Switch to Almighty Mask on Breaking an enemy.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "BreakDMG+": {
+        "Display Name": "N/A",
+        "Description": "50% increased Break damage.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_DMG+OverchargedSkills": {
+        "Display Name": "N/A",
+        "Description": "Upgraded Skills deal 30% more damage.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "DMG+CounterAttack": {
+        "Display Name": "N/A",
+        "Description": "50% increased damage on Counterattacks.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_DMG+FreeAimIfNotAlmighty": {
+        "Display Name": "N/A",
+        "Description": "Free Aim shots deal 100% more damage with all Masks except Almighty.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_AlwaysCritOnAlmighty": {
+        "Display Name": "N/A",
+        "Description": "100% Critical Chance while in Almighty Mask.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_InstantReplayOnAlmighty": {
+        "Display Name": "N/A",
+        "Description": "Replay instantly when in Almighty Mask.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_InstantReviveOnDeathOnAlmighty": {
+        "Display Name": "N/A",
+        "Description": "Revive instantly with full Health if dead while in Almighty Mask. Once per Battle.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_DMG+BonusStackOnOverchargedSkillsChain": {
+        "Display Name": "N/A",
+        "Description": "30% increased damage per Upgraded Skill used. Resets on using a non-Upgraded Skill.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_WheelSpinOnAttack": {
+        "Display Name": "N/A",
+        "Description": "Base Attack spins the Bestial Wheel to a random value.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Masks_CritDMG+OnBalanced": {
+        "Display Name": "N/A",
+        "Description": "Critical hits deal 30% more damage while in Balanced Mask.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_StartRankSButNoHeal": {
+        "Display Name": "N/A",
+        "Description": "Start battle at Rank S, but can't be Healed or gain Shields.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "WeakeningMark": {
+        "Display Name": "Enfeebling Mark",
+        "Description": "Marked targets deal 30% less damage.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Defense",
+            "Mark",
+            "Status Effect"
+        ]
+    },
+    "BurningMark": {
+        "Display Name": "Burning Mark",
+        "Description": "Apply Burn on hitting a Marked enemy.",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Mark",
+            "Burn",
+            "Status Effect"
+        ]
+    },
+    "PowerfulMark": {
+        "Display Name": "Powerful Mark",
+        "Description": "Gain Powerful on hitting a Marked enemy.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Buff",
+            "Damage",
+            "Mark",
+            "Status Effect"
+        ]
+    },
+    "HealingMark": {
+        "Display Name": "Healing Mark",
+        "Description": "Recover 25% Health on hitting a Marked enemy. Once per turn.",
+        "Lumina Cost": 20,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Heal",
+            "Mark",
+            "Status Effect"
+        ]
+    },
+    "StayMarked": {
+        "Display Name": "Stay Marked",
+        "Description": "50% chance to apply Mark when attacking a Marked target.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Mark",
+            "Status Effect"
+        ]
+    },
+    "CharybdeToScylla": {
+        "Display Name": "Charybde To Scylla",
+        "Description": "Apply Mark on Stun removed.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "FreeAimBurnShot": {
+        "Display Name": "Burning Shots",
+        "Description": "20% chance to Burn on Free Aim shot.",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Free Aim",
+            "Burn",
+            "Status Effect"
+        ]
+    },
+    "FreeAimInvertedShot": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "FreeAimMarkingShot": {
+        "Display Name": "Marking Shots",
+        "Description": "20% chance to apply Mark on Free Aim shot.",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Free Aim",
+            "Mark",
+            "Status Effect"
+        ]
+    },
+    "FreeAimPowerful": {
+        "Display Name": "Powerful Shots",
+        "Description": "20% chance to gain Powerful on Free Aim shot.",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Free Aim",
+            "Buff",
+            "Damage"
+        ]
+    },
+    "FreeAimShell": {
+        "Display Name": "Protecting Shots",
+        "Description": "20% chance to gain Shell on Free Aim shot.",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Free Aim",
+            "Buff",
+            "Defense"
+        ]
+    },
+    "FreeAimSpeed": {
+        "Display Name": "Accelerating Shots",
+        "Description": "20% chance to gain Rush on Free Aim shot.",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Free Aim",
+            "Buff",
+            "Speed"
+        ]
+    },
+    "FreeAimPrecision": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "FreeAimEnergy": {
+        "Display Name": "Energising Shots",
+        "Description": "20% chance to gain 1 AP on Free Aim shot.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Free Aim",
+            "AP"
+        ]
+    },
+    "Versatile": {
+        "Display Name": "Versatile",
+        "Description": "After a Free Aim hit, Base Attack damage is increased by 50% for 1 turn.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Free Aim",
+            "Base Attack",
+            "Damage"
+        ]
+    },
+    "PowerfulStrike": {
+        "Display Name": "Empowering Attack",
+        "Description": "Gain Powerful for 1 turn on Base Attack.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Base Attack",
+            "Buff",
+            "Damage"
+        ]
+    },
+    "ShellStrike": {
+        "Display Name": "Protecting Attack",
+        "Description": "Gain Shell for 1 turn on Base Attack.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Base Attack",
+            "Buff",
+            "Defense"
+        ]
+    },
+    "PowerlessStrike": {
+        "Display Name": "Enfeebling Attack",
+        "Description": "Base Attack applies Powerless for 1 turn.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Base Attack",
+            "Debuff",
+            "Defense"
+        ]
+    },
+    "DefenslessStrike": {
+        "Display Name": "Exposing Attack",
+        "Description": "Base Attack applies Defenceless for 1 turn.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Base Attack",
+            "Debuff",
+            "Damage"
+        ]
+    },
+    "ReinforcementParade": {
+        "Display Name": "Empowering Parry",
+        "Description": "Each successful Parry increases damage by 5% until end of the following turn.\nTaking any damage removes this buff.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage",
+            "Parry"
+        ]
+    },
+    "LastStandSpeed": {
+        "Display Name": "Accelerating Last Stand",
+        "Description": "Gain Rush if fighting alone.",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Solo",
+            "Speed",
+            "Buff"
+        ]
+    },
+    "LastStandPowerful": {
+        "Display Name": "Empowering Last Stand",
+        "Description": "Gain Powerful if fighting alone.",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Solo",
+            "Damage",
+            "Buff"
+        ]
+    },
+    "LastStandShell": {
+        "Display Name": "Protecting Last Stand",
+        "Description": "Gain Shell if fighting alone.",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Solo",
+            "Defense",
+            "Buff"
+        ]
+    },
+    "PowerOfPain": {
+        "Display Name": "Energising Pain",
+        "Description": "No longer gain AP on Parry. +1 AP on getting hit.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP",
+            "Defense"
+        ]
+    },
+    "JumpRecovery": {
+        "Display Name": "Energising Jump",
+        "Description": "+1 AP on Jump Counterattack.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP"
+        ]
+    },
+    "FullEnergyAttack": {
+        "Display Name": "Powered Attack",
+        "Description": "On every damage dealt, try to consume 1 AP.\nIf successful, increase damage by 20%.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage"
+        ]
+    },
+    "Foretell_AttackConsumeBurnToApplyForetell": {
+        "Display Name": "N/A",
+        "Description": "Base attack can consume 1 Sun charge to apply 5 Foretell.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "SkillsDarkDMG+": {
+        "Display Name": "N/A",
+        "Description": "20% increased Dark damage with Skills.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "SkillsVoidDMG+": {
+        "Display Name": "N/A",
+        "Description": "20% increased Void damage with Skills.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "SkillsPhysicalDMG+": {
+        "Display Name": "N/A",
+        "Description": "20% increased Physical damage with Skills.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "ComboAttack2": {
+        "Display Name": "Combo Attack II",
+        "Description": "Base Attack has 1 extra hit.",
+        "Lumina Cost": 20,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP",
+            "Base Attack"
+        ]
+    },
+    "ComboAttack3": {
+        "Display Name": "Combo Attack III",
+        "Description": "Base Attack has 1 extra hit.",
+        "Lumina Cost": 30,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP",
+            "Base Attack"
+        ]
+    },
+    "DeathBombPhysical": {
+        "Display Name": "Death Bomb",
+        "Description": "On Death, deal damage to all enemies.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Death",
+            "Damage"
+        ]
+    },
+    "Breaker": {
+        "Display Name": "Breaker",
+        "Description": "25% increased Break damage.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Break"
+        ]
+    },
+    "SimpleBreaker": {
+        "Display Name": "Staggering Attack",
+        "Description": "50% increased Break damage on Base Attack.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Break",
+            "Base Attack"
+        ]
+    },
+    "EnergyBreak": {
+        "Display Name": "Energising Break",
+        "Description": "+3 AP on Breaking a target.",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP",
+            "Break"
+        ]
+    },
+    "BreakMomentum": {
+        "Display Name": "Quick Break",
+        "Description": "Play again on Breaking a target.",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Break",
+            "Speed"
+        ]
+    },
+    "BreakingStrong": {
+        "Display Name": "Empowering Break",
+        "Description": "Gain Powerful on Breaking a target.",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Break",
+            "Damage",
+            "Buff"
+        ]
+    },
+    "StunEnergy": {
+        "Display Name": "Energising Stun",
+        "Description": "+1 AP on hitting a Stunned target with a Skill.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Break",
+            "AP"
+        ]
+    },
+    "HealingStun": {
+        "Display Name": "Healing Stun",
+        "Description": "Recover 5% Health on hitting a Stunned target.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Break",
+            "Heal"
+        ]
+    },
+    "BurningBreak": {
+        "Display Name": "Burning Break",
+        "Description": "Apply 3 Burn stacks on Breaking a target.",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Break",
+            "Burn",
+            "Status Effect"
+        ]
+    },
+    "CriticalBreak": {
+        "Display Name": "Critical Stun",
+        "Description": "100% Critical Chance on hitting a Stunned target.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Critical",
+            "Break"
+        ]
+    },
+    "BreakingCounter": {
+        "Display Name": "Breaking Counter",
+        "Description": "50% increased Break damage on Counterattack.",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Counter",
+            "Break"
+        ]
+    },
+    "GradientBreak": {
+        "Display Name": "Gradient Break",
+        "Description": "+50% of a Gradient Charge on Breaking a target.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Gradient",
+            "Break"
+        ]
+    },
+    "BreakShot": {
+        "Display Name": "Breaking Shots",
+        "Description": "50% increased Break damage with Free Aim shots.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Break",
+            "Free Aim"
+        ]
+    },
+    "GreatFireBreak": {
+        "Display Name": "Fueling Break",
+        "Description": "Breaking a target doubles its Burn amount.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Break",
+            "Burn",
+            "Status Effect"
+        ]
+    },
+    "GradientFighter": {
+        "Display Name": "Gradient Fighter",
+        "Description": "25% increased damage with Gradient Attacks.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Gradient",
+            "Damage"
+        ]
+    },
+    "GradientHeal": {
+        "Display Name": "Gradient Recovery",
+        "Description": "Recover 10% Health on using a Gradient Charge.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Gradient",
+            "Heal"
+        ]
+    },
+    "GradientEnergy": {
+        "Display Name": "Energising Gradient",
+        "Description": "+1 AP per Gradient Charge consumed.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP",
+            "Gradient"
+        ]
+    },
+    "GradientStacker": {
+        "Display Name": "Charging Attack",
+        "Description": "+15% of a Gradient Charge on Base Attack.",
+        "Lumina Cost": 7,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Gradient",
+            "Base Attack"
+        ]
+    },
+    "GradientBreaker": {
+        "Display Name": "Gradient Breaker",
+        "Description": "50% increased Break damage with Gradient Attacks.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Gradient",
+            "Break"
+        ]
+    },
+    "PostGradient": {
+        "Display Name": "N/A",
+        "Description": "N/A",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "GradientCure": {
+        "Display Name": "Charging Recovery",
+        "Description": "50% increased Gradient Generation with Healing Skills.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Gradient"
+        ]
+    },
+    "GradientCounterCharge": {
+        "Display Name": "Charging Counter",
+        "Description": "+10% of a Gradient Charge on Counterattack.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Counter",
+            "Gradient"
+        ]
+    },
+    "GradientWeakness": {
+        "Display Name": "Charging Weakness",
+        "Description": "+15% of a Gradient Charge on hitting a Weakness. Once per turn.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Gradient"
+        ]
+    },
+    "GradientMark": {
+        "Display Name": "Charging Mark",
+        "Description": "+20% of a Gradient Charge on hitting a Marked target. Once per turn.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Gradient",
+            "Mark",
+            "Status Effect"
+        ]
+    },
+    "ReviveTintEnergy": {
+        "Display Name": "Revive Tint Energy",
+        "Description": "Revive Tints also give 3 AP.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Items",
+            "AP"
+        ]
+    },
+    "HealingTintEnergy": {
+        "Display Name": "Healing Tint Energy",
+        "Description": "Healing Tints also give 1 AP.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Items",
+            "AP"
+        ]
+    },
+    "PowerfulTint": {
+        "Display Name": "Empowering Tint",
+        "Description": "Healing Tints also apply Powerful.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Items",
+            "Buff",
+            "Damage"
+        ]
+    },
+    "ShellTint": {
+        "Display Name": "Protecting Tint",
+        "Description": "Healing Tints also apply Shell.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Items",
+            "Buff",
+            "Defense"
+        ]
+    },
+    "ShieldingTint": {
+        "Display Name": "Shielding Tint",
+        "Description": "Healing Tints also add 2 Shields.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Items",
+            "Shield",
+            "Defense"
+        ]
+    },
+    "SpeedTint": {
+        "Display Name": "Accelerating Tint",
+        "Description": "Healing Tints also apply Rush.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Items",
+            "Speed",
+            "Buff"
+        ]
+    },
+    "GreatHealingTint": {
+        "Display Name": "Better Healing Tint",
+        "Description": "Healing Tints have double the Healing effect.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Items",
+            "Heal"
+        ]
+    },
+    "CleansingTint": {
+        "Display Name": "Cleansing Tint",
+        "Description": "Healing Tints also remove all Status Effects from the target.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Items",
+            "Status Effect"
+        ]
+    },
+    "BigHealingTint": {
+        "Display Name": "Great Healing Tint",
+        "Description": "Healing Tints now affect the whole Expedition.",
+        "Lumina Cost": 20,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Items"
+        ]
+    },
+    "BigEnergyTint": {
+        "Display Name": "Great Energy Tint",
+        "Description": "Energy Tints now affect the whole Expedition.",
+        "Lumina Cost": 20,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Items"
+        ]
+    },
+    "GradientTint": {
+        "Display Name": "Charging Tint",
+        "Description": "+5% of a Gradient Charge on using an item.",
+        "Lumina Cost": 2,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Items",
+            "Gradient"
+        ]
+    },
+    "TimeTint": {
+        "Display Name": "Time Tint",
+        "Description": "Energy Tints also apply Rush.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Items",
+            "Speed"
+        ]
+    },
+    "APOnBurn": {
+        "Display Name": "Energising Burn",
+        "Description": "+1 AP on applying Burn. Once per turn.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP",
+            "Burn",
+            "Status Effect"
+        ]
+    },
+    "BreakDamageOnBurn": {
+        "Display Name": "Breaking Burn",
+        "Description": "25% increased Break damage on Burning enemies.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Break",
+            "Burn",
+            "Status Effect"
+        ]
+    },
+    "CritChanceBurn": {
+        "Display Name": "Critical Burn",
+        "Description": "25% increased Critical Chance on Burning enemies.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Critical",
+            "Burn",
+            "Status Effect"
+        ]
+    },
+    "BurningDeath": {
+        "Display Name": "Burning Death",
+        "Description": "Apply 3 Burn to all enemies on Death.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Burn",
+            "Death",
+            "Status Effect"
+        ]
+    },
+    "BurnDurationIncrease": {
+        "Display Name": "Longer Burn",
+        "Description": "Burn duration is increased by 2.",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Burn",
+            "Status Effect"
+        ]
+    },
+    "BreakDamageOnCrit": {
+        "Display Name": "Critical Break",
+        "Description": "25% increased Break damage on Critical hits.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Break",
+            "Critical"
+        ]
+    },
+    "CritCHanceOnWeak": {
+        "Display Name": "Critical Weakness",
+        "Description": "25% increased Critical Chance on Weakness.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Critical"
+        ]
+    },
+    "CritChanceOnStunned": {
+        "Display Name": "Critical Stun",
+        "Description": "100% Critical Chance on hitting a Stunned target.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "CritChanceOnDefenseless": {
+        "Display Name": "Critical Vulnerability",
+        "Description": "25% increased Critical Chance on Defenceless enemies.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Critical",
+            "Debuff"
+        ]
+    },
+    "PowerDodgeCombo": {
+        "Display Name": "Empowering Dodge",
+        "Description": "5% increased damage for each consecutive successful Dodge. Can stack up to 10 times.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage"
+        ]
+    },
+    "MarkOnBreak": {
+        "Display Name": "Marking Break",
+        "Description": "Apply Mark on Break.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Mark",
+            "Break",
+            "Status Effect"
+        ]
+    },
+    "SlowOnBreak": {
+        "Display Name": "Slowing Break",
+        "Description": "Apply Slow on Break.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Debuff",
+            "Break",
+            "Speed"
+        ]
+    },
+    "DefenselessOnBreak": {
+        "Display Name": "Exposing Break",
+        "Description": "Apply Defenceless on Break.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage",
+            "Break",
+            "Debuff"
+        ]
+    },
+    "BreakSpecialist": {
+        "Display Name": "Break Specialist",
+        "Description": "Break damage is increased by 50%, but base damage is reduced by 20%.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Break"
+        ]
+    },
+    "BreakingDeath": {
+        "Display Name": "Breaking Death",
+        "Description": "Fully charge enemy's Break Bar on death.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Break",
+            "Death"
+        ]
+    },
+    "BreakDamageOnSlow": {
+        "Display Name": "Breaking Slow",
+        "Description": "25% increased Break damage against Slowed enemies.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Break",
+            "Speed",
+            "Status Effect"
+        ]
+    },
+    "LongerPowerful": {
+        "Display Name": "Longer Powerful",
+        "Description": "On applying Powerful, its duration is increased by 2.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Buff",
+            "Damage"
+        ]
+    },
+    "LongerShell": {
+        "Display Name": "Longer Shell",
+        "Description": "On applying Shell, its duration is increased by 2.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Buff",
+            "Defense"
+        ]
+    },
+    "LongerRush": {
+        "Display Name": "Longer Rush",
+        "Description": "On applying Rush, its duration is increased by 2.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Buff",
+            "Speed"
+        ]
+    },
+    "PowerfulOnShell": {
+        "Display Name": "Powerful On Shell",
+        "Description": "Apply Powerful on applying Shell.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Buff",
+            "Defense",
+            "Damage"
+        ]
+    },
+    "RushOnPowerful": {
+        "Display Name": "Rush On Powerful",
+        "Description": "Apply Rush on applying Powerful.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Buff",
+            "Speed",
+            "Damage"
+        ]
+    },
+    "ShellOnRush": {
+        "Display Name": "Shell On Rush",
+        "Description": "Apply Shell on applying Rush.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Buff",
+            "Speed",
+            "Defense"
+        ]
+    },
+    "EvasiveHealer": {
+        "Display Name": "Evasive Healer",
+        "Description": "Heals provided are doubled until any damage is taken.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Heal"
+        ]
+    },
+    "HealOnBuff": {
+        "Display Name": "Healing Boon",
+        "Description": "Heal 15% HP on applying a buff.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Heal",
+            "Buff"
+        ]
+    },
+    "APOnPowerful": {
+        "Display Name": "Energising Powerful",
+        "Description": "Give 2 AP on applying Powerful.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP",
+            "Buff",
+            "Damage"
+        ]
+    },
+    "APOnShell": {
+        "Display Name": "Energising Shell",
+        "Description": "Give 2 AP on applying Shell.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP",
+            "Buff",
+            "Defense"
+        ]
+    },
+    "APOnRush": {
+        "Display Name": "Energising Rush",
+        "Description": "Give 2 AP on applying Rush.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP",
+            "Buff",
+            "Speed"
+        ]
+    },
+    "GreaterPowerless": {
+        "Display Name": "Greater Powerless",
+        "Description": "+15% to Powerless damage reduction.",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Debuff",
+            "Defense"
+        ]
+    },
+    "GreaterDefenseless": {
+        "Display Name": "Greater Defenceless",
+        "Description": "+15% to Defenceless damage amplification.",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Debuff",
+            "Damage"
+        ]
+    },
+    "GreaterSlow": {
+        "Display Name": "Greater Slow",
+        "Description": "+15% to Slow Speed reduction.",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Debuff",
+            "Speed"
+        ]
+    },
+    "AutoDispelEnergy": {
+        "Display Name": "Energising Cleanse",
+        "Description": "Dispel the first negative Status Effect received and gain 2 AP.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Status Effect",
+            "AP"
+        ]
+    },
+    "DispelOnAPConsume": {
+        "Display Name": "Draining Cleanse",
+        "Description": "Consume 1 AP to prevent Status Effects application, if possible.",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Status Effect"
+        ]
+    },
+    "HealOnWeakness": {
+        "Display Name": "N/A",
+        "Description": "Self-Heal by 2% Health on hitting elemental weakness.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "HealOnCrit": {
+        "Display Name": "N/A",
+        "Description": "Self-Heal by 2% Health on dealing a Critical hit.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "BreakDamageOnBaseAttack": {
+        "Display Name": "N/A",
+        "Description": "Increase Break damage on Base Attack.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "BreakDamageOnWeakness": {
+        "Display Name": "N/A",
+        "Description": "Increase Break damage on hitting elemental weakness.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "PowerlessOnCounter": {
+        "Display Name": "N/A",
+        "Description": "Apply Powerless on Counterattack.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "PowerlessOnMarking": {
+        "Display Name": "N/A",
+        "Description": "Apply Powerless on Marking an enemy.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "MarkOnBaseAttack": {
+        "Display Name": "N/A",
+        "Description": "Mark an enemy on Base Attack.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "MarkIsBurn": {
+        "Display Name": "N/A",
+        "Description": "Apply 3 Burn instead of Mark.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "APOnCounter": {
+        "Display Name": "N/A",
+        "Description": "Gain 2 AP on Counterattack.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "AlwaysCritOnCounterDamage": {
+        "Display Name": "N/A",
+        "Description": "Counterattack is always a Critical hit.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "IncreaseCounterDamage": {
+        "Display Name": "N/A",
+        "Description": "50% increased Counterattack damage.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "IncreaseCritDamage": {
+        "Display Name": "N/A",
+        "Description": "Critical hit damage is increased.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "LightDMGBurnOnCrit": {
+        "Display Name": "N/A",
+        "Description": "Light damage can Burn on Critical hits.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "TriggerLightningOnCrit": {
+        "Display Name": "N/A",
+        "Description": "Triggers a lightning strike on Critical hits.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "SupportSkillsCostReduced": {
+        "Display Name": "N/A",
+        "Description": "Support Skills cost 1 less AP.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "PowerfulOnGivingAP": {
+        "Display Name": "N/A",
+        "Description": "Giving AP also applies Powerful.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "CounterDefenseless": {
+        "Display Name": "N/A",
+        "Description": "Counterattacks apply Defenceless.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_AttackOffensive": {
+        "Display Name": "N/A",
+        "Description": "If Stanceless, Base Attack switches to Offensive Stance.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_CritChanceOffensive": {
+        "Display Name": "N/A",
+        "Description": "+50% Critical Chance while in Offensive Stance.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "ShieldOnShell": {
+        "Display Name": "N/A",
+        "Description": "Applying Shell also applies 1 Shield.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "APOnShield": {
+        "Display Name": "N/A",
+        "Description": "On applying Shields, also give 1 AP.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_VirtuoseDoubleShields": {
+        "Display Name": "N/A",
+        "Description": "On switching to Virtuose Stance, double all Shields on allies.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_VirtuoseHealAllies": {
+        "Display Name": "N/A",
+        "Description": "Allies recover 20% Health on switching to Virtuose Stance.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_ShellOnHighHP": {
+        "Display Name": "N/A",
+        "Description": "Applies Shell when Health is above 80%.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_VirtuoseOnLowHP": {
+        "Display Name": "N/A",
+        "Description": "Switch to Virtuose Stance when Health falls below 50%.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_DefensiveSharedAP": {
+        "Display Name": "N/A",
+        "Description": "In Defensive Stance, gaining AP also gives 1 AP to allies.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_AttackDefensive": {
+        "Display Name": "N/A",
+        "Description": "If Stanceless, Base Attack switches to Defensive Stance.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "CanStealShield": {
+        "Display Name": "N/A",
+        "Description": "Steal Shields removed by hitting enemies.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_VirtuoseOnShieldBreak": {
+        "Display Name": "N/A",
+        "Description": "Switch to Virtuose Stance on breaking any Shield.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "MarkBreakShields": {
+        "Display Name": "N/A",
+        "Description": "Hitting a Marked enemy breaks all its Shields.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_ShieldOnParry": {
+        "Display Name": "N/A",
+        "Description": "On Defensive Stance, gain 1 Shield per Parry.\nLose all Shields on turn start.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "CounterDamagePerShield": {
+        "Display Name": "N/A",
+        "Description": "50% increased Counter damage per Shield.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_DefensiveGradientCharges": {
+        "Display Name": "N/A",
+        "Description": "Double Gradient generation while in Defensive Stance.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "GradientChargesOnParry": {
+        "Display Name": "Charging Parry",
+        "Description": "+5% of a Gradient Charge on Parry.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_CritChanceDefensive": {
+        "Display Name": "N/A",
+        "Description": "+50% Critical Chance while in Defensive Stance.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "APOnCrit": {
+        "Display Name": "N/A",
+        "Description": "Critical hits with Skills give 2 AP. Once per turn.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_OffensiveBurnStacks": {
+        "Display Name": "N/A",
+        "Description": "In Offensive Stance, double the amount of Burn applied.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "AttackPropagatesBurn": {
+        "Display Name": "N/A",
+        "Description": "Base Attack propagates Burn.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "SkillsConversionToVoid": {
+        "Display Name": "N/A",
+        "Description": "All Skills deal Void damage.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_VirtuoseKeepMark": {
+        "Display Name": "N/A",
+        "Description": "In Virtuose Stance, hitting a Marked enemy doesn't remove Mark.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Stance_DefensiveBreakDamage": {
+        "Display Name": "N/A",
+        "Description": "In Defensive Stance, double Break damage.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "BreakEarthBurst": {
+        "Display Name": "N/A",
+        "Description": "Breaking an enemy deals a high amount of Earth damage.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "BurnDamage": {
+        "Display Name": "N/A",
+        "Description": "50% increased Burn damage.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "BreakingAttack": {
+        "Display Name": "Breaking Attack",
+        "Description": "Base Attack can Break.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Base Attack",
+            "Break"
+        ]
+    },
+    "ParryDamageNoDodge": {
+        "Display Name": "Successive Parry",
+        "Description": "Can't Dodge. +5% increased damage per Parry until damage taken.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage",
+            "Parry"
+        ]
+    },
+    "GradientOnCrit": {
+        "Display Name": "Charging Critical",
+        "Description": "+20% of a Gradient Charge on Critical Hit. Once per turn.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Gradient",
+            "Critical"
+        ]
+    },
+    "GradientOnBurn": {
+        "Display Name": "Charging Burn",
+        "Description": "+20% of a Gradient Charge on applying Burn. Once per turn.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Gradient",
+            "Burn"
+        ]
+    },
+    "GradientOnStun": {
+        "Display Name": "Charging Stun",
+        "Description": "+5% of a Gradient Charge on hitting a Stunned enemy.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Gradient",
+            "Break"
+        ]
+    },
+    "GradientOnBuff": {
+        "Display Name": "Charging Alteration",
+        "Description": "+10% of a Gradient Charge on applying a Buff. Once per turn.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Gradient",
+            "Buff"
+        ]
+    },
+    "BestDefense": {
+        "Display Name": "The Best Defense",
+        "Description": "Deal 50% more damage, but can't Parry or Dodge.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage"
+        ]
+    },
+    "BonusHealthNoDefense": {
+        "Display Name": "Passive Defense",
+        "Description": "Reduce damage taken by 50%, but can't Parry or Dodge.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Defense"
+        ]
+    },
+    "AntiCharm": {
+        "Display Name": "Anti-Charm",
+        "Description": "Immune to Charm.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Defense",
+            "Status Effect"
+        ]
+    },
+    "AntiBlight": {
+        "Display Name": "Anti-Blight",
+        "Description": "Immune to Blight.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Defense",
+            "Status Effect"
+        ]
+    },
+    "DoubleHit": {
+        "Display Name": "N/A",
+        "Description": "An ethereal Sword deals Light damage on any damage dealt with Skills.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "LightDamageBurn": {
+        "Display Name": "N/A",
+        "Description": "20% chance to apply Burn on dealing Light damage.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "Perfection_SurvivorRankA": {
+        "Display Name": "N/A",
+        "Description": "Can't die if at least Rank A.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "LongerDodge": {
+        "Display Name": "Dodge Helper",
+        "Description": "25% increased Dodge window.",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "ParrySpecialist": {
+        "Display Name": "Parry Specialist",
+        "Description": "25% reduced Parry window but double Counterattack damage.",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "DodgeSpecialist": {
+        "Display Name": "Dodge Specialist",
+        "Description": "25% reduced Dodge window, but 50% chance to gain 1 AP on successful Dodge.",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "CounterUpdragdeB": {
+        "Display Name": "Augmented Counter II",
+        "Description": "50% increased Counterattack damage.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Counter",
+            "Damage"
+        ]
+    },
+    "CounterUpdragdeC": {
+        "Display Name": "Augmented Counter III",
+        "Description": "75% increased Counterattack damage.",
+        "Lumina Cost": 7,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Counter",
+            "Damage"
+        ]
+    },
+    "AugmentedAttack": {
+        "Display Name": "Augmented Attack",
+        "Description": "50% increased Base Attack damage.",
+        "Lumina Cost": 7,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Base Attack",
+            "Damage"
+        ]
+    },
+    "Stains_RandomGenerationOnAttack": {
+        "Display Name": "N/A",
+        "Description": "Base Attack generates 2 random Stains.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "FreeAimDoubleShot": {
+        "Display Name": "Weapon",
+        "Description": "Free Aim Shots deal damage to an additional random target.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "Stance_VirtuoseDoubleDMG": {
+        "Display Name": "Weapon",
+        "Description": "In Virtuose Stance, Burn deals double damage.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "Stains_AttackLight+": {
+        "Display Name": "N/A",
+        "Description": "Base Attack generates a Light Stain.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "CleasLife": {
+        "Display Name": "Clea's Life",
+        "Description": "On turn start, if no damage taken since last turn, recover 100% Health.",
+        "Lumina Cost": 30,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Heal"
+        ]
+    },
+    "DeadEnergyII": {
+        "Display Name": "Dead Energy I",
+        "Description": "+3 AP on killing an enemy.",
+        "Lumina Cost": 2,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "AttackLifesteal_Weapon": {
+        "Display Name": "Attack Lifesteal",
+        "Description": "Recover 15% Health on Base Attack.",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "AugmentedAim_Weapon": {
+        "Display Name": "Weapon",
+        "Description": "50% increased Free Aim damage.",
+        "Lumina Cost": 3,
+        "Steps To Unlock Lumina": 4,
+        "Categories": []
+    },
+    "StartD": {
+        "Display Name": "N/A",
+        "Description": "Rank D on turn start.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "PerfectDefense": {
+        "Display Name": "N/A",
+        "Description": "Ranks reduce damage taken by 20% per Rank, instead of increasing damage dealt.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "DamageOnPerfectionRank": {
+        "Display Name": "N/A",
+        "Description": "25% increased damage on Rank up. Resets on taking damage.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "PerfectionOnDamage": {
+        "Display Name": "N/A",
+        "Description": "Gain Perfection on receiving damage instead of Parrying or Dodging.\nLose 1 Rank on Parry or Dodge.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "PowerlessMark": {
+        "Display Name": "N/A",
+        "Description": "Applying Mark also applies Powerless.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "PerfectDefenseB": {
+        "Display Name": "N/A",
+        "Description": "Ranks reduce damage taken by 20% per Rank, instead of increasing damage dealt.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "DamageBonusPerHit": {
+        "Display Name": "N/A",
+        "Description": "Each successive Skill hit deals 10% more damage.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "firstHitApplyMark": {
+        "Display Name": "N/A",
+        "Description": "First hit of a Skill applies Mark.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "SecondHitDontConsumeMark": {
+        "Display Name": "N/A",
+        "Description": "Second hit of a Skill and following hits don't consume Mark.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "More4ApDamageBonus": {
+        "Display Name": "N/A",
+        "Description": "On turn start, consume each AP above 4 to gain 50% more damage per AP consumed.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "BurnInVirtuose": {
+        "Display Name": "N/A",
+        "Description": "On Virtuose, all hits apply Burn.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "InflictMarkIfSkillLess4Ap": {
+        "Display Name": "N/A",
+        "Description": "Using a Skill that costs less than 4 AP applies Mark to all enemies.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "CritPerBurn": {
+        "Display Name": "N/A",
+        "Description": "+5% Critical chance per Burn on the target.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "BurnOnCrit": {
+        "Display Name": "N/A",
+        "Description": "Critical hits apply Burn.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "ThunderSkillConsumeBurn": {
+        "Display Name": "N/A",
+        "Description": "Lightning Skills consume up to 100 Burn to deal 2% more damage per Burn consumed.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "NoOverchargeSkillBuff": {
+        "Display Name": "N/A",
+        "Description": "Using a Skill that doesn't consume Stains increases damage by 20%.\nResets on using a Skill that consumes Stains.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "BaseAttackToDarkStain": {
+        "Display Name": "N/A",
+        "Description": "Base attack changes all current Stains into Dark Stains.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "DamageBonusDarkStains": {
+        "Display Name": "N/A",
+        "Description": "With 4 active Dark Stains, any Skill can consume them to deal 300% more damage.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "FreeAimForwardWheel": {
+        "Display Name": "N/A",
+        "Description": "Free Aim Shots move the Bestial Wheel 1 step forward.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "DamagePerMaskChange": {
+        "Display Name": "N/A",
+        "Description": "25% increased damage per Mask change this turn.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "DoubleFreeAimDamageAlmighty": {
+        "Display Name": "N/A",
+        "Description": "Free Aim shots deal double damage while in Almighty Mask.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "BaseAttackToHeavy": {
+        "Display Name": "N/A",
+        "Description": "Base Attack moves the Bestial Wheel to Heavy Mask.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "ShieldAllHeroesOnHeavy": {
+        "Display Name": "N/A",
+        "Description": "Heavy Mask gives 1 Shield to all allies.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "ReducedDamageOnHeavy": {
+        "Display Name": "N/A",
+        "Description": "Damage taken are reduced by 50% while in Heavy Mask.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "SOSHealingTint": {
+        "Display Name": "SOS Healing Tint",
+        "Description": "Consume a Healing Tint when falling below 50% Health.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Items",
+            "Heal"
+        ]
+    },
+    "GradientParry": {
+        "Display Name": "Gradient Parry",
+        "Description": "+5% of a gradient charge on Parry.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Gradient",
+            "Parry"
+        ]
+    },
+    "GradientOvercharge": {
+        "Display Name": "Gradient Overcharge",
+        "Description": "On turn start, consume 3 Gradient Charges (if able) to deal 200% more damage this turn.",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Gradient",
+            "Damage"
+        ]
+    },
+    "APDiscount": {
+        "Display Name": "AP Discount",
+        "Description": "Skills cost 1 less AP.",
+        "Lumina Cost": 30,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "AP"
+        ]
+    },
+    "ConsumingAttack": {
+        "Display Name": "Consuming Attack",
+        "Description": "Base attack consumes up to 100 Burns to deal 10% more damage per Burn consumed.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Base Attack",
+            "Burn",
+            "Damage"
+        ]
+    },
+    "LongerBreak": {
+        "Display Name": "Longer Break",
+        "Description": "Breaks last 1 more turn but the target can't be Broken twice.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Break"
+        ]
+    },
+    "Frenzy": {
+        "Display Name": "Frenzy",
+        "Description": "Each successive Skill hit deals 10% more damage.",
+        "Lumina Cost": 20,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage"
+        ]
+    },
+    "DoubleThird": {
+        "Display Name": "Double Third",
+        "Description": "Every third hit of a Skill deals double damage.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage"
+        ]
+    },
+    "SlowingAttack": {
+        "Display Name": "Slowing Attack",
+        "Description": "Base attack applies Slow for 1 turn.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Base Attack",
+            "Speed",
+            "Debuff"
+        ]
+    },
+    "EmpoweredHealer": {
+        "Display Name": "Empowered Healer",
+        "Description": "Using a Healing Skill gives 50% more damage for 1 turn.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Heal",
+            "Damage"
+        ]
+    },
+    "DamageShare": {
+        "Display Name": "Damage Share",
+        "Description": "50% damage taken is redirected to other allies (if possible).",
+        "Lumina Cost": 30,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Defense"
+        ]
+    },
+    "Feint": {
+        "Display Name": "Feint",
+        "Description": "Start each turn with 4 Barbapapa stacks.\nEvery 5th hit with a Skill deals 600% more damage.",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage"
+        ]
+    },
+    "TriggerHappy": {
+        "Display Name": "Trigger-happy",
+        "Description": "After shooting 10 times in the same turn, gain +2 AP (once). And following Shots this turn deal 200% more damage.",
+        "Lumina Cost": 20,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Free Aim",
+            "Damage",
+            "AP"
+        ]
+    },
+    "EmpoweringJumps": {
+        "Display Name": "Empowering Jumps",
+        "Description": "Counters deal 100% more damage for each successful Jump Counter this turn.",
+        "Lumina Cost": 5,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Counter",
+            "Damage"
+        ]
+    },
+    "AlternatingCritical": {
+        "Display Name": "Alternating Critical",
+        "Description": "On Critical hit, 100% increased damage of the next non-Critical hit.",
+        "Lumina Cost": 10,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage",
+            "Critical"
+        ]
+    },
+    "FirstLife": {
+        "Display Name": "First Life",
+        "Description": "25% increased damage until death. 20% decreased damage on death. (Once)",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Damage"
+        ]
+    },
+    "CleasDeath": {
+        "Display Name": "Clea's Death",
+        "Description": "On death, allies gain 25% increased damage until they die.",
+        "Lumina Cost": 15,
+        "Steps To Unlock Lumina": 4,
+        "Categories": [
+            "Death",
+            "Damage"
+        ]
+    },
+    "AureoleRankSToD": {
+        "Display Name": "N/A",
+        "Description": "Gain Aureole on Rank S, but drop to Rank D.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "DamageBonusOnRevive": {
+        "Display Name": "N/A",
+        "Description": "30% increased damage when revived.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "MoreGradientDamageLessCharge": {
+        "Display Name": "N/A",
+        "Description": "Gradient attacks deal 100% more damage.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "FourthHitForetell": {
+        "Display Name": "N/A",
+        "Description": "Every fourth hit with a Skill generates 1 Sun charge and applies 5 Foretell.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "DamagePerSunCharge": {
+        "Display Name": "N/A",
+        "Description": "+20% increased damage per Sun charge.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "SunAPDiscount": {
+        "Display Name": "N/A",
+        "Description": "Sun Skills cost 1 less AP.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "ChargesBalance": {
+        "Display Name": "N/A",
+        "Description": "Can't enter Twilight. On turn start, if Moon and Sun charges are balanced, deal 100% more damage and apply double Foretell.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "RandomChargeTurnStart": {
+        "Display Name": "N/A",
+        "Description": "On turn start, remove all Sun and Moon charges. \nThen, randomly gain 1 Sun or 1 Moon charge.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "AttackSunItemMoon": {
+        "Display Name": "N/A",
+        "Description": "Base attack adds 1 Sun charge. Using a Tint adds 1 Moon charge.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "AlmightyDoubleBurn": {
+        "Display Name": "N/A",
+        "Description": "Almighty Mask gives 50% increased damage (cumulative) and doubles enemies' Burn.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "AlmightyConsumeBurn": {
+        "Display Name": "N/A",
+        "Description": "Almighty Mask Skills consume up to 100 Burn to deal 2% more damage per Burn consumed.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "FrenzyAttack": {
+        "Display Name": "N/A",
+        "Description": "Each successive base attack hit on the same turn deals 100% more damage.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "ShotApplyAttackConsumeForetell": {
+        "Display Name": "N/A",
+        "Description": "Free Aim shots apply 1 Foretell. Base attack consumes all Foretell to deal 50% more damage per Foretell consumed.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "TwilightForetellNotConsumed": {
+        "Display Name": "N/A",
+        "Description": "During Twilight, any Foretell consumed is not removed.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "BypassAffinities": {
+        "Display Name": "N/A",
+        "Description": "Damage can\u00e2\u20ac\u2122t be reduced, blocked, or absorbed by Elemental Affinities.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "LuneDoubleHit": {
+        "Display Name": "N/A",
+        "Description": "An ethereal Sword deals Light damage on any damage dealt with Skills.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    },
+    "SimonimOvercharge": {
+        "Display Name": "N/A",
+        "Description": "Starting a turn with 1 Earth, 1 Fire, 1 Ice, and 1 Lightning Stain doubles damage dealt this turn.",
+        "Lumina Cost": 1,
+        "Steps To Unlock Lumina": 3,
+        "Categories": []
+    }
+}

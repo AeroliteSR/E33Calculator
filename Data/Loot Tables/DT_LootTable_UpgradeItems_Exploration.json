@@ -1,0 +1,50 @@
+{
+    "Section_1-9": {
+        "Min Level": 1,
+        "Max Level": 9,
+        "Chance": 100.0,
+        "Drops": [
+            {
+                "Item": "UpgradeMaterial_Level1",
+                "Quantity": 1,
+                "Weight": 1
+            }
+        ]
+    },
+    "Section_10-29": {
+        "Min Level": 10,
+        "Max Level": 29,
+        "Chance": 100.0,
+        "Drops": [
+            {
+                "Item": "UpgradeMaterial_Level2",
+                "Quantity": 1,
+                "Weight": 1
+            }
+        ]
+    },
+    "Section_30-59": {
+        "Min Level": 30,
+        "Max Level": 59,
+        "Chance": 100.0,
+        "Drops": [
+            {
+                "Item": "UpgradeMaterial_Level3",
+                "Quantity": 1,
+                "Weight": 1
+            }
+        ]
+    },
+    "Section_60-300": {
+        "Min Level": 60,
+        "Max Level": 300,
+        "Chance": 100.0,
+        "Drops": [
+            {
+                "Item": "UpgradeMaterial_Level4",
+                "Quantity": 1,
+                "Weight": 1
+            }
+        ]
+    }
+}

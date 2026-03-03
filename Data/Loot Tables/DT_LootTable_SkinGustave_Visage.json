@@ -1,0 +1,26 @@
+{
+    "Gustave": {
+        "Min Level": 1,
+        "Max Level": 99,
+        "Chance": 100.0,
+        "Drops": [
+            {
+                "Item": "SkinGustave_Visage",
+                "Quantity": 1,
+                "Weight": 1
+            }
+        ]
+    },
+    "Verso": {
+        "Min Level": 1,
+        "Max Level": 99,
+        "Chance": 100.0,
+        "Drops": [
+            {
+                "Item": "SkinVerso_Visage",
+                "Quantity": 1,
+                "Weight": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,206 @@
+{
+    "MainMenu": {
+        "Level": 100
+    },
+    "WorldMap": {
+        "Level": 100
+    },
+    "Camps": {
+        "Level": 99
+    },
+    "Manor": {
+        "Level": 100
+    },
+    "Lumiere": {
+        "Level": 48
+    },
+    "SpringMeadows": {
+        "Level": 3
+    },
+    "GoblusLair": {
+        "Level": 8
+    },
+    "AncientSanctuary": {
+        "Level": 12
+    },
+    "GestralVillage": {
+        "Level": 15
+    },
+    "EsquieNest": {
+        "Level": 16
+    },
+    "SeaCliff": {
+        "Level": 19
+    },
+    "ForgottenBattlefield": {
+        "Level": 23
+    },
+    "MonocoStation": {
+        "Level": 25
+    },
+    "OldLumiere": {
+        "Level": 28
+    },
+    "Visages": {
+        "Level": 32
+    },
+    "Sirene": {
+        "Level": 37
+    },
+    "TheBarrier": {
+        "Level": 41
+    },
+    "Monolith_Interior_PaintressIntro": {
+        "Level": 40
+    },
+    "Monolith_Interior_Climb": {
+        "Level": 43
+    },
+    "Monolith_Exterior_Peak": {
+        "Level": 43
+    },
+    "SideLevel_Reacher": {
+        "Level": 58
+    },
+    "SideLevel_YellowForest": {
+        "Level": 21
+    },
+    "SideLevel_OrangeForest": {
+        "Level": 41
+    },
+    "SideLevel_RedForest": {
+        "Level": 52
+    },
+    "SidelLevel_FrozenHearts": {
+        "Level": 63
+    },
+    "SideLevel_AxonPath": {
+        "Level": 93
+    },
+    "SideLevel_DarkShores": {
+        "Level": 68
+    },
+    "SideLevel_TwilightSanctuary": {
+        "Level": 73
+    },
+    "SideLevel_CleasFlyingHouse": {
+        "Level": 83
+    },
+    "SideLevel_CleasTower_Entrance": {
+        "Level": 55
+    },
+    "SideLevel_CleasTower": {
+        "Level": 55
+    },
+    "SideLevel_CleasWorkshop": {
+        "Level": 90
+    },
+    "SideLevel_VersosDraft": {
+        "Level": 86
+    },
+    "MiniLevel_Spring": {
+        "Level": 1
+    },
+    "MiniLevel_WhiteTree": {
+        "Level": 1
+    },
+    "MiniLevel_GestralTreeCity": {
+        "Level": 1
+    },
+    "MiniLevel_CleasOrangeArea": {
+        "Level": 1
+    },
+    "MiniLevel_BoatGraveyardPurple": {
+        "Level": 1
+    },
+    "MiniLevel_BoatGraveyardBlue": {
+        "Level": 1
+    },
+    "MiniLevel_BladesGraveyard": {
+        "Level": 1
+    },
+    "SmallLevel_SpringMeadows": {
+        "Level": 80
+    },
+    "SmallLevel_WhiteSands": {
+        "Level": 55
+    },
+    "SmallLevel_CaveAbbest": {
+        "Level": 30
+    },
+    "SmallLevel_RedWoods": {
+        "Level": 60
+    },
+    "SmallLevel_GoblusLair_02": {
+        "Level": 13
+    },
+    "SmallLevel_StonewaveCliffsCave": {
+        "Level": 22
+    },
+    "SmallLevel_ChosenPath": {
+        "Level": 60
+    },
+    "SmallLevel_FloatingIsland": {
+        "Level": 60
+    },
+    "SmallLevel_StoneQuarry": {
+        "Level": 30
+    },
+    "SmallLevel_Sirene": {
+        "Level": 60
+    },
+    "SmallLevel_Visages": {
+        "Level": 65
+    },
+    "SmallLevel_Reacher": {
+        "Level": 65
+    },
+    "SmallLevel_GestralHiddenArena": {
+        "Level": 16
+    },
+    "SmallLevel_FlyingCasinoEntrance": {
+        "Level": 10
+    },
+    "SmallLevel_SimonArea": {
+        "Level": 99
+    },
+    "SmallLevel_Cemetery": {
+        "Level": 55
+    },
+    "SmallLevel_CoastalCave": {
+        "Level": 36
+    },
+    "SmallLevel_ChromaZoneEntry": {
+        "Level": 92
+    },
+    "SmallLevel_CavernCrusher": {
+        "Level": 27
+    },
+    "SmallLevel_DoorMaze": {
+        "Level": 28
+    },
+    "SmallLevel_DarkGestralArena": {
+        "Level": 75
+    },
+    "SmallLevel_SacredRiver": {
+        "Level": 60
+    },
+    "SmallLevel_GestralBeach": {
+        "Level": 1
+    },
+    "SmallLevel_SinisterCave": {
+        "Level": 38
+    },
+    "SmallLevel_TheCanvas": {
+        "Level": 55
+    },
+    "SmallLevel_TheCarrousel": {
+        "Level": 30
+    },
+    "SmallLevel_EsquieRealCousin": {
+        "Level": 99
+    },
+    "Map_BattleTesting": {
+        "Level": 100
+    }
+}

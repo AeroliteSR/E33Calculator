@@ -1,0 +1,124 @@
+{
+    "Section_1-9": {
+        "Min Level": 1,
+        "Max Level": 9,
+        "Chance": 10.0,
+        "Drops": [
+            {
+                "Item": "UpgradeMaterial_Level1",
+                "Quantity": 1,
+                "Weight": 80
+            },
+            {
+                "Item": "UpgradeMaterial_Level1",
+                "Quantity": 2,
+                "Weight": 20
+            }
+        ]
+    },
+    "Section_10-29": {
+        "Min Level": 10,
+        "Max Level": 29,
+        "Chance": 5.0,
+        "Drops": [
+            {
+                "Item": "UpgradeMaterial_Level1",
+                "Quantity": 2,
+                "Weight": 40
+            },
+            {
+                "Item": "UpgradeMaterial_Level2",
+                "Quantity": 1,
+                "Weight": 40
+            },
+            {
+                "Item": "UpgradeMaterial_Level2",
+                "Quantity": 2,
+                "Weight": 20
+            }
+        ]
+    },
+    "Section_30-59": {
+        "Min Level": 30,
+        "Max Level": 59,
+        "Chance": 5.0,
+        "Drops": [
+            {
+                "Item": "UpgradeMaterial_Level1",
+                "Quantity": 3,
+                "Weight": 20
+            },
+            {
+                "Item": "UpgradeMaterial_Level2",
+                "Quantity": 2,
+                "Weight": 20
+            },
+            {
+                "Item": "UpgradeMaterial_Level3",
+                "Quantity": 1,
+                "Weight": 40
+            },
+            {
+                "Item": "UpgradeMaterial_Level3",
+                "Quantity": 2,
+                "Weight": 20
+            }
+        ]
+    },
+    "Section_60-300": {
+        "Min Level": 60,
+        "Max Level": 300,
+        "Chance": 5.0,
+        "Drops": [
+            {
+                "Item": "UpgradeMaterial_Level1",
+                "Quantity": 4,
+                "Weight": 15
+            },
+            {
+                "Item": "UpgradeMaterial_Level2",
+                "Quantity": 3,
+                "Weight": 15
+            },
+            {
+                "Item": "UpgradeMaterial_Level3",
+                "Quantity": 2,
+                "Weight": 15
+            },
+            {
+                "Item": "UpgradeMaterial_Level4",
+                "Quantity": 1,
+                "Weight": 40
+            },
+            {
+                "Item": "UpgradeMaterial_Level4",
+                "Quantity": 2,
+                "Weight": 15
+            }
+        ]
+    },
+    "Consumable_Respec": {
+        "Min Level": 1,
+        "Max Level": 300,
+        "Chance": 0.5,
+        "Drops": [
+            {
+                "Item": "Consumable_Respec",
+                "Quantity": 1,
+                "Weight": 1
+            }
+        ]
+    },
+    "WeaponUpgradeLvl5": {
+        "Min Level": 100,
+        "Max Level": 300,
+        "Chance": 0.5,
+        "Drops": [
+            {
+                "Item": "UpgradeMaterial_Level5",
+                "Quantity": 1,
+                "Weight": 1
+            }
+        ]
+    }
+}
