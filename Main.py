@@ -82,7 +82,7 @@ def getCharStats(enemy, area, encounter, scriptLv=0, difficulty='Expert', ng=0):
             rewards[f"Entry #{len(rewards)+1}"] = {"Chance": entry['Chance'],
                                         "Table": entry_drops}
 
-    return {"Stats": calculated, "Loot": loot, "Rewards": rewards, "Affinities": enemydata.get("Affinities", [])}
+    return {"Stats": calculated, "Affinities": enemydata.get("Affinities", []), "Loot": loot, "Rewards": rewards}
 
 def ParseBattleStats(encounter, area, difficulty='Expert', ng=0, dataPath=None):
     global basepath
