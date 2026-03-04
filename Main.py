@@ -95,7 +95,7 @@ def ParseBattleStats(encounter, area, difficulty='Expert', ng=0, dataPath=None):
     if battle is None:
         raise KeyError(f"Encounter '{encounter}' not found")
     
-    enemies = battle.get('Enemies', None)
+    enemies = battle.get('Enemies', [])
     for enemy in enemies:
         data[enemy] = getCharStats(enemy=enemy, area=area, encounter=encounter, difficulty=difficulty, ng=ng)
 
