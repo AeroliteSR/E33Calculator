@@ -122,12 +122,14 @@ def ParseBattleStats(encounter, area, difficulty='Expert', ng=0, hpMod=1, dataPa
         data[name] = getCharStats(enemy=enemy, area=area, encounter=encounter, difficulty=difficulty, ng=ng, hpMod=hpMod)
 
     return data
+
+def writeOutput(data, name=Path(sys.argv[0]).parent / "Output.json"):
+    with open(name, 'w', encoding='utf-8') as file:
+        json.dump(data, file, indent=4)
     
 if __name__ == '__main__':
     basepath = Path(sys.argv[0]).parent / "Data"
 
     """Example usage:"""
     stats = ParseBattleStats(encounter="CFH_Boss_Dualliste", area='SmallLevel_SimonArea', difficulty='Expert', ng=3, hpMod=2)
-
-    with open('Output.json', 'w') as file:
-        json.dump(stats, file, indent=4)
+    writeOutput(stats)
