@@ -39,7 +39,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "SM_FirstLancelier": {
         "Display Name": "Lancelier",
@@ -81,11 +81,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 160,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "SM_Lancelier": {
         "Display Name": "Lancelier",
@@ -133,11 +131,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "SM_First_Portier": {
         "Display Name": "Portier",
@@ -185,11 +181,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 1000,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "SM_Portier": {
         "Display Name": "Portier",
@@ -231,11 +225,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "SM_Volester": {
         "Display Name": "Volester",
@@ -277,11 +269,9 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "SM_Abbest": {
         "Display Name": "Abbest",
@@ -329,12 +319,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Physical": "Resistant",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Physical": "Resistant",
+            "Ice": "Weakness"
+        }
     },
     "SM_Boss_Eveque": {
         "Display Name": "\u00c3\u2030v\u00c3\u00aaque",
@@ -382,12 +370,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness",
-                "Earth": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness",
+            "Earth": "Resistant"
+        }
     },
     "SM_Lancelier_Alpha": {
         "Display Name": "Chromatic Lancelier",
@@ -440,11 +426,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 75,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "SM_Abbest_Alpha": {
         "Display Name": "Chromatic Abbest",
@@ -492,13 +476,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Physical": "Resistant",
-                "Light": "Weakness",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Physical": "Resistant",
+            "Light": "Weakness",
+            "Dark": "Weakness"
+        }
     },
     "SM_Boss_EvequeLuneScript": {
         "Display Name": "\u00c3\u2030v\u00c3\u00aaque",
@@ -540,7 +522,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "YF_Chevaliere_A": {
         "Display Name": "Ceramic Chevali\u00c3\u00a8re",
@@ -582,16 +564,14 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Weakness",
-                "Lightning": "Weakness",
-                "Earth": "Weakness",
-                "Dark": "Weakness",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Weakness",
+            "Lightning": "Weakness",
+            "Earth": "Weakness",
+            "Dark": "Weakness",
+            "Light": "Weakness"
+        }
     },
     "YF_GaultA": {
         "Display Name": "Gault",
@@ -639,14 +619,12 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Earth": "Absorb",
-                "Lightning": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Earth": "Absorb",
+            "Lightning": "Resistant"
+        }
     },
     "YF_GaultB": {
         "Display Name": "Gault",
@@ -694,14 +672,12 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 160,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Earth": "Absorb",
-                "Lightning": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Earth": "Absorb",
+            "Lightning": "Resistant"
+        }
     },
     "YF_Potier": {
         "Display Name": "Potier",
@@ -749,7 +725,7 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "YF_Jar": {
         "Display Name": "Jar",
@@ -791,15 +767,13 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Physical": "Resistant",
-                "Fire": "Weakness",
-                "Ice": "Weakness",
-                "Earth": "Weakness",
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Physical": "Resistant",
+            "Fire": "Weakness",
+            "Ice": "Weakness",
+            "Earth": "Weakness",
+            "Lightning": "Weakness"
+        }
     },
     "YF_Sapling": {
         "Display Name": "Sapling",
@@ -847,16 +821,14 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 160,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Ice": "Resistant",
-                "Earth": "Resistant",
-                "Lightning": "Resistant",
-                "Light": "Weakness",
-                "Dark": "Absorb"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Ice": "Resistant",
+            "Earth": "Resistant",
+            "Lightning": "Resistant",
+            "Light": "Weakness",
+            "Dark": "Absorb"
+        }
     },
     "YF_Glaise": {
         "Display Name": "Glaise",
@@ -904,14 +876,12 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Weakness",
-                "Earth": "Absorb",
-                "Lightning": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Weakness",
+            "Earth": "Absorb",
+            "Lightning": "Resistant"
+        }
     },
     "YF_Chevaliere_B": {
         "Display Name": "Steel Chevali\u00c3\u00a8re",
@@ -959,11 +929,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Physical": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Physical": "Weakness"
+        }
     },
     "YF_Chevaliere_C": {
         "Display Name": "Gold Chevali\u00c3\u00a8re",
@@ -1011,14 +979,12 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Ice": "Resistant",
-                "Light": "Weakness",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Ice": "Resistant",
+            "Light": "Weakness",
+            "Dark": "Weakness"
+        }
     },
     "YF_Boss_Scavenger": {
         "Display Name": "Scavenger",
@@ -1066,16 +1032,14 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Ice": "Resistant",
-                "Lightning": "Resistant",
-                "Earth": "Resistant",
-                "Dark": "Absorb",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Ice": "Resistant",
+            "Lightning": "Resistant",
+            "Earth": "Resistant",
+            "Dark": "Absorb",
+            "Light": "Weakness"
+        }
     },
     "YF_Chevaliere_C_Alpha": {
         "Display Name": "Chromatic Gold Chevali\u00c3\u00a8re",
@@ -1123,14 +1087,12 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 15,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Ice": "Resistant",
-                "Light": "Weakness",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Ice": "Resistant",
+            "Light": "Weakness",
+            "Dark": "Weakness"
+        }
     },
     "YF_Chevaliere_B_Alpha": {
         "Display Name": "Chromatic Steel Chevali\u00c3\u00a8re",
@@ -1172,11 +1134,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Physical": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Physical": "Weakness"
+        }
     },
     "YF_Chevaliere_A_Alpha": {
         "Display Name": "Chromatic Ceramic Chevali\u00c3\u00a8re",
@@ -1218,16 +1178,14 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Weakness",
-                "Lightning": "Weakness",
-                "Earth": "Weakness",
-                "Dark": "Weakness",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Weakness",
+            "Lightning": "Weakness",
+            "Earth": "Weakness",
+            "Dark": "Weakness",
+            "Light": "Weakness"
+        }
     },
     "YF_Gestral_Limonsol": {
         "Display Name": "Limonsol",
@@ -1269,7 +1227,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "YF_GaultB_Alpha": {
         "Display Name": "Chromatic Gault",
@@ -1317,16 +1275,14 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 20,
         "Stun Duration": 2,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Earth": "Absorb",
-                "Lightning": "Resistant",
-                "Light": "Resistant",
-                "Dark": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Earth": "Absorb",
+            "Lightning": "Resistant",
+            "Light": "Resistant",
+            "Dark": "Resistant"
+        }
     },
     "AS_PotatoBag_Tank": {
         "Display Name": "Robust Sakapatate",
@@ -1374,12 +1330,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Lightning": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Lightning": "Resistant"
+        }
     },
     "AS_PotatoBag_Mage": {
         "Display Name": "Catapult Sakapatate",
@@ -1427,12 +1381,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Lightning": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Lightning": "Resistant"
+        }
     },
     "AS_PotatoBag_Ranger": {
         "Display Name": "Ranger Sakapatate",
@@ -1474,12 +1426,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 160,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Lightning": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Lightning": "Resistant"
+        }
     },
     "AS_PotatoBag_Boss": {
         "Display Name": "Ultimate Sakapatate",
@@ -1527,12 +1477,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 50,
         "Stun Duration": 2,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Lightning": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Lightning": "Resistant"
+        }
     },
     "AS_Gestral_Dragoon": {
         "Display Name": "N/A",
@@ -1574,7 +1522,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "AS_GestralBully_A": {
         "Display Name": "N/A",
@@ -1616,7 +1564,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "AS_GestralBully_B": {
         "Display Name": "N/A",
@@ -1658,7 +1606,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "AS_GestralBully_C": {
         "Display Name": "N/A",
@@ -1700,7 +1648,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "GO_Luster": {
         "Display Name": "Luster",
@@ -1742,11 +1690,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Lightning": "Weakness"
+        }
     },
     "GO_Bruler": {
         "Display Name": "Bruler",
@@ -1794,11 +1740,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Lightning": "Weakness"
+        }
     },
     "GO_Cruler": {
         "Display Name": "Cruler",
@@ -1846,11 +1790,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Lightning": "Weakness"
+        }
     },
     "GO_Demineur": {
         "Display Name": "D\u00c3\u00a9mineur",
@@ -1892,11 +1834,9 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Lightning": "Weakness"
+        }
     },
     "GO_Bourgeon": {
         "Display Name": "Bourgeon",
@@ -1954,11 +1894,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 35,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Lightning": "Weakness"
+        }
     },
     "GO_Goblu": {
         "Display Name": "Goblu",
@@ -2011,12 +1949,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Resistant",
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Resistant",
+            "Lightning": "Weakness"
+        }
     },
     "GO_Luster_Alpha": {
         "Display Name": "Chromatic Luster",
@@ -2069,12 +2005,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Absorb",
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Absorb",
+            "Lightning": "Weakness"
+        }
     },
     "SC_CultistDualSword": {
         "Display Name": "N/A",
@@ -2116,12 +2050,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "SC_CultistHeavy": {
         "Display Name": "Greatsword Cultist",
@@ -2169,12 +2101,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "SC_CultistMage": {
         "Display Name": "Mage Cultist",
@@ -2222,12 +2152,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "SC_CultistFlying": {
         "Display Name": "Reaper Cultist",
@@ -2275,12 +2203,10 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "SC_FearLight": {
         "Display Name": null,
@@ -2322,7 +2248,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "SC_SapNevronBoss": {
         "Display Name": null,
@@ -2364,7 +2290,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "SC_Gestral_Sonnyso": {
         "Display Name": "Sunniso",
@@ -2406,7 +2332,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "SC_CultistHeavy_Alpha": {
         "Display Name": "Chromatic Greatsword Cultist",
@@ -2454,12 +2380,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "EN_Francois": {
         "Display Name": "Fran\u00c3\u00a7ois",
@@ -2507,11 +2431,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Weakness"
+        }
     },
     "FB_Ramasseur": {
         "Display Name": "Ramasseur",
@@ -2559,12 +2481,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 160,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "FB_Troubadour": {
         "Display Name": "Troubadour",
@@ -2612,12 +2532,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "FB_Benisseur": {
         "Display Name": "B\u00c3\u00a9nisseur",
@@ -2659,14 +2577,12 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness",
-                "Earth": "Resistant",
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness",
+            "Earth": "Resistant",
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "FB_DuallisteR": {
         "Display Name": "Dualliste",
@@ -2708,13 +2624,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "FB_DuallisteL": {
         "Display Name": "Dualliste",
@@ -2756,13 +2670,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "FB_DuallisteLR": {
         "Display Name": "Dualliste",
@@ -2815,13 +2727,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 75,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "FB_Dualliste_Phase1": {
         "Display Name": "Dualliste",
@@ -2863,13 +2773,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "FB_ChalierSword": {
         "Display Name": "Chalier",
@@ -2917,12 +2825,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "FB_ChalierHammer": {
         "Display Name": "Chalier",
@@ -2970,12 +2876,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "FB_ChalierSpear": {
         "Display Name": "Chalier",
@@ -3023,12 +2927,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "FB_ChalierSword_Alpha": {
         "Display Name": "Chromatic Chalier",
@@ -3076,12 +2978,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "FB_Benisseur_Alpha": {
         "Display Name": "Chromatic B\u00c3\u00a9nisseur",
@@ -3129,14 +3029,12 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness",
-                "Earth": "Resistant",
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness",
+            "Earth": "Resistant",
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "NevronWall": {
         "Display Name": "Wall",
@@ -3178,7 +3076,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "MM_Pelerin": {
         "Display Name": "P\u00c3\u00a8lerin",
@@ -3226,12 +3124,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Absorb"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Absorb"
+        }
     },
     "MM_Danseuse": {
         "Display Name": "Danseuse",
@@ -3279,12 +3175,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Absorb",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Absorb",
+            "Ice": "Weakness"
+        }
     },
     "MM_Danseuse_Clone": {
         "Display Name": "Danseuse Clone",
@@ -3326,12 +3220,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Absorb",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Absorb",
+            "Ice": "Weakness"
+        }
     },
     "MM_Stalact": {
         "Display Name": "Stalact",
@@ -3379,12 +3271,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Absorb",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Absorb",
+            "Ice": "Weakness"
+        }
     },
     "MM_Braseleur": {
         "Display Name": "Braseleur",
@@ -3426,12 +3316,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Absorb",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Absorb",
+            "Ice": "Weakness"
+        }
     },
     "MM_Danseuse_Alpha": {
         "Display Name": "Chromatic Danseuse",
@@ -3484,12 +3372,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Absorb",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Absorb",
+            "Ice": "Weakness"
+        }
     },
     "MM_Danseuse_CloneAlpha": {
         "Display Name": "Chromatic Danseuse",
@@ -3531,12 +3417,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Absorb",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Absorb",
+            "Ice": "Weakness"
+        }
     },
     "MM_MirrorRenoir": {
         "Display Name": "Renoir",
@@ -3589,7 +3473,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 60,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "MM_Gargant": {
         "Display Name": "Gargant",
@@ -3647,12 +3531,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 25,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Absorb"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Absorb"
+        }
     },
     "SM_Lancelier_AlternatifA": {
         "Display Name": "N/A",
@@ -3700,11 +3582,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "SM_Lancelier_AlternatifB": {
         "Display Name": "N/A",
@@ -3752,11 +3632,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "SM_Lancelier_AlternatifC": {
         "Display Name": "N/A",
@@ -3804,11 +3682,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "SM_Lancelier_AlternatifD": {
         "Display Name": "N/A",
@@ -3856,11 +3732,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "TestMichel_Lancelier": {
         "Display Name": "N/A",
@@ -3902,11 +3776,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "YF_Gault_AlternativA": {
         "Display Name": "N/A",
@@ -3948,16 +3820,14 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Earth": "Absorb",
-                "Lightning": "Resistant",
-                "Light": "Resistant",
-                "Dark": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Earth": "Absorb",
+            "Lightning": "Resistant",
+            "Light": "Resistant",
+            "Dark": "Resistant"
+        }
     },
     "YF_Gault_AlternativB": {
         "Display Name": "N/A",
@@ -3999,16 +3869,14 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Earth": "Absorb",
-                "Lightning": "Resistant",
-                "Light": "Resistant",
-                "Dark": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Earth": "Absorb",
+            "Lightning": "Resistant",
+            "Light": "Resistant",
+            "Dark": "Resistant"
+        }
     },
     "YF_Gault_AlternativC": {
         "Display Name": "N/A",
@@ -4050,16 +3918,14 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Earth": "Absorb",
-                "Lightning": "Resistant",
-                "Light": "Resistant",
-                "Dark": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Earth": "Absorb",
+            "Lightning": "Resistant",
+            "Light": "Resistant",
+            "Dark": "Resistant"
+        }
     },
     "YF_Gault_AlternativD": {
         "Display Name": "N/A",
@@ -4101,16 +3967,14 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Earth": "Absorb",
-                "Lightning": "Resistant",
-                "Light": "Resistant",
-                "Dark": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Earth": "Absorb",
+            "Lightning": "Resistant",
+            "Light": "Resistant",
+            "Dark": "Resistant"
+        }
     },
     "YF_Gault_AlternativE": {
         "Display Name": "N/A",
@@ -4152,16 +4016,14 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Earth": "Absorb",
-                "Lightning": "Resistant",
-                "Light": "Resistant",
-                "Dark": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Earth": "Absorb",
+            "Lightning": "Resistant",
+            "Light": "Resistant",
+            "Dark": "Resistant"
+        }
     },
     "SM_Portier_AlternativA": {
         "Display Name": "N/A",
@@ -4203,11 +4065,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "SM_Portier_AlternativB": {
         "Display Name": "N/A",
@@ -4249,11 +4109,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "SM_Portier_AlternativC": {
         "Display Name": "N/A",
@@ -4295,11 +4153,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "SM_Portier_AlternativD": {
         "Display Name": "N/A",
@@ -4341,11 +4197,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "SM_Portier_AlternativE": {
         "Display Name": "N/A",
@@ -4387,11 +4241,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "SM_Volester_AlternativA": {
         "Display Name": "N/A",
@@ -4433,11 +4285,9 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "SM_Volester_AlternativB": {
         "Display Name": "N/A",
@@ -4479,11 +4329,9 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "SM_Volester_AlternativC": {
         "Display Name": "N/A",
@@ -4525,11 +4373,9 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "SM_Volester_AlternativD": {
         "Display Name": "N/A",
@@ -4571,11 +4417,9 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "SM_Volester_AlternativE": {
         "Display Name": "N/A",
@@ -4617,11 +4461,9 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "YF_Potier_AlternativeA": {
         "Display Name": "N/A",
@@ -4663,7 +4505,7 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "YF_Potier_AlternativeB": {
         "Display Name": "N/A",
@@ -4705,7 +4547,7 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "YF_Potier_AlternativeC": {
         "Display Name": "N/A",
@@ -4747,7 +4589,7 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "YF_Potier_AlternativeD": {
         "Display Name": "N/A",
@@ -4789,7 +4631,7 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "YF_Potier_AlternativeE": {
         "Display Name": "N/A",
@@ -4831,7 +4673,7 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "YF_Sapling_AlternativeA": {
         "Display Name": "N/A",
@@ -4879,16 +4721,14 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Ice": "Resistant",
-                "Earth": "Resistant",
-                "Lightning": "Resistant",
-                "Light": "Weakness",
-                "Dark": "Absorb"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Ice": "Resistant",
+            "Earth": "Resistant",
+            "Lightning": "Resistant",
+            "Light": "Weakness",
+            "Dark": "Absorb"
+        }
     },
     "YF_Sapling_AlternativeB": {
         "Display Name": "N/A",
@@ -4936,16 +4776,14 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Ice": "Resistant",
-                "Earth": "Resistant",
-                "Lightning": "Resistant",
-                "Light": "Weakness",
-                "Dark": "Absorb"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Ice": "Resistant",
+            "Earth": "Resistant",
+            "Lightning": "Resistant",
+            "Light": "Weakness",
+            "Dark": "Absorb"
+        }
     },
     "YF_Sapling_AlternativeC": {
         "Display Name": "N/A",
@@ -4993,16 +4831,14 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Ice": "Resistant",
-                "Earth": "Resistant",
-                "Lightning": "Resistant",
-                "Light": "Weakness",
-                "Dark": "Absorb"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Ice": "Resistant",
+            "Earth": "Resistant",
+            "Lightning": "Resistant",
+            "Light": "Weakness",
+            "Dark": "Absorb"
+        }
     },
     "YF_Jar_AlternativeA": {
         "Display Name": "N/A",
@@ -5044,15 +4880,13 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Physical": "Resistant",
-                "Fire": "Weakness",
-                "Ice": "Weakness",
-                "Earth": "Weakness",
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Physical": "Resistant",
+            "Fire": "Weakness",
+            "Ice": "Weakness",
+            "Earth": "Weakness",
+            "Lightning": "Weakness"
+        }
     },
     "YF_Jar_AlternativeB": {
         "Display Name": "N/A",
@@ -5094,15 +4928,13 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Physical": "Resistant",
-                "Fire": "Weakness",
-                "Ice": "Weakness",
-                "Earth": "Weakness",
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Physical": "Resistant",
+            "Fire": "Weakness",
+            "Ice": "Weakness",
+            "Earth": "Weakness",
+            "Lightning": "Weakness"
+        }
     },
     "YF_Jar_AlternativeC": {
         "Display Name": "N/A",
@@ -5144,15 +4976,13 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Physical": "Resistant",
-                "Fire": "Weakness",
-                "Ice": "Weakness",
-                "Earth": "Weakness",
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Physical": "Resistant",
+            "Fire": "Weakness",
+            "Ice": "Weakness",
+            "Earth": "Weakness",
+            "Lightning": "Weakness"
+        }
     },
     "GDC_Chevaliere_A": {
         "Display Name": "Ceramic Chevali\u00c3\u00a8re",
@@ -5194,16 +5024,14 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Weakness",
-                "Lightning": "Weakness",
-                "Earth": "Weakness",
-                "Dark": "Weakness",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Weakness",
+            "Lightning": "Weakness",
+            "Earth": "Weakness",
+            "Dark": "Weakness",
+            "Light": "Weakness"
+        }
     },
     "GDC_Troubadour": {
         "Display Name": "Troubadour",
@@ -5245,12 +5073,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "GDC_Chalier": {
         "Display Name": "Chalier",
@@ -5292,12 +5118,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "GDC_Dualliste": {
         "Display Name": "Dualliste",
@@ -5339,13 +5163,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "CZ_ChromaMaelle": {
         "Display Name": "N/A",
@@ -5387,7 +5209,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "CZ_ChromaVerso": {
         "Display Name": "N/A",
@@ -5429,11 +5251,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness"
+        }
     },
     "CZ_ChromaLune": {
         "Display Name": "N/A",
@@ -5475,7 +5295,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "CZ_ChromaSciel": {
         "Display Name": "N/A",
@@ -5517,7 +5337,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "CZ_ChromaMonoco": {
         "Display Name": "N/A",
@@ -5559,7 +5379,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "MF_Moissonneuse": {
         "Display Name": "Moissonneuse",
@@ -5601,13 +5421,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "MF_Boucheclier": {
         "Display Name": "Boucheclier",
@@ -5649,13 +5467,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "MF_Chapelier": {
         "Display Name": "Chapelier",
@@ -5697,13 +5513,11 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 160,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "MF_Contorsionniste": {
         "Display Name": "Contorsionniste",
@@ -5751,13 +5565,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "MF_BoucheclierAnger": {
         "Display Name": "Boucheclier",
@@ -5799,13 +5611,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "MF_Moissonneuse_ALPHA": {
         "Display Name": "Chromatic Moissonneuse",
@@ -5853,13 +5663,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 10,
         "Stun Duration": 3,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "AS_PotatoBag_Tank_ALPHA": {
         "Display Name": "Chromatic Robust Sakapatate",
@@ -5907,12 +5715,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Lightning": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Lightning": "Resistant"
+        }
     },
     "AS_PotatoBag_Boss_ALPHA": {
         "Display Name": "Chromatic Ultimate Sakapatate",
@@ -5954,12 +5760,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 2,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Lightning": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Lightning": "Resistant"
+        }
     },
     "AS_PotatoBag_Ranger_ALPHA": {
         "Display Name": "Chromatic Ranger Sakapatate",
@@ -6001,7 +5805,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "AS_PotatoBag_Mage_ALPHA": {
         "Display Name": "Chromatic Catapult Sakapatate",
@@ -6049,12 +5853,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Lightning": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Lightning": "Resistant"
+        }
     },
     "SM_Boss_Eveque_Earth_ALPHA": {
         "Display Name": "Chromatic \u00c3\u2030v\u00c3\u00aaque",
@@ -6096,17 +5898,15 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 60,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Physical": "Resistant",
-                "Fire": "Resistant",
-                "Ice": "Weakness",
-                "Lightning": "Resistant",
-                "Earth": "Absorb",
-                "Dark": "Resistant",
-                "Light": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Physical": "Resistant",
+            "Fire": "Resistant",
+            "Ice": "Weakness",
+            "Lightning": "Resistant",
+            "Earth": "Absorb",
+            "Dark": "Resistant",
+            "Light": "Resistant"
+        }
     },
     "MF_Boucheclier_ALPHA": {
         "Display Name": "Chromatic Boucheclier",
@@ -6154,13 +5954,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "GO_Bourgeon_ALPHA": {
         "Display Name": "Chromatic Bourgeon",
@@ -6213,7 +6011,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "MM_Braseleur_ALPHA": {
         "Display Name": "Chromatic Braseleur",
@@ -6261,12 +6059,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Absorb",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Absorb",
+            "Ice": "Weakness"
+        }
     },
     "GO_Bruler_ALPHA": {
         "Display Name": "Chromatic Bruler",
@@ -6314,16 +6110,14 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Weakness",
-                "Earth": "Weakness",
-                "Lightning": "Weakness",
-                "Light": "Weakness",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Weakness",
+            "Earth": "Weakness",
+            "Lightning": "Weakness",
+            "Light": "Weakness",
+            "Dark": "Weakness"
+        }
     },
     "MF_Chapelier_ALPHA": {
         "Display Name": "Chromatic Chapelier",
@@ -6376,12 +6170,10 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Nullify",
-                "Light": "Nullify"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Nullify",
+            "Light": "Nullify"
+        }
     },
     "SC_CultistDualSword_ALPHA": {
         "Display Name": "N/A",
@@ -6423,12 +6215,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "SC_CultistFlying_ALPHA": {
         "Display Name": "Chromatic Reaper Cultist",
@@ -6476,12 +6266,10 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "SC_CultistMage_ALPHA": {
         "Display Name": "Chromatic Mage Cultist",
@@ -6529,12 +6317,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "FB_DuallisteLR_ALPHA": {
         "Display Name": "Chromatic Dualliste",
@@ -6576,13 +6362,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "MM_Gargant_ALPHA": {
         "Display Name": "Chromatic Gargant",
@@ -6630,12 +6414,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Absorb"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Absorb"
+        }
     },
     "MM_Pelerin_ALPHA": {
         "Display Name": "Chromatic P\u00c3\u00a8lerin",
@@ -6677,12 +6459,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Absorb"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Absorb"
+        }
     },
     "SM_Portier_ALPHA": {
         "Display Name": "Chromatic Portier",
@@ -6730,7 +6510,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "FB_Ramasseur_Alpha": {
         "Display Name": "Chromatic Ramasseur",
@@ -6778,12 +6558,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 2,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "MM_Stalact_ALPHA": {
         "Display Name": "Chromatic Stalact",
@@ -6831,12 +6609,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 60,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Absorb",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Absorb",
+            "Ice": "Weakness"
+        }
     },
     "FB_Troubadour_Alpha": {
         "Display Name": "Chromatic Troubadour",
@@ -6884,12 +6660,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "SM_Volester_ALPHA": {
         "Display Name": "Chromatic Volester",
@@ -6931,11 +6705,9 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "YF_Sapling_ALPHA": {
         "Display Name": "Chromatic Sapling",
@@ -6983,16 +6755,14 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Ice": "Resistant",
-                "Earth": "Resistant",
-                "Lightning": "Resistant",
-                "Light": "Weakness",
-                "Dark": "Absorb"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Ice": "Resistant",
+            "Earth": "Resistant",
+            "Lightning": "Resistant",
+            "Light": "Weakness",
+            "Dark": "Absorb"
+        }
     },
     "YF_Glaise_ALPHA": {
         "Display Name": "Chromatic Glaise",
@@ -7040,14 +6810,12 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Weakness",
-                "Earth": "Absorb",
-                "Lightning": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Weakness",
+            "Earth": "Absorb",
+            "Lightning": "Resistant"
+        }
     },
     "YF_Jar_ALPHA": {
         "Display Name": "Chromatic Jar",
@@ -7095,15 +6863,13 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Physical": "Resistant",
-                "Fire": "Weakness",
-                "Ice": "Weakness",
-                "Earth": "Weakness",
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Physical": "Resistant",
+            "Fire": "Weakness",
+            "Ice": "Weakness",
+            "Earth": "Weakness",
+            "Lightning": "Weakness"
+        }
     },
     "YF_Potier_ALPHA": {
         "Display Name": "Chromatic Potier",
@@ -7151,7 +6917,7 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "MF_MaskAnger": {
         "Display Name": "Mask of Anger",
@@ -7193,13 +6959,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "MF_MaskSadness": {
         "Display Name": "Mask of Sadness",
@@ -7241,13 +7005,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "MF_MaskJoy": {
         "Display Name": "Mask of Joy",
@@ -7289,13 +7051,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "MF_ChapelierSadness": {
         "Display Name": "Chapelier",
@@ -7337,13 +7097,11 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "GA_GestralSumo": {
         "Display Name": "Gestral Warrior",
@@ -7385,7 +7143,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "GA_GestralSkinny": {
         "Display Name": "Gestral Warrior",
@@ -7427,7 +7185,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "GA_GestralChad": {
         "Display Name": "Gestral Warrior",
@@ -7469,7 +7227,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "GA_GestralBuff": {
         "Display Name": "Gestral Warrior",
@@ -7511,7 +7269,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "GA_GestralTall": {
         "Display Name": "Gestral Warrior",
@@ -7553,7 +7311,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "GA_GestralBaby": {
         "Display Name": "Gestral Warrior",
@@ -7595,7 +7353,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "MF_MoissonneuseJoy": {
         "Display Name": "Moissonneuse",
@@ -7637,13 +7395,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "L_LumiereCitizen": {
         "Display Name": "Lumi\u00c3\u00a8re Citizen",
@@ -7685,7 +7441,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "QUEST_MatthieuTheColossus": {
         "Display Name": "Matthieu the Colossus",
@@ -7727,7 +7483,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "QUEST_BertrandBigHands": {
         "Display Name": "Bertrand Big Hands",
@@ -7769,7 +7525,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "QUEST_DominiqueGiantFeet": {
         "Display Name": "Dominique Giant Feet",
@@ -7811,7 +7567,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "QUEST_JulienTinyHead": {
         "Display Name": "Julien Tiny Head",
@@ -7853,7 +7609,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "GO_Goblu_ALPHA": {
         "Display Name": "Chromatic Goblu",
@@ -7901,12 +7657,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Resistant",
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Resistant",
+            "Lightning": "Weakness"
+        }
     },
     "GO_Demineur_ALPHA": {
         "Display Name": "Chromatic D\u00c3\u00a9mineur",
@@ -7954,12 +7708,10 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 400,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Absorb",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Absorb",
+            "Ice": "Weakness"
+        }
     },
     "GO_Cruler_ALPHA": {
         "Display Name": "Chromatic Cruler",
@@ -8012,11 +7764,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Lightning": "Weakness"
+        }
     },
     "SI_Ballet": {
         "Display Name": "Ballet",
@@ -8064,14 +7814,12 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness",
-                "Earth": "Resistant",
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness",
+            "Earth": "Resistant",
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "SI_Ballet_ALPHA": {
         "Display Name": "Chromatic Ballet",
@@ -8119,14 +7867,12 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness",
-                "Earth": "Resistant",
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness",
+            "Earth": "Resistant",
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "MS_Monoco": {
         "Display Name": "Monoco",
@@ -8168,7 +7914,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "SM_Boss_Eveque_Fire_ALPHA": {
         "Display Name": "Flame \u00c3\u2030v\u00c3\u00aaque",
@@ -8210,17 +7956,15 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 60,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Physical": "Resistant",
-                "Fire": "Absorb",
-                "Ice": "Weakness",
-                "Lightning": "Resistant",
-                "Earth": "Resistant",
-                "Dark": "Resistant",
-                "Light": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Physical": "Resistant",
+            "Fire": "Absorb",
+            "Ice": "Weakness",
+            "Lightning": "Resistant",
+            "Earth": "Resistant",
+            "Dark": "Resistant",
+            "Light": "Resistant"
+        }
     },
     "SM_Boss_Eveque_Ice_ALPHA": {
         "Display Name": "Frost \u00c3\u2030v\u00c3\u00aaque",
@@ -8268,17 +8012,15 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 60,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Physical": "Resistant",
-                "Fire": "Resistant",
-                "Ice": "Absorb",
-                "Lightning": "Weakness",
-                "Earth": "Resistant",
-                "Dark": "Resistant",
-                "Light": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Physical": "Resistant",
+            "Fire": "Resistant",
+            "Ice": "Absorb",
+            "Lightning": "Weakness",
+            "Earth": "Resistant",
+            "Dark": "Resistant",
+            "Light": "Resistant"
+        }
     },
     "SM_Boss_Eveque_Lightning_ALPHA": {
         "Display Name": "Thunder \u00c3\u2030v\u00c3\u00aaque",
@@ -8326,17 +8068,15 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 60,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Physical": "Resistant",
-                "Fire": "Resistant",
-                "Ice": "Resistant",
-                "Lightning": "Absorb",
-                "Earth": "Weakness",
-                "Dark": "Resistant",
-                "Light": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Physical": "Resistant",
+            "Fire": "Resistant",
+            "Ice": "Resistant",
+            "Lightning": "Absorb",
+            "Earth": "Weakness",
+            "Dark": "Resistant",
+            "Light": "Resistant"
+        }
     },
     "SI_Glissando": {
         "Display Name": "Glissando",
@@ -8384,14 +8124,12 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness",
-                "Earth": "Resistant",
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness",
+            "Earth": "Resistant",
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "SI_Axon_Sirene": {
         "Display Name": "Sir\u00c3\u00a8ne",
@@ -8444,14 +8182,12 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 60,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness",
-                "Earth": "Resistant",
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness",
+            "Earth": "Resistant",
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "MF_Axon_Visages": {
         "Display Name": "Visages",
@@ -8499,13 +8235,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 1000,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "QUEST_WeaponlessChalier": {
         "Display Name": "The Weaponless Chalier",
@@ -8553,12 +8287,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "RE_OrphelinHammer": {
         "Display Name": "Orphelin",
@@ -8600,11 +8332,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Earth": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Earth": "Weakness"
+        }
     },
     "RE_OrphelinSpoon": {
         "Display Name": "Orphelin",
@@ -8646,11 +8376,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Earth": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Earth": "Weakness"
+        }
     },
     "RE_OrphelinNail": {
         "Display Name": "Orphelin",
@@ -8692,11 +8420,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Earth": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Earth": "Weakness"
+        }
     },
     "QUEST_DemineurWithoutMine": {
         "Display Name": "D\u00c3\u00a9mineur",
@@ -8744,11 +8470,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Lightning": "Weakness"
+        }
     },
     "QUEST_DemineurWithMine": {
         "Display Name": "D\u00c3\u00a9mineur",
@@ -8796,11 +8520,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Lightning": "Weakness"
+        }
     },
     "SI_Tisseur": {
         "Display Name": "Tisseur",
@@ -8853,15 +8575,13 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 100,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Resistant",
-                "Earth": "Resistant",
-                "Light": "Weakness",
-                "Dark": "Resistant",
-                "Fire": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Resistant",
+            "Earth": "Resistant",
+            "Light": "Weakness",
+            "Dark": "Resistant",
+            "Fire": "Weakness"
+        }
     },
     "QUEST_Danseuse_DanceClass": {
         "Display Name": "Danseuse Teacher",
@@ -8903,12 +8623,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 160,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Absorb",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Absorb",
+            "Ice": "Weakness"
+        }
     },
     "QUEST_JarNeedLight": {
         "Display Name": "Jar",
@@ -8956,15 +8674,13 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Physical": "Resistant",
-                "Fire": "Weakness",
-                "Ice": "Weakness",
-                "Earth": "Weakness",
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Physical": "Resistant",
+            "Fire": "Weakness",
+            "Ice": "Weakness",
+            "Earth": "Weakness",
+            "Lightning": "Weakness"
+        }
     },
     "RC_Alicia": {
         "Display Name": "Alicia",
@@ -9017,13 +8733,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Light": "Resistant",
-                "Dark": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Light": "Resistant",
+            "Dark": "Resistant"
+        }
     },
     "SL_Sapling_CrushingWall": {
         "Display Name": "Giant Sapling",
@@ -9071,7 +8785,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "L_LumiereCitizen_Fleuret_Female": {
         "Display Name": "Lumi\u00c3\u00a8re Citizen",
@@ -9113,12 +8827,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Lightning": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Lightning": "Resistant"
+        }
     },
     "L_LumiereCitizen_Fleuret_Male": {
         "Display Name": "Lumi\u00c3\u00a8re Citizen",
@@ -9160,12 +8872,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Lightning": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Lightning": "Resistant"
+        }
     },
     "L_LumiereCitizen_Mage_Female": {
         "Display Name": "Lumi\u00c3\u00a8re Citizen",
@@ -9213,11 +8923,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Physical": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Physical": "Weakness"
+        }
     },
     "L_LumiereCitizen_Mage_Male": {
         "Display Name": "Lumi\u00c3\u00a8re Citizen",
@@ -9265,11 +8973,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Physical": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Physical": "Weakness"
+        }
     },
     "L_LumiereCitizen_GunSword_Female": {
         "Display Name": "Lumi\u00c3\u00a8re Citizen",
@@ -9317,12 +9023,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Resistant",
-                "Earth": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Resistant",
+            "Earth": "Resistant"
+        }
     },
     "L_LumiereCitizen_GunSword_Male": {
         "Display Name": "Lumi\u00c3\u00a8re Citizen",
@@ -9370,12 +9074,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Resistant",
-                "Earth": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Resistant",
+            "Earth": "Resistant"
+        }
     },
     "Portier_DoorSoul": {
         "Display Name": "Portier",
@@ -9423,11 +9125,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 3,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "MO_Boss_Paintress": {
         "Display Name": "The Paintress",
@@ -9480,7 +9180,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "L_Boss_Curator": {
         "Display Name": "Renoir",
@@ -9522,7 +9222,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 50,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "FB_Dualliste_Phase2": {
         "Display Name": "Dualliste",
@@ -9575,13 +9275,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 60,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "MF_MoissonneuseMaskJoy": {
         "Display Name": "Jovial Moissonneuse",
@@ -9629,13 +9327,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "MF_Chapelier_MaskSadness": {
         "Display Name": "Sorrowful Chapelier",
@@ -9683,13 +9379,11 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "MF_Boucheclier_MaskAnger": {
         "Display Name": "Seething Boucheclier",
@@ -9737,13 +9431,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "SC_Hexga": {
         "Display Name": "Hexga",
@@ -9791,12 +9483,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Ice": "Weakness"
+        }
     },
     "Merchant_GoblusLair": {
         "Display Name": "Noco",
@@ -9844,7 +9534,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Merchant_GestralVillage1": {
         "Display Name": "Jujubree",
@@ -9892,7 +9582,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Merchant_GestralVillage2": {
         "Display Name": "Eesda",
@@ -9940,7 +9630,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Merchant_GestralVillage3": {
         "Display Name": "Delsitra",
@@ -9988,7 +9678,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Merchant_SeaCliff": {
         "Display Name": "Jerijeri",
@@ -10036,7 +9726,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Merchant_ForgottenBattlefield": {
         "Display Name": "Kasumi",
@@ -10084,7 +9774,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Merchant_GrandisStation": {
         "Display Name": "Rasablas",
@@ -10132,7 +9822,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Merchant_OldLumiere": {
         "Display Name": "Mandelgo",
@@ -10180,7 +9870,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Merchant_Visages": {
         "Display Name": "Blooraga",
@@ -10228,7 +9918,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Merchant_Sirene": {
         "Display Name": "Klaudiso",
@@ -10276,7 +9966,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Merchant_Monolith": {
         "Display Name": "Mistra",
@@ -10324,7 +10014,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Merchant_Lumiere": {
         "Display Name": "Cribappa",
@@ -10372,7 +10062,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Merchant_YellowForest": {
         "Display Name": "Pinabby",
@@ -10420,7 +10110,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Merchant_OrangeForest": {
         "Display Name": "Persik",
@@ -10468,7 +10158,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Merchant_MonocosMountain": {
         "Display Name": "Melosh",
@@ -10516,7 +10206,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Merchant_Reacher": {
         "Display Name": "Eragol",
@@ -10564,7 +10254,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Merchant_CleaIsland": {
         "Display Name": "Fusoka",
@@ -10612,7 +10302,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Merchant_Optional1": {
         "Display Name": "Ramodo",
@@ -10660,7 +10350,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Merchant_Optional2": {
         "Display Name": "Casmer",
@@ -10708,7 +10398,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Merchant_Optional3": {
         "Display Name": "Grour",
@@ -10756,7 +10446,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "MirrorRenoirCloneObscure": {
         "Display Name": "Obscure Clone",
@@ -10798,7 +10488,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 20,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "FinalBoss_Verso": {
         "Display Name": "Verso",
@@ -10846,11 +10536,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 1000,
         "Stun Duration": 3,
-        "Affinities": [
-            {
-                "Fire": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness"
+        }
     },
     "FinalBoss_Maelle": {
         "Display Name": "Maelle",
@@ -10898,7 +10586,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 1000,
         "Stun Duration": 3,
-        "Affinities": []
+        "Affinities": {}
     },
     "ML_PaintressIntro": {
         "Display Name": "The Paintress",
@@ -10940,18 +10628,16 @@
         "Free Aim Damage Taken": 0.0,
         "Break Bar HP": 80,
         "Stun Duration": 3,
-        "Affinities": [
-            {
-                "Physical": "Nullify",
-                "Fire": "Nullify",
-                "Ice": "Nullify",
-                "Lightning": "Nullify",
-                "Earth": "Nullify",
-                "Dark": "Nullify",
-                "Light": "Nullify",
-                "Void": "Nullify"
-            }
-        ]
+        "Affinities": {
+            "Physical": "Nullify",
+            "Fire": "Nullify",
+            "Ice": "Nullify",
+            "Lightning": "Nullify",
+            "Earth": "Nullify",
+            "Dark": "Nullify",
+            "Light": "Nullify",
+            "Void": "Nullify"
+        }
     },
     "L_MaelleTutorial": {
         "Display Name": "Maelle",
@@ -10993,7 +10679,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 1000,
         "Stun Duration": 3,
-        "Affinities": []
+        "Affinities": {}
     },
     "MirrorRenoirCloneClaire": {
         "Display Name": "Clair Clone",
@@ -11035,7 +10721,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 20,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "SI_Benisseur": {
         "Display Name": "B\u00c3\u00a9nisseur",
@@ -11083,14 +10769,12 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness",
-                "Earth": "Resistant",
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness",
+            "Earth": "Resistant",
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "GO_Cruler_JumpTutorial": {
         "Display Name": "Cruler",
@@ -11132,11 +10816,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Lightning": "Weakness"
+        }
     },
     "MF_Axon_MaskKeeper_VisagesPhase2": {
         "Display Name": "Mask Keeper",
@@ -11178,13 +10860,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 60,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "SI_Chorale": {
         "Display Name": "Chorale",
@@ -11232,14 +10912,12 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 80,
         "Stun Duration": 3,
-        "Affinities": [
-            {
-                "Ice": "Weakness",
-                "Earth": "Resistant",
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness",
+            "Earth": "Resistant",
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "OL_MirrorRenoir_FirstFight": {
         "Display Name": "Renoir",
@@ -11287,7 +10965,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 60,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "FB_Chalier_GradientCounterTutorial": {
         "Display Name": "Chalier",
@@ -11329,12 +11007,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "GV_Sciel_Arena": {
         "Display Name": "Sciel",
@@ -11376,7 +11052,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "MM_Stalact_GradientAttackTutorial": {
         "Display Name": "Stalact",
@@ -11418,12 +11094,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Absorb",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Absorb",
+            "Ice": "Weakness"
+        }
     },
     "QUEST_SleepingBenisseur": {
         "Display Name": "B\u00c3\u00a9nisseur",
@@ -11471,14 +11145,12 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness",
-                "Earth": "Resistant",
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness",
+            "Earth": "Resistant",
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "QUEST_HexgaLuster": {
         "Display Name": "Hexga",
@@ -11526,12 +11198,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Ice": "Weakness"
+        }
     },
     "QUEST_TroubadourCantPlay": {
         "Display Name": "Troubadour",
@@ -11573,12 +11243,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "RE_Echassier": {
         "Display Name": "\u00c3\u2030chassier",
@@ -11626,11 +11294,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 3,
-        "Affinities": [
-            {
-                "Fire": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness"
+        }
     },
     "WM_Serpenphare": {
         "Display Name": "Serpenphare",
@@ -11683,13 +11349,11 @@
         "Free Aim Damage Taken": 0.0,
         "Break Bar HP": 60,
         "Stun Duration": 3,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Ice": "Resistant",
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Ice": "Resistant",
+            "Lightning": "Weakness"
+        }
     },
     "MF_GrossTete": {
         "Display Name": "Grosse T\u00c3\u00aate",
@@ -11737,14 +11401,12 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 15,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Ice": "Weakness",
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Ice": "Weakness",
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "WM_Sprong": {
         "Display Name": "Sprong",
@@ -11792,7 +11454,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 60,
         "Stun Duration": 2,
-        "Affinities": []
+        "Affinities": {}
     },
     "SC_LampMaster": {
         "Display Name": "Lampmaster",
@@ -11845,11 +11507,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 60,
         "Stun Duration": 3,
-        "Affinities": [
-            {
-                "Light": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Light": "Resistant"
+        }
     },
     "Quest_GestralSumo9999": {
         "Display Name": "Ono Puncho",
@@ -11891,7 +11551,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 3,
-        "Affinities": []
+        "Affinities": {}
     },
     "QUEST_JudgeOfMercy": {
         "Display Name": "Blanche",
@@ -11939,7 +11599,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 90,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "QUEST_Golgra_DarkArena": {
         "Display Name": "Golgra",
@@ -11981,7 +11641,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 50,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "QUEST_Golgra_SacredRiver": {
         "Display Name": "Golgra",
@@ -12023,7 +11683,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 50,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "GO_Bourgeon_Quest": {
         "Display Name": "Grown Bourgeon",
@@ -12071,11 +11731,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 23,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Lightning": "Weakness"
+        }
     },
     "ML_Obscur": {
         "Display Name": "Obscur",
@@ -12117,12 +11775,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Light": "Weakness",
-                "Dark": "Nullify"
-            }
-        ]
+        "Affinities": {
+            "Light": "Weakness",
+            "Dark": "Nullify"
+        }
     },
     "ML_Clair": {
         "Display Name": "Clair",
@@ -12164,12 +11820,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Light": "Nullify",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Light": "Nullify",
+            "Dark": "Weakness"
+        }
     },
     "ML_ClairObscur": {
         "Display Name": "Clair Obscur",
@@ -12222,7 +11876,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Petank_Blue": {
         "Display Name": "P\u00c3\u00a9tank",
@@ -12264,7 +11918,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Petank_Green": {
         "Display Name": "P\u00c3\u00a9tank",
@@ -12306,7 +11960,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 10000,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Petank_Yellow": {
         "Display Name": "P\u00c3\u00a9tank",
@@ -12348,7 +12002,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 17,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Petank_Orange": {
         "Display Name": "P\u00c3\u00a9tank",
@@ -12390,7 +12044,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Petank_Red": {
         "Display Name": "P\u00c3\u00a9tank",
@@ -12432,7 +12086,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 45,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Petank_Violet": {
         "Display Name": "P\u00c3\u00a9tank",
@@ -12474,7 +12128,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 150,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Petank_Parent": {
         "Display Name": "P\u00c3\u00a9tank",
@@ -12516,7 +12170,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "L_Aberration": {
         "Display Name": "Aberration",
@@ -12564,11 +12218,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant"
+        }
     },
     "L_Creation": {
         "Display Name": "Cr\u00c3\u00a9ation",
@@ -12616,11 +12268,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Light": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Light": "Resistant"
+        }
     },
     "SI_Ballet_Melee": {
         "Display Name": "Ballet",
@@ -12668,14 +12318,12 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness",
-                "Earth": "Resistant",
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness",
+            "Earth": "Resistant",
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "SC_Rocher": {
         "Display Name": "Rocher",
@@ -12717,12 +12365,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Ice": "Weakness"
+        }
     },
     "GO_Curator_JumpTutorial": {
         "Display Name": "The Curator",
@@ -12764,7 +12410,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "RE_Veilleur": {
         "Display Name": "Veilleur",
@@ -12812,13 +12458,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 50,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Lightning": "Weakness",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Lightning": "Weakness",
+            "Light": "Weakness"
+        }
     },
     "DS_Noire": {
         "Display Name": "Noire",
@@ -12866,12 +12510,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 25,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Light": "Weakness",
-                "Dark": "Absorb"
-            }
-        ]
+        "Affinities": {
+            "Light": "Weakness",
+            "Dark": "Absorb"
+        }
     },
     "MM_Braseleur_NoFreeAim": {
         "Display Name": "Braseleur",
@@ -12919,12 +12561,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Absorb",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Absorb",
+            "Ice": "Weakness"
+        }
     },
     "YF_Glaise_Boss": {
         "Display Name": "Glaise",
@@ -12977,14 +12617,12 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Weakness",
-                "Earth": "Absorb",
-                "Lightning": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Weakness",
+            "Earth": "Absorb",
+            "Lightning": "Resistant"
+        }
     },
     "TS_PotatoBag_Tank_Twilight": {
         "Display Name": "Robust Sakapatate",
@@ -13032,12 +12670,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Lightning": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Lightning": "Resistant"
+        }
     },
     "TS_PotatoBag_Mage_Twilight": {
         "Display Name": "Catapult Sakapatate",
@@ -13085,12 +12721,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Lightning": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Lightning": "Resistant"
+        }
     },
     "TS_PotatoBag_Ranger_Twilight": {
         "Display Name": "Ranger Sakapatate",
@@ -13132,12 +12766,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 160,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Lightning": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Lightning": "Resistant"
+        }
     },
     "TS_PotatoBag_Boss_Twilight": {
         "Display Name": "Ultimate Sakapatate",
@@ -13185,12 +12817,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 50,
         "Stun Duration": 2,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Lightning": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Lightning": "Resistant"
+        }
     },
     "CFH_Dualliste": {
         "Display Name": "Dualliste",
@@ -13243,13 +12873,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 95,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "CFH_LampMaster": {
         "Display Name": "Lampmaster",
@@ -13302,11 +12930,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 300,
         "Stun Duration": 3,
-        "Affinities": [
-            {
-                "Light": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Light": "Resistant"
+        }
     },
     "CFH_Goblu": {
         "Display Name": "Goblu",
@@ -13354,7 +12980,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "RE_OrphelinHammer_Big": {
         "Display Name": "Orphelin",
@@ -13396,11 +13022,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Earth": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Earth": "Weakness"
+        }
     },
     "RE_OrphelinSpoon_Big": {
         "Display Name": "Orphelin",
@@ -13442,11 +13066,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Earth": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Earth": "Weakness"
+        }
     },
     "RE_OrphelinNail_Big": {
         "Display Name": "Orphelin",
@@ -13488,11 +13110,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Earth": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Earth": "Weakness"
+        }
     },
     "RD_Creation_Alpha": {
         "Display Name": "Chromatic Cr\u00c3\u00a9ation",
@@ -13540,7 +13160,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Boss_Simon": {
         "Display Name": "Simon",
@@ -13582,7 +13202,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 90,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "SC_MirrorRenoir_GustaveEnd": {
         "Display Name": "White-haired Man",
@@ -13624,7 +13244,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 20,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "OL_MirrorRenoir_HealingSource": {
         "Display Name": "Dancing Petals",
@@ -13666,7 +13286,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 1000,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Mime": {
         "Display Name": "Mime",
@@ -13708,7 +13328,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 50,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "CT_MaskKeeper_NoMask": {
         "Display Name": "Mask Keeper",
@@ -13750,13 +13370,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 60,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "QUEST_MonocoDuel": {
         "Display Name": "Monoco",
@@ -13798,7 +13416,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 50,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "QUEST_FrancoisDuel": {
         "Display Name": "Fran\u00c3\u00a7ois",
@@ -13840,11 +13458,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Weakness"
+        }
     },
     "CFH_Boss_Clea": {
         "Display Name": "Clea",
@@ -13897,7 +13513,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "CW_LampMasterAlpha": {
         "Display Name": "Lampmaster",
@@ -13950,11 +13566,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 300,
         "Stun Duration": 3,
-        "Affinities": [
-            {
-                "Light": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Light": "Resistant"
+        }
     },
     "ML_Lancelier_Gold": {
         "Display Name": "Lancelier",
@@ -14002,11 +13616,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "ML_Portier_Gold": {
         "Display Name": "Portier",
@@ -14048,11 +13660,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "ML_Abbest_Gold": {
         "Display Name": "Abbest",
@@ -14094,12 +13704,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Physical": "Resistant",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Physical": "Resistant",
+            "Ice": "Weakness"
+        }
     },
     "ML_Volester_Gold": {
         "Display Name": "Volester",
@@ -14141,11 +13749,9 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "ML_Eveque_Gold": {
         "Display Name": "\u00c3\u2030v\u00c3\u00aaque",
@@ -14193,12 +13799,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 60,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness",
-                "Earth": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness",
+            "Earth": "Resistant"
+        }
     },
     "ML_Demineur_Gold": {
         "Display Name": "D\u00c3\u00a9mineur",
@@ -14240,11 +13844,9 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Lightning": "Weakness"
+        }
     },
     "ML_Bourgeon_Gold": {
         "Display Name": "Bourgeon",
@@ -14297,11 +13899,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Lightning": "Weakness"
+        }
     },
     "ML_Luster_Gold": {
         "Display Name": "Luster",
@@ -14343,11 +13943,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Lightning": "Weakness"
+        }
     },
     "ML_Cruler_Gold": {
         "Display Name": "Cruler",
@@ -14395,11 +13993,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Lightning": "Weakness"
+        }
     },
     "ML_Bruler_Gold": {
         "Display Name": "Bruler",
@@ -14447,11 +14043,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Lightning": "Weakness"
+        }
     },
     "ML_PotatoBag_Tank_Gold": {
         "Display Name": "Robust Sakapatate",
@@ -14499,12 +14093,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Lightning": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Lightning": "Resistant"
+        }
     },
     "ML_PotatoBag_Ranger_Gold": {
         "Display Name": "Ranger Sakapatate",
@@ -14546,12 +14138,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 160,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Lightning": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Lightning": "Resistant"
+        }
     },
     "ML_PotatoBag_Mage_Gold": {
         "Display Name": "Catapult Sakapatate",
@@ -14599,12 +14189,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Lightning": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Lightning": "Resistant"
+        }
     },
     "ML_Rocher_Gold": {
         "Display Name": "Rocher",
@@ -14646,12 +14234,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Ice": "Weakness"
+        }
     },
     "ML_Hexga_Gold": {
         "Display Name": "Hexga",
@@ -14699,12 +14285,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Ice": "Weakness"
+        }
     },
     "ML_CultistFlying_Gold": {
         "Display Name": "Reaper Cultist",
@@ -14752,12 +14336,10 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "ML_CultistMage_Gold": {
         "Display Name": "Mage Cultist",
@@ -14805,12 +14387,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "ML_CultistHeavy_Gold": {
         "Display Name": "Greatsword Cultist",
@@ -14858,12 +14438,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "ML_ChalierSword_Gold": {
         "Display Name": "Chalier",
@@ -14911,12 +14489,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "ML_Ramasseur_Gold": {
         "Display Name": "Ramasseur",
@@ -14964,12 +14540,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 160,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "ML_Troubadour_Gold": {
         "Display Name": "Troubadour",
@@ -15017,12 +14591,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "ML_Danseuse_Gold": {
         "Display Name": "Danseuse",
@@ -15064,12 +14636,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Absorb",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Absorb",
+            "Ice": "Weakness"
+        }
     },
     "ML_Danseuse_Clone_Gold": {
         "Display Name": "Danseuse Clone",
@@ -15111,12 +14681,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Absorb",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Absorb",
+            "Ice": "Weakness"
+        }
     },
     "ML_Gargant_Gold": {
         "Display Name": "Gargant",
@@ -15158,12 +14726,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 25,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Absorb"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Absorb"
+        }
     },
     "ML_Pelerin_Gold": {
         "Display Name": "P\u00c3\u00a8lerin",
@@ -15205,12 +14771,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Absorb"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Absorb"
+        }
     },
     "ML_Braseleur_Gold": {
         "Display Name": "Braseleur",
@@ -15258,12 +14822,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Absorb",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Absorb",
+            "Ice": "Weakness"
+        }
     },
     "ML_Stalact_Gold": {
         "Display Name": "Stalact",
@@ -15311,12 +14873,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Absorb",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Absorb",
+            "Ice": "Weakness"
+        }
     },
     "SC_LampMaster_CleasTower": {
         "Display Name": "Lampmaster",
@@ -15358,11 +14918,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 300,
         "Stun Duration": 3,
-        "Affinities": [
-            {
-                "Light": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Light": "Resistant"
+        }
     },
     "GO_Luster_Alpha_CleasTower": {
         "Display Name": "Chromatic Luster",
@@ -15404,12 +14962,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Absorb",
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Absorb",
+            "Lightning": "Weakness"
+        }
     },
     "SM_Boss_Eveque_Fire_ALPHA_CleaTower": {
         "Display Name": "Flame \u00c3\u2030v\u00c3\u00aaque",
@@ -15451,17 +15007,15 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 60,
         "Stun Duration": 3,
-        "Affinities": [
-            {
-                "Physical": "Resistant",
-                "Fire": "Absorb",
-                "Ice": "Weakness",
-                "Lightning": "Resistant",
-                "Earth": "Resistant",
-                "Dark": "Resistant",
-                "Light": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Physical": "Resistant",
+            "Fire": "Absorb",
+            "Ice": "Weakness",
+            "Lightning": "Resistant",
+            "Earth": "Resistant",
+            "Dark": "Resistant",
+            "Light": "Resistant"
+        }
     },
     "SM_Boss_Eveque_Ice_ALPHA_CleaTower": {
         "Display Name": "Frost \u00c3\u2030v\u00c3\u00aaque",
@@ -15503,17 +15057,15 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 60,
         "Stun Duration": 3,
-        "Affinities": [
-            {
-                "Physical": "Resistant",
-                "Fire": "Resistant",
-                "Ice": "Absorb",
-                "Lightning": "Weakness",
-                "Earth": "Resistant",
-                "Dark": "Resistant",
-                "Light": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Physical": "Resistant",
+            "Fire": "Resistant",
+            "Ice": "Absorb",
+            "Lightning": "Weakness",
+            "Earth": "Resistant",
+            "Dark": "Resistant",
+            "Light": "Resistant"
+        }
     },
     "FB_ChalierSword_Alpha__CleaTower": {
         "Display Name": "Chromatic Chalier",
@@ -15555,12 +15107,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "FB_Dualliste_CleasTower": {
         "Display Name": "Dualliste",
@@ -15602,13 +15152,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 90,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "CT_MaskKeeper_NoMask_CleaTwoer": {
         "Display Name": "Mask Keeper",
@@ -15650,13 +15198,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 60,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "L_MaelleTutorial_NoTutorial": {
         "Display Name": "Maelle",
@@ -15698,7 +15244,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 1000,
         "Stun Duration": 3,
-        "Affinities": []
+        "Affinities": {}
     },
     "WM_Mime_Bald": {
         "Display Name": "Mime",
@@ -15746,7 +15292,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 3,
-        "Affinities": []
+        "Affinities": {}
     },
     "GV_Golgra": {
         "Display Name": "Golgra",
@@ -15788,7 +15334,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 50,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "MM_ClairObscurAlpha": {
         "Display Name": "Chromatic Clair Obscur",
@@ -15836,7 +15382,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "ML_ChalierSpear_Gold": {
         "Display Name": "Chalier",
@@ -15884,12 +15430,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "ML_PotatoBag_Boss_Gold": {
         "Display Name": "Ultimate Sakapatate",
@@ -15931,12 +15475,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 50,
         "Stun Duration": 2,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Lightning": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Lightning": "Resistant"
+        }
     },
     "ML_ChevaliereA_Gold": {
         "Display Name": "Ceramic Chevali\u00c3\u00a8re",
@@ -15978,16 +15520,14 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Weakness",
-                "Lightning": "Weakness",
-                "Earth": "Weakness",
-                "Dark": "Weakness",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Weakness",
+            "Lightning": "Weakness",
+            "Earth": "Weakness",
+            "Dark": "Weakness",
+            "Light": "Weakness"
+        }
     },
     "ML_ChevaliereB_Gold": {
         "Display Name": "Ceramic Chevali\u00c3\u00a8re",
@@ -16029,11 +15569,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Physical": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Physical": "Weakness"
+        }
     },
     "ML_ChevaliereC_Gold": {
         "Display Name": "Ceramic Chevali\u00c3\u00a8re",
@@ -16081,14 +15619,12 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Ice": "Resistant",
-                "Light": "Weakness",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Ice": "Resistant",
+            "Light": "Weakness",
+            "Dark": "Weakness"
+        }
     },
     "SM_Mime": {
         "Display Name": "Mime",
@@ -16141,7 +15677,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "YF_Mime": {
         "Display Name": "Mime",
@@ -16189,7 +15725,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "GO_Mime": {
         "Display Name": "Mime",
@@ -16237,7 +15773,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "ML_Mime": {
         "Display Name": "Mime",
@@ -16285,7 +15821,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "SI_Glissando_Alpha": {
         "Display Name": "Chromatic Glissando",
@@ -16333,14 +15869,12 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 60,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness",
-                "Earth": "Resistant",
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness",
+            "Earth": "Resistant",
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "LU_EchassierAlpha": {
         "Display Name": "Chromatic \u00c3\u2030chassier",
@@ -16388,11 +15922,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 50,
         "Stun Duration": 3,
-        "Affinities": [
-            {
-                "Fire": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness"
+        }
     },
     "LU_Act1_PunchingBall": {
         "Display Name": "Punching Ball",
@@ -16434,7 +15966,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 2000,
         "Stun Duration": 3,
-        "Affinities": []
+        "Affinities": {}
     },
     "LU_Act1_Sophie": {
         "Display Name": "Sophie",
@@ -16476,7 +16008,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 3,
-        "Affinities": []
+        "Affinities": {}
     },
     "LU_Act1_Mime": {
         "Display Name": "Mime",
@@ -16518,7 +16050,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 3,
-        "Affinities": []
+        "Affinities": {}
     },
     "L_MaelleTutorial_NoTutorial_Civilian": {
         "Display Name": "Maelle",
@@ -16560,7 +16092,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 1000,
         "Stun Duration": 3,
-        "Affinities": []
+        "Affinities": {}
     },
     "L_MaelleTutorial_Civilian": {
         "Display Name": "Maelle",
@@ -16602,7 +16134,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 1000,
         "Stun Duration": 3,
-        "Affinities": []
+        "Affinities": {}
     },
     "SM_FirstLancelier_NoTuto": {
         "Display Name": "Lancelier",
@@ -16644,11 +16176,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 160,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "SM_Boss_Eveque_ShieldTutorial": {
         "Display Name": "\u00c3\u2030v\u00c3\u00aaque",
@@ -16696,7 +16226,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "SM_First_Portier_NoTuto": {
         "Display Name": "Portier",
@@ -16744,11 +16274,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "FB_Chalier_GradientCounterTutorial_Notuto": {
         "Display Name": "Chalier",
@@ -16790,12 +16318,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "GO_Curator_JumpTutorial_NoTuto": {
         "Display Name": "The Curator",
@@ -16837,7 +16363,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "SM_Volester_TutoFlying": {
         "Display Name": "Volester",
@@ -16879,11 +16405,9 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "GV_GestralScielTuto": {
         "Display Name": "Dominique Giant Feet",
@@ -16925,7 +16449,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "MM_Pelerin_MonocoTuto": {
         "Display Name": "P\u00c3\u00a8lerin",
@@ -16967,7 +16491,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Boss_Simon_Phase2": {
         "Display Name": "Simon",
@@ -17009,7 +16533,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 90,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "EN_Mime": {
         "Display Name": "Mime",
@@ -17062,7 +16586,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "SI_DarkBallet": {
         "Display Name": "Dark Ballet",
@@ -17110,7 +16634,7 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "CT_Boss_Curator_CleaTower": {
         "Display Name": "Painted Love",
@@ -17152,7 +16676,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 50,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "CT_Boss_Paintress_CleaTower": {
         "Display Name": "Painted Love",
@@ -17194,7 +16718,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 50,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "WM_Petank_Alpha": {
         "Display Name": "Chromatic P\u00c3\u00a9tank",
@@ -17242,7 +16766,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 50,
         "Stun Duration": 3,
-        "Affinities": []
+        "Affinities": {}
     },
     "WM_PetankAlphaSummon_Blue": {
         "Display Name": "P\u00c3\u00a9tank",
@@ -17284,7 +16808,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 3,
-        "Affinities": []
+        "Affinities": {}
     },
     "WM_PetankAlphaSummon_Green": {
         "Display Name": "P\u00c3\u00a9tank",
@@ -17326,7 +16850,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 3,
-        "Affinities": []
+        "Affinities": {}
     },
     "WM_PetankAlphaSummon_Red": {
         "Display Name": "P\u00c3\u00a9tank",
@@ -17368,7 +16892,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 3,
-        "Affinities": []
+        "Affinities": {}
     },
     "WM_PetankAlphaSummon_Violet": {
         "Display Name": "P\u00c3\u00a9tank",
@@ -17410,7 +16934,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 3,
-        "Affinities": []
+        "Affinities": {}
     },
     "WM_PetankAlphaSummon_Yellow": {
         "Display Name": "P\u00c3\u00a9tank",
@@ -17452,7 +16976,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 3,
-        "Affinities": []
+        "Affinities": {}
     },
     "QUEST_Rocher_HexgaQuest": {
         "Display Name": "Rocher",
@@ -17500,12 +17024,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Ice": "Weakness"
+        }
     },
     "SC_Hexga_Alpha": {
         "Display Name": "Chromatic Hexga",
@@ -17558,12 +17080,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Ice": "Weakness"
+        }
     },
     "SI_Mime": {
         "Display Name": "Mime",
@@ -17611,7 +17131,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "MF_Mime": {
         "Display Name": "Mime",
@@ -17664,7 +17184,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "WM_Mime_01": {
         "Display Name": "Mime",
@@ -17712,7 +17232,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "WM_Mime_02": {
         "Display Name": "Mime",
@@ -17760,7 +17280,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "AS_Mime": {
         "Display Name": "Mime",
@@ -17813,7 +17333,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "L_Aberration_Alpha": {
         "Display Name": "Chromatic Aberration",
@@ -17866,11 +17386,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 50,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant"
+        }
     },
     "CAMP_PunchingBall": {
         "Display Name": "Punching Ball",
@@ -17912,7 +17430,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 1,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "PETANK_Lancelier_Summon": {
         "Display Name": "Lancelier",
@@ -17954,11 +17472,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness"
+        }
     },
     "PETANK_Luster_Summon": {
         "Display Name": "Luster",
@@ -18000,11 +17516,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Lightning": "Weakness"
+        }
     },
     "PETANK_GaultA_Summon": {
         "Display Name": "Gault",
@@ -18046,16 +17560,14 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Earth": "Absorb",
-                "Lightning": "Resistant",
-                "Light": "Resistant",
-                "Dark": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Earth": "Absorb",
+            "Lightning": "Resistant",
+            "Light": "Resistant",
+            "Dark": "Resistant"
+        }
     },
     "SI_Ballet_ALPHA_Charm": {
         "Display Name": "Chromatic Ballet",
@@ -18103,14 +17615,12 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness",
-                "Earth": "Resistant",
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness",
+            "Earth": "Resistant",
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "SI_Ballet_ALPHA_Range": {
         "Display Name": "Chromatic Ballet",
@@ -18152,14 +17662,12 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Resistant",
-                "Fire": "Weakness",
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Resistant",
+            "Fire": "Weakness",
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "SI_Ballet_ALPHA_Melee": {
         "Display Name": "Chromatic Ballet",
@@ -18201,14 +17709,12 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness",
-                "Fire": "Resistant",
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness",
+            "Fire": "Resistant",
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "RE_Veilleur_Alpha": {
         "Display Name": "Chromatic Veilleur",
@@ -18256,13 +17762,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Lightning": "Weakness",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Lightning": "Weakness",
+            "Light": "Weakness"
+        }
     },
     "RE_OrphelinHammer_Alpha": {
         "Display Name": "Chromatic Orphelin",
@@ -18310,11 +17814,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Earth": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Earth": "Weakness"
+        }
     },
     "RE_OrphelinSpoon_Alpha": {
         "Display Name": "Chromatic Orphelin",
@@ -18356,11 +17858,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Earth": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Earth": "Weakness"
+        }
     },
     "RE_OrphelinNail_Alpha": {
         "Display Name": "Chromatic Orphelin",
@@ -18402,11 +17902,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Earth": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Earth": "Weakness"
+        }
     },
     "MF_Contorsionniste_Alpha": {
         "Display Name": "Contorsionniste",
@@ -18454,13 +17952,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "CFH_Mime": {
         "Display Name": "Mime",
@@ -18508,7 +18004,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "MM_Mime": {
         "Display Name": "Mime",
@@ -18556,7 +18052,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "OL_Mime": {
         "Display Name": "Mime",
@@ -18604,7 +18100,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "RE_Mime": {
         "Display Name": "Mime",
@@ -18657,7 +18153,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "AS_PotatoBag_Boss_Quest": {
         "Display Name": "Ultimate Sakapatate",
@@ -18705,12 +18201,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 50,
         "Stun Duration": 2,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Lightning": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Lightning": "Resistant"
+        }
     },
     "CC_Cruler": {
         "Display Name": "Cruler",
@@ -18752,11 +18246,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Lightning": "Weakness"
+        }
     },
     "CC_Bruler": {
         "Display Name": "Bruler",
@@ -18798,11 +18290,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Lightning": "Weakness"
+        }
     },
     "FC_ChalierSword": {
         "Display Name": "Chalier",
@@ -18850,12 +18340,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "FC_ChalierHammer": {
         "Display Name": "Chalier",
@@ -18903,12 +18391,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "FC_ChalierSpear": {
         "Display Name": "Chalier",
@@ -18956,12 +18442,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "Merchant_TwilightSanctuary": {
         "Display Name": "Anthonypo",
@@ -19009,7 +18493,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "CP_Glaise": {
         "Display Name": "Glaise",
@@ -19057,14 +18541,12 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Weakness",
-                "Earth": "Absorb",
-                "Lightning": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Weakness",
+            "Earth": "Absorb",
+            "Lightning": "Resistant"
+        }
     },
     "CP_Stalact": {
         "Display Name": "Stalact",
@@ -19112,12 +18594,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Absorb",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Absorb",
+            "Ice": "Weakness"
+        }
     },
     "CP_Benisseur": {
         "Display Name": "B\u00c3\u00a9nisseur",
@@ -19159,14 +18639,12 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness",
-                "Earth": "Resistant",
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness",
+            "Earth": "Resistant",
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "CP_Jar": {
         "Display Name": "Jar",
@@ -19208,15 +18686,13 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Physical": "Resistant",
-                "Fire": "Weakness",
-                "Ice": "Weakness",
-                "Earth": "Weakness",
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Physical": "Resistant",
+            "Fire": "Weakness",
+            "Ice": "Weakness",
+            "Earth": "Weakness",
+            "Lightning": "Weakness"
+        }
     },
     "CP_Contorsionniste": {
         "Display Name": "Contorsionniste",
@@ -19264,13 +18740,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "RD_Contorsionniste": {
         "Display Name": "Contorsionniste",
@@ -19323,13 +18797,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "RD_Aberration": {
         "Display Name": "Aberration",
@@ -19382,11 +18854,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant"
+        }
     },
     "RD_Ballet": {
         "Display Name": "Ballet",
@@ -19439,14 +18909,12 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness",
-                "Earth": "Resistant",
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness",
+            "Earth": "Resistant",
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "RD_Benisseur": {
         "Display Name": "B\u00c3\u00a9nisseur",
@@ -19494,14 +18962,12 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Weakness",
-                "Earth": "Resistant",
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Weakness",
+            "Earth": "Resistant",
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "RD_Chapelier": {
         "Display Name": "Chapelier",
@@ -19549,13 +19015,11 @@
         "Free Aim Damage Taken": 2.0,
         "Break Bar HP": 160,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "RD_Moissonneuse": {
         "Display Name": "Moissonneuse",
@@ -19603,13 +19067,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "RD_OrphelinHammer": {
         "Display Name": "Orphelin",
@@ -19657,11 +19119,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Earth": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Earth": "Weakness"
+        }
     },
     "RD_OrphelinSpoon": {
         "Display Name": "Orphelin",
@@ -19709,11 +19169,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Earth": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Earth": "Weakness"
+        }
     },
     "RD_Boucheclier": {
         "Display Name": "Boucheclier",
@@ -19761,13 +19219,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "RD_Creation": {
         "Display Name": "Cr\u00c3\u00a9ation",
@@ -19820,11 +19276,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Light": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Light": "Resistant"
+        }
     },
     "RD_Echassier": {
         "Display Name": "\u00c3\u2030chassier",
@@ -19877,11 +19331,9 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 3,
-        "Affinities": [
-            {
-                "Fire": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness"
+        }
     },
     "CFH_Boss_Eveque_Ice_ALPHA": {
         "Display Name": "Frost \u00c3\u2030v\u00c3\u00aaque",
@@ -19923,17 +19375,15 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 60,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Physical": "Resistant",
-                "Fire": "Resistant",
-                "Ice": "Absorb",
-                "Lightning": "Weakness",
-                "Earth": "Resistant",
-                "Dark": "Resistant",
-                "Light": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Physical": "Resistant",
+            "Fire": "Resistant",
+            "Ice": "Absorb",
+            "Lightning": "Weakness",
+            "Earth": "Resistant",
+            "Dark": "Resistant",
+            "Light": "Resistant"
+        }
     },
     "CFH_Boss_Eveque_Lightning_ALPHA": {
         "Display Name": "Thunder \u00c3\u2030v\u00c3\u00aaque",
@@ -19975,17 +19425,15 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 8,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Physical": "Resistant",
-                "Fire": "Resistant",
-                "Ice": "Resistant",
-                "Lightning": "Absorb",
-                "Earth": "Weakness",
-                "Dark": "Resistant",
-                "Light": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Physical": "Resistant",
+            "Fire": "Resistant",
+            "Ice": "Resistant",
+            "Lightning": "Absorb",
+            "Earth": "Weakness",
+            "Dark": "Resistant",
+            "Light": "Resistant"
+        }
     },
     "CFH_Boss_Eveque_Fire_ALPHA": {
         "Display Name": "Flame \u00c3\u2030v\u00c3\u00aaque",
@@ -20038,17 +19486,15 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 60,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Physical": "Resistant",
-                "Fire": "Absorb",
-                "Ice": "Weakness",
-                "Lightning": "Resistant",
-                "Earth": "Resistant",
-                "Dark": "Resistant",
-                "Light": "Resistant"
-            }
-        ]
+        "Affinities": {
+            "Physical": "Resistant",
+            "Fire": "Absorb",
+            "Ice": "Weakness",
+            "Lightning": "Resistant",
+            "Earth": "Resistant",
+            "Dark": "Resistant",
+            "Light": "Resistant"
+        }
     },
     "RD_Veilleur": {
         "Display Name": "Veilleur",
@@ -20101,13 +19547,11 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 50,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Lightning": "Weakness",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Lightning": "Weakness",
+            "Light": "Weakness"
+        }
     },
     "CFH_Gargant": {
         "Display Name": "Gargant",
@@ -20160,12 +19604,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 25,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Weakness",
-                "Ice": "Absorb"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Weakness",
+            "Ice": "Absorb"
+        }
     },
     "QUEST_TroubadourCantPlay_Kill": {
         "Display Name": "Troubadour",
@@ -20207,12 +19649,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 50,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Dark": "Resistant",
-                "Light": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Dark": "Resistant",
+            "Light": "Weakness"
+        }
     },
     "QUEST_Danseuse_DanceClass_Kill": {
         "Display Name": "Danseuse Teacher",
@@ -20254,12 +19694,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 50,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Absorb",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Absorb",
+            "Ice": "Weakness"
+        }
     },
     "QUEST_Danseuse_DanceClass_Clone": {
         "Display Name": "Danseuse Clone",
@@ -20301,12 +19739,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Absorb",
-                "Ice": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Absorb",
+            "Ice": "Weakness"
+        }
     },
     "GO_Goblu_CleaTower": {
         "Display Name": "Goblu",
@@ -20359,12 +19795,10 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 30,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Ice": "Resistant",
-                "Lightning": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Ice": "Resistant",
+            "Lightning": "Weakness"
+        }
     },
     "Merchant_GestralVillage3_Minions": {
         "Display Name": "Gestral",
@@ -20406,7 +19840,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "CFH_GrossTete": {
         "Display Name": "Grosse T\u00c3\u00aate",
@@ -20448,14 +19882,12 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 15,
         "Stun Duration": 1,
-        "Affinities": [
-            {
-                "Fire": "Resistant",
-                "Ice": "Weakness",
-                "Light": "Resistant",
-                "Dark": "Weakness"
-            }
-        ]
+        "Affinities": {
+            "Fire": "Resistant",
+            "Ice": "Weakness",
+            "Light": "Resistant",
+            "Dark": "Weakness"
+        }
     },
     "Boss_Simon_ALPHA": {
         "Display Name": "Simon, the Divergent Star",
@@ -20543,7 +19975,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 90,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Boss_LampMaster_ALPHA": {
         "Display Name": "Chromatic Lampmaster",
@@ -20606,7 +20038,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 100,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Duolliste_A": {
         "Display Name": "Duollistes",
@@ -20648,7 +20080,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Duolliste_B": {
         "Display Name": "Duollistes",
@@ -20690,7 +20122,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Duolliste_P2": {
         "Display Name": "Duolliste",
@@ -20753,7 +20185,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Boss_Clea_ALPHA": {
         "Display Name": "Clea Unleashed",
@@ -20821,7 +20253,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "VD_Licorne": {
         "Display Name": "Licorne",
@@ -20869,7 +20301,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "VD_Licorne_Alpha": {
         "Display Name": "Chromatic Licorne",
@@ -20917,7 +20349,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "VD_Barbasucette": {
         "Display Name": "Barbasucette",
@@ -20965,7 +20397,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "VD_Barbasucette_Alpha": {
         "Display Name": "Chromatic Barbasucette",
@@ -21013,7 +20445,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "VD_GestralBalloon": {
         "Display Name": "Half-baked Gestral",
@@ -21061,7 +20493,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "VD_Franctale": {
         "Display Name": "Franctale",
@@ -21109,7 +20541,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "VD_Franctale_Alpha": {
         "Display Name": "Chromatic Franctale",
@@ -21151,7 +20583,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "VD_Machinapieds": {
         "Display Name": "Machinapieds",
@@ -21199,7 +20631,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "VD_Machinapieds_Alpha": {
         "Display Name": "Chromatic Machinapieds",
@@ -21247,7 +20679,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "VD_Licornapieds": {
         "Display Name": "Licornapieds",
@@ -21300,7 +20732,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "VD_Osquio": {
         "Display Name": "Osquio",
@@ -21358,7 +20790,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Quest_FeintFight": {
         "Display Name": "Monsieur Frappe",
@@ -21400,7 +20832,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "VD_Quest_GestralSeesaw": {
         "Display Name": "Half-baked Gestral",
@@ -21442,7 +20874,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 80,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "Merchant_VersosDraft": {
         "Display Name": "Najabla",
@@ -21490,7 +20922,7 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 40,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     },
     "VD_Mime": {
         "Display Name": "Mime",
@@ -21548,6 +20980,6 @@
         "Free Aim Damage Taken": 1.0,
         "Break Bar HP": 120,
         "Stun Duration": 1,
-        "Affinities": []
+        "Affinities": {}
     }
 }

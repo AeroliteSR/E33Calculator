@@ -60,9 +60,9 @@ def get_enemy_data(data):
     output['Stun Duration'] = data.get('BreakBarStunDuration_70_6BB695004BDBF84B04A780883755F68E', 1)
 
     affinities = {aff['Key']: aff['Value'] for aff in data.get('InitialElementalAffinities_89_562E68B049820C479633AC85726A9E71', [])}
-    output['Affinities'] = []
+    output['Affinities'] = {}
     if affinities:
-        output['Affinities'].append(applyMap(affinities, ElementsMap, AffinityMap))
+        output['Affinities'] = applyMap(affinities, ElementsMap, AffinityMap)
 
     return output
 
