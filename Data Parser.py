@@ -21,7 +21,8 @@ def get_encounter_data(data):
     return extracted_data
 
 def get_area_level(data):
-    return {"Level": data.get('ScalingMaxLevel_45_389D00474B3DAD3D274A2FB0BDA15EA9', None)}
+    return {"Name": data.get('DisplayName_10_D3213B974EE2CBDD44757B978CD84FD8', {}).get('SourceString', "N/A"),
+            "Level": data.get('ScalingMaxLevel_45_389D00474B3DAD3D274A2FB0BDA15EA9', None)}
 
 def get_enemy_data(data):
     output = {}
@@ -70,16 +71,15 @@ def get_item_data(data):
     output = {}
 
     output['Display Name'] = data.get('Item_DisplayName_89_41C0C54E4A55598869C84CA3B5B5DECA', {}).get('SourceString', "N/A")
+    output['Description'] = data.get('ItemDescription_32_0A978AFB4AB4B316342DD6A72ACDD4E1', {}).get("SourceString", "N/A")
     output['Type'] = applyMap(data.get("Item_Type_88_2F24F8FB4235429B4DE1399DBA533C78"), ItemTypeMap)
     output['Sub-Type'] = applyMap(data.get("Item_Subtype_87_0CE0028F4D632385B61EDABBFBDF5360"), ItemSubTypeMap)
     output['Rarity'] = applyMap(data.get("Item_Rarity_86_4D9579394454700B6BC0ABAECA0714C8"), ItemRarityMap)
     output['Targets'] = applyMap(data.get('Consumable_TargetingType_79_04B50DFD410E7F51F4E5E1A128555D0B'), TargetingTypeMap)
 
-    output['Description'] = data.get('ItemDescription_32_0A978AFB4AB4B316342DD6A72ACDD4E1', {}).get("SourceString", "N/A")
-
-    output['Usable In Battle'] = data.get('Consumable_CanBeUsedInBattle?_74_5EA5813946B70E3FD9333289C000D538', False)
-    output['Usable In Inventory'] = data.get('Consumable_CanBeUsedInInventory?_75_55B1EE634A155E1A8A4F439A77864154', False)
-    output['Maximum Held'] = data.get('Consumable_MaxStackAmount_76_2DD073774D235ED7EE5C8F99817D7FFA', 99)
+    #output['Usable In Battle'] = data.get('Consumable_CanBeUsedInBattle?_74_5EA5813946B70E3FD9333289C000D538', False)
+    #output['Usable In Inventory'] = data.get('Consumable_CanBeUsedInInventory?_75_55B1EE634A155E1A8A4F439A77864154', False)
+    #output['Maximum Held'] = data.get('Consumable_MaxStackAmount_76_2DD073774D235ED7EE5C8F99817D7FFA', 99) # seems useless as of now due to the inventory system. All stackable items seem to just be 1, shards are 3 and items for battle use are 99
 
     stats = {stat['Key']: stat['Value'] for stat in data.get('Pictos_ItemStats_91_229F4A00415AB214191377B73987FF7B', [])}
     output['Pictos Stats'] = []
@@ -164,7 +164,7 @@ def applyMap(data, k_map, v_map=None):
         return k_map[id]
 
 def extract_rows(json_file, func: Callable):
-    with open(json_file, 'r') as f:
+    with open(json_file, 'r', encoding='utf-8') as f:
         data = json.load(f)[0]  # Assuming the data is wrapped in a list
     
     if 'Rows' in data:
@@ -203,7 +203,7 @@ def writeOutput(_path, name, data):
     if not os.path.exists(_path):
         os.makedirs(_path, exist_ok=True)
 
-    with open(f'{_path}/{name}', 'w+') as file:
+    with open(f'{_path}/{name}', 'w+', encoding='utf-8') as file:
         json.dump(data, file, indent=4)
 
 def main():

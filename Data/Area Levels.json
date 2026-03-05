@@ -1,206 +1,274 @@
 {
     "MainMenu": {
+        "Name": "Main Menu",
         "Level": 100
     },
     "WorldMap": {
+        "Name": "The Continent",
         "Level": 100
     },
     "Camps": {
+        "Name": "Camp",
         "Level": 99
     },
     "Manor": {
+        "Name": "The Manor",
         "Level": 100
     },
     "Lumiere": {
+        "Name": "Lumi\u00e8re",
         "Level": 48
     },
     "SpringMeadows": {
+        "Name": "Spring Meadows",
         "Level": 3
     },
     "GoblusLair": {
+        "Name": "Flying Waters",
         "Level": 8
     },
     "AncientSanctuary": {
+        "Name": "Ancient Sanctuary",
         "Level": 12
     },
     "GestralVillage": {
+        "Name": "Gestral Village",
         "Level": 15
     },
     "EsquieNest": {
+        "Name": "Esquie's Nest",
         "Level": 16
     },
     "SeaCliff": {
+        "Name": "Stone Wave Cliffs",
         "Level": 19
     },
     "ForgottenBattlefield": {
+        "Name": "Forgotten Battlefield",
         "Level": 23
     },
     "MonocoStation": {
+        "Name": "Monoco's Station",
         "Level": 25
     },
     "OldLumiere": {
+        "Name": "Old Lumi\u00e8re",
         "Level": 28
     },
     "Visages": {
+        "Name": "Visages",
         "Level": 32
     },
     "Sirene": {
+        "Name": "Sir\u00e8ne",
         "Level": 37
     },
     "TheBarrier": {
+        "Name": "The Barrier",
         "Level": 41
     },
     "Monolith_Interior_PaintressIntro": {
+        "Name": "The Monolith",
         "Level": 40
     },
     "Monolith_Interior_Climb": {
+        "Name": "Inside The Monolith",
         "Level": 43
     },
     "Monolith_Exterior_Peak": {
+        "Name": "Monolith Peak",
         "Level": 43
     },
     "SideLevel_Reacher": {
+        "Name": "The Reacher",
         "Level": 58
     },
     "SideLevel_YellowForest": {
+        "Name": "Yellow Harvest",
         "Level": 21
     },
     "SideLevel_OrangeForest": {
+        "Name": "Falling Leaves",
         "Level": 41
     },
     "SideLevel_RedForest": {
+        "Name": "Crimson Forest",
         "Level": 52
     },
     "SidelLevel_FrozenHearts": {
+        "Name": "Frozen Hearts",
         "Level": 63
     },
     "SideLevel_AxonPath": {
+        "Name": "Renoir's Drafts",
         "Level": 93
     },
     "SideLevel_DarkShores": {
+        "Name": "Dark Shores",
         "Level": 68
     },
     "SideLevel_TwilightSanctuary": {
+        "Name": "Endless Night Sanctuary",
         "Level": 73
     },
     "SideLevel_CleasFlyingHouse": {
+        "Name": "Flying Manor",
         "Level": 83
     },
     "SideLevel_CleasTower_Entrance": {
+        "Name": "Endless Tower",
         "Level": 55
     },
     "SideLevel_CleasTower": {
+        "Name": "Endless Tower",
         "Level": 55
     },
     "SideLevel_CleasWorkshop": {
+        "Name": "Painting Workshop",
         "Level": 90
     },
     "SideLevel_VersosDraft": {
+        "Name": "Verso's Drafts",
         "Level": 86
     },
     "MiniLevel_Spring": {
+        "Name": "The Meadows",
         "Level": 1
     },
     "MiniLevel_WhiteTree": {
+        "Name": "White Tree",
         "Level": 1
     },
     "MiniLevel_GestralTreeCity": {
+        "Name": "Ancient Gestral City",
         "Level": 1
     },
     "MiniLevel_CleasOrangeArea": {
+        "Name": "Lost Woods",
         "Level": 1
     },
     "MiniLevel_BoatGraveyardPurple": {
+        "Name": "Boat Graveyard",
         "Level": 1
     },
     "MiniLevel_BoatGraveyardBlue": {
+        "Name": "Twilight Quarry",
         "Level": 1
     },
     "MiniLevel_BladesGraveyard": {
+        "Name": "Blades' Graveyard",
         "Level": 1
     },
     "SmallLevel_SpringMeadows": {
+        "Name": "The Fountain",
         "Level": 80
     },
     "SmallLevel_WhiteSands": {
+        "Name": "White Sands",
         "Level": 55
     },
     "SmallLevel_CaveAbbest": {
+        "Name": "Abbest Cave",
         "Level": 30
     },
     "SmallLevel_RedWoods": {
+        "Name": "Red Woods",
         "Level": 60
     },
     "SmallLevel_GoblusLair_02": {
+        "Name": "The Small Bourgeon",
         "Level": 13
     },
     "SmallLevel_StonewaveCliffsCave": {
+        "Name": "Stone Wave Cliffs Cave",
         "Level": 22
     },
     "SmallLevel_ChosenPath": {
+        "Name": "The Chosen Path",
         "Level": 60
     },
     "SmallLevel_FloatingIsland": {
+        "Name": "Sky Island",
         "Level": 60
     },
     "SmallLevel_StoneQuarry": {
+        "Name": "Stone Quarry",
         "Level": 30
     },
     "SmallLevel_Sirene": {
+        "Name": "Sir\u00e8ne's Dress",
         "Level": 60
     },
     "SmallLevel_Visages": {
+        "Name": "Isle of the Eyes",
         "Level": 65
     },
     "SmallLevel_Reacher": {
+        "Name": "The Crows",
         "Level": 65
     },
     "SmallLevel_GestralHiddenArena": {
+        "Name": "Hidden Gestral Arena",
         "Level": 16
     },
     "SmallLevel_FlyingCasinoEntrance": {
+        "Name": "Flying Casino",
         "Level": 10
     },
     "SmallLevel_SimonArea": {
+        "Name": "The Abyss",
         "Level": 99
     },
     "SmallLevel_Cemetery": {
+        "Name": "Floating Cemetery",
         "Level": 55
     },
     "SmallLevel_CoastalCave": {
+        "Name": "Coastal Cave",
         "Level": 36
     },
     "SmallLevel_ChromaZoneEntry": {
+        "Name": "Sunless Cliffs",
         "Level": 92
     },
     "SmallLevel_CavernCrusher": {
+        "Name": "Crushing Cavern",
         "Level": 27
     },
     "SmallLevel_DoorMaze": {
+        "Name": "Esoteric Ruins",
         "Level": 28
     },
     "SmallLevel_DarkGestralArena": {
+        "Name": "Dark Gestral Arena",
         "Level": 75
     },
     "SmallLevel_SacredRiver": {
+        "Name": "Sacred River",
         "Level": 60
     },
     "SmallLevel_GestralBeach": {
+        "Name": "Gestral Beach",
         "Level": 1
     },
     "SmallLevel_SinisterCave": {
+        "Name": "Sinister Cave",
         "Level": 38
     },
     "SmallLevel_TheCanvas": {
+        "Name": "The Canvas",
         "Level": 55
     },
     "SmallLevel_TheCarrousel": {
+        "Name": "The Carousel",
         "Level": 30
     },
     "SmallLevel_EsquieRealCousin": {
+        "Name": "Root of All Evil",
         "Level": 99
     },
     "Map_BattleTesting": {
+        "Name": "N/A",
         "Level": 100
     }
 }
