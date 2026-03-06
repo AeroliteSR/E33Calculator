@@ -82,9 +82,9 @@ def get_item_data(data):
     #output['Maximum Held'] = data.get('Consumable_MaxStackAmount_76_2DD073774D235ED7EE5C8F99817D7FFA', 99) # seems useless as of now due to the inventory system. All stackable items seem to just be 1, shards are 3 and items for battle use are 99
 
     stats = {stat['Key']: stat['Value'] for stat in data.get('Pictos_ItemStats_91_229F4A00415AB214191377B73987FF7B', [])}
-    output['Pictos Stats'] = []
+    output['Pictos Stats'] = {}
     if stats:
-        output['Pictos Stats'].append(applyMap(stats, EnemyStatsMap))
+        output['Pictos Stats'] = applyMap(stats, EnemyStatsMap)
 
     return output
 
