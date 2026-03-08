@@ -1,0 +1,602 @@
+{
+    "Points_0": {
+        "Stats": {
+            "Physical Defense": 0.0,
+            "Speed": 0.0
+        }
+    },
+    "Points_1": {
+        "Stats": {
+            "Physical Defense": 1.0,
+            "Speed": 3.0
+        }
+    },
+    "Points_2": {
+        "Stats": {
+            "Physical Defense": 2.0,
+            "Speed": 6.0
+        }
+    },
+    "Points_3": {
+        "Stats": {
+            "Physical Defense": 3.0,
+            "Speed": 10.0
+        }
+    },
+    "Points_4": {
+        "Stats": {
+            "Physical Defense": 3.0,
+            "Speed": 15.0
+        }
+    },
+    "Points_5": {
+        "Stats": {
+            "Physical Defense": 4.0,
+            "Speed": 20.0
+        }
+    },
+    "Points_6": {
+        "Stats": {
+            "Physical Defense": 5.0,
+            "Speed": 26.0
+        }
+    },
+    "Points_7": {
+        "Stats": {
+            "Physical Defense": 6.0,
+            "Speed": 31.0
+        }
+    },
+    "Points_8": {
+        "Stats": {
+            "Physical Defense": 7.0,
+            "Speed": 37.0
+        }
+    },
+    "Points_9": {
+        "Stats": {
+            "Physical Defense": 8.0,
+            "Speed": 43.0
+        }
+    },
+    "Points_10": {
+        "Stats": {
+            "Physical Defense": 9.0,
+            "Speed": 50.0
+        }
+    },
+    "Points_11": {
+        "Stats": {
+            "Physical Defense": 10.0,
+            "Speed": 55.0
+        }
+    },
+    "Points_12": {
+        "Stats": {
+            "Physical Defense": 11.0,
+            "Speed": 61.0
+        }
+    },
+    "Points_13": {
+        "Stats": {
+            "Physical Defense": 12.0,
+            "Speed": 66.0
+        }
+    },
+    "Points_14": {
+        "Stats": {
+            "Physical Defense": 13.0,
+            "Speed": 71.0
+        }
+    },
+    "Points_15": {
+        "Stats": {
+            "Physical Defense": 15.0,
+            "Speed": 76.0
+        }
+    },
+    "Points_16": {
+        "Stats": {
+            "Physical Defense": 16.0,
+            "Speed": 81.0
+        }
+    },
+    "Points_17": {
+        "Stats": {
+            "Physical Defense": 18.0,
+            "Speed": 86.0
+        }
+    },
+    "Points_18": {
+        "Stats": {
+            "Physical Defense": 19.0,
+            "Speed": 91.0
+        }
+    },
+    "Points_19": {
+        "Stats": {
+            "Physical Defense": 21.0,
+            "Speed": 95.0
+        }
+    },
+    "Points_20": {
+        "Stats": {
+            "Physical Defense": 22.0,
+            "Speed": 99.0
+        }
+    },
+    "Points_21": {
+        "Stats": {
+            "Physical Defense": 24.0,
+            "Speed": 105.0
+        }
+    },
+    "Points_22": {
+        "Stats": {
+            "Physical Defense": 25.0,
+            "Speed": 110.0
+        }
+    },
+    "Points_23": {
+        "Stats": {
+            "Physical Defense": 27.0,
+            "Speed": 116.0
+        }
+    },
+    "Points_24": {
+        "Stats": {
+            "Physical Defense": 29.0,
+            "Speed": 121.0
+        }
+    },
+    "Points_25": {
+        "Stats": {
+            "Physical Defense": 30.0,
+            "Speed": 126.0
+        }
+    },
+    "Points_26": {
+        "Stats": {
+            "Physical Defense": 32.0,
+            "Speed": 132.0
+        }
+    },
+    "Points_27": {
+        "Stats": {
+            "Physical Defense": 34.0,
+            "Speed": 137.0
+        }
+    },
+    "Points_28": {
+        "Stats": {
+            "Physical Defense": 36.0,
+            "Speed": 142.0
+        }
+    },
+    "Points_29": {
+        "Stats": {
+            "Physical Defense": 37.0,
+            "Speed": 147.0
+        }
+    },
+    "Points_30": {
+        "Stats": {
+            "Physical Defense": 39.0,
+            "Speed": 152.0
+        }
+    },
+    "Points_31": {
+        "Stats": {
+            "Physical Defense": 41.0,
+            "Speed": 157.0
+        }
+    },
+    "Points_32": {
+        "Stats": {
+            "Physical Defense": 42.0,
+            "Speed": 162.0
+        }
+    },
+    "Points_33": {
+        "Stats": {
+            "Physical Defense": 43.0,
+            "Speed": 167.0
+        }
+    },
+    "Points_34": {
+        "Stats": {
+            "Physical Defense": 45.0,
+            "Speed": 171.0
+        }
+    },
+    "Points_35": {
+        "Stats": {
+            "Physical Defense": 46.0,
+            "Speed": 176.0
+        }
+    },
+    "Points_36": {
+        "Stats": {
+            "Physical Defense": 47.0,
+            "Speed": 181.0
+        }
+    },
+    "Points_37": {
+        "Stats": {
+            "Physical Defense": 49.0,
+            "Speed": 185.0
+        }
+    },
+    "Points_38": {
+        "Stats": {
+            "Physical Defense": 50.0,
+            "Speed": 190.0
+        }
+    },
+    "Points_39": {
+        "Stats": {
+            "Physical Defense": 51.0,
+            "Speed": 194.0
+        }
+    },
+    "Points_40": {
+        "Stats": {
+            "Physical Defense": 53.0,
+            "Speed": 198.0
+        }
+    },
+    "Points_41": {
+        "Stats": {
+            "Physical Defense": 55.0,
+            "Speed": 203.0
+        }
+    },
+    "Points_42": {
+        "Stats": {
+            "Physical Defense": 57.0,
+            "Speed": 207.0
+        }
+    },
+    "Points_43": {
+        "Stats": {
+            "Physical Defense": 59.0,
+            "Speed": 211.0
+        }
+    },
+    "Points_44": {
+        "Stats": {
+            "Physical Defense": 61.0,
+            "Speed": 216.0
+        }
+    },
+    "Points_45": {
+        "Stats": {
+            "Physical Defense": 63.0,
+            "Speed": 220.0
+        }
+    },
+    "Points_46": {
+        "Stats": {
+            "Physical Defense": 65.0,
+            "Speed": 224.0
+        }
+    },
+    "Points_47": {
+        "Stats": {
+            "Physical Defense": 67.0,
+            "Speed": 228.0
+        }
+    },
+    "Points_48": {
+        "Stats": {
+            "Physical Defense": 69.0,
+            "Speed": 231.0
+        }
+    },
+    "Points_49": {
+        "Stats": {
+            "Physical Defense": 71.0,
+            "Speed": 235.0
+        }
+    },
+    "Points_50": {
+        "Stats": {
+            "Physical Defense": 73.0,
+            "Speed": 239.0
+        }
+    },
+    "Points_51": {
+        "Stats": {
+            "Physical Defense": 76.0,
+            "Speed": 242.0
+        }
+    },
+    "Points_52": {
+        "Stats": {
+            "Physical Defense": 78.0,
+            "Speed": 246.0
+        }
+    },
+    "Points_53": {
+        "Stats": {
+            "Physical Defense": 80.0,
+            "Speed": 250.0
+        }
+    },
+    "Points_54": {
+        "Stats": {
+            "Physical Defense": 82.0,
+            "Speed": 253.0
+        }
+    },
+    "Points_55": {
+        "Stats": {
+            "Physical Defense": 85.0,
+            "Speed": 257.0
+        }
+    },
+    "Points_56": {
+        "Stats": {
+            "Physical Defense": 87.0,
+            "Speed": 260.0
+        }
+    },
+    "Points_57": {
+        "Stats": {
+            "Physical Defense": 89.0,
+            "Speed": 263.0
+        }
+    },
+    "Points_58": {
+        "Stats": {
+            "Physical Defense": 91.0,
+            "Speed": 266.0
+        }
+    },
+    "Points_59": {
+        "Stats": {
+            "Physical Defense": 93.0,
+            "Speed": 269.0
+        }
+    },
+    "Points_60": {
+        "Stats": {
+            "Physical Defense": 96.0,
+            "Speed": 272.0
+        }
+    },
+    "Points_61": {
+        "Stats": {
+            "Physical Defense": 97.0,
+            "Speed": 275.0
+        }
+    },
+    "Points_62": {
+        "Stats": {
+            "Physical Defense": 98.0,
+            "Speed": 278.0
+        }
+    },
+    "Points_63": {
+        "Stats": {
+            "Physical Defense": 100.0,
+            "Speed": 281.0
+        }
+    },
+    "Points_64": {
+        "Stats": {
+            "Physical Defense": 101.0,
+            "Speed": 284.0
+        }
+    },
+    "Points_65": {
+        "Stats": {
+            "Physical Defense": 102.0,
+            "Speed": 287.0
+        }
+    },
+    "Points_66": {
+        "Stats": {
+            "Physical Defense": 103.0,
+            "Speed": 290.0
+        }
+    },
+    "Points_67": {
+        "Stats": {
+            "Physical Defense": 104.0,
+            "Speed": 292.0
+        }
+    },
+    "Points_68": {
+        "Stats": {
+            "Physical Defense": 106.0,
+            "Speed": 295.0
+        }
+    },
+    "Points_69": {
+        "Stats": {
+            "Physical Defense": 107.0,
+            "Speed": 297.0
+        }
+    },
+    "Points_70": {
+        "Stats": {
+            "Physical Defense": 108.0,
+            "Speed": 299.0
+        }
+    },
+    "Points_71": {
+        "Stats": {
+            "Physical Defense": 110.0,
+            "Speed": 302.0
+        }
+    },
+    "Points_72": {
+        "Stats": {
+            "Physical Defense": 112.0,
+            "Speed": 304.0
+        }
+    },
+    "Points_73": {
+        "Stats": {
+            "Physical Defense": 114.0,
+            "Speed": 307.0
+        }
+    },
+    "Points_74": {
+        "Stats": {
+            "Physical Defense": 117.0,
+            "Speed": 309.0
+        }
+    },
+    "Points_75": {
+        "Stats": {
+            "Physical Defense": 119.0,
+            "Speed": 311.0
+        }
+    },
+    "Points_76": {
+        "Stats": {
+            "Physical Defense": 121.0,
+            "Speed": 313.0
+        }
+    },
+    "Points_77": {
+        "Stats": {
+            "Physical Defense": 123.0,
+            "Speed": 315.0
+        }
+    },
+    "Points_78": {
+        "Stats": {
+            "Physical Defense": 125.0,
+            "Speed": 317.0
+        }
+    },
+    "Points_79": {
+        "Stats": {
+            "Physical Defense": 128.0,
+            "Speed": 319.0
+        }
+    },
+    "Points_80": {
+        "Stats": {
+            "Physical Defense": 130.0,
+            "Speed": 321.0
+        }
+    },
+    "Points_81": {
+        "Stats": {
+            "Physical Defense": 132.0,
+            "Speed": 323.0
+        }
+    },
+    "Points_82": {
+        "Stats": {
+            "Physical Defense": 134.0,
+            "Speed": 324.0
+        }
+    },
+    "Points_83": {
+        "Stats": {
+            "Physical Defense": 136.0,
+            "Speed": 326.0
+        }
+    },
+    "Points_84": {
+        "Stats": {
+            "Physical Defense": 139.0,
+            "Speed": 328.0
+        }
+    },
+    "Points_85": {
+        "Stats": {
+            "Physical Defense": 141.0,
+            "Speed": 329.0
+        }
+    },
+    "Points_86": {
+        "Stats": {
+            "Physical Defense": 143.0,
+            "Speed": 331.0
+        }
+    },
+    "Points_87": {
+        "Stats": {
+            "Physical Defense": 145.0,
+            "Speed": 332.0
+        }
+    },
+    "Points_88": {
+        "Stats": {
+            "Physical Defense": 147.0,
+            "Speed": 334.0
+        }
+    },
+    "Points_89": {
+        "Stats": {
+            "Physical Defense": 149.0,
+            "Speed": 335.0
+        }
+    },
+    "Points_90": {
+        "Stats": {
+            "Physical Defense": 151.0,
+            "Speed": 336.0
+        }
+    },
+    "Points_91": {
+        "Stats": {
+            "Physical Defense": 155.0,
+            "Speed": 338.0
+        }
+    },
+    "Points_92": {
+        "Stats": {
+            "Physical Defense": 158.0,
+            "Speed": 339.0
+        }
+    },
+    "Points_93": {
+        "Stats": {
+            "Physical Defense": 162.0,
+            "Speed": 340.0
+        }
+    },
+    "Points_94": {
+        "Stats": {
+            "Physical Defense": 165.0,
+            "Speed": 342.0
+        }
+    },
+    "Points_95": {
+        "Stats": {
+            "Physical Defense": 169.0,
+            "Speed": 343.0
+        }
+    },
+    "Points_96": {
+        "Stats": {
+            "Physical Defense": 172.0,
+            "Speed": 344.0
+        }
+    },
+    "Points_97": {
+        "Stats": {
+            "Physical Defense": 176.0,
+            "Speed": 345.0
+        }
+    },
+    "Points_98": {
+        "Stats": {
+            "Physical Defense": 179.0,
+            "Speed": 346.0
+        }
+    },
+    "Points_99": {
+        "Stats": {
+            "Physical Defense": 182.0,
+            "Speed": 346.0
+        }
+    }
+}

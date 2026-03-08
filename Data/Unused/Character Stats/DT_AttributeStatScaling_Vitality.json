@@ -1,0 +1,502 @@
+{
+    "Points_0": {
+        "Stats": {
+            "Max HP": 0.0
+        }
+    },
+    "Points_1": {
+        "Stats": {
+            "Max HP": 6.0
+        }
+    },
+    "Points_2": {
+        "Stats": {
+            "Max HP": 11.0
+        }
+    },
+    "Points_3": {
+        "Stats": {
+            "Max HP": 21.0
+        }
+    },
+    "Points_4": {
+        "Stats": {
+            "Max HP": 32.0
+        }
+    },
+    "Points_5": {
+        "Stats": {
+            "Max HP": 45.0
+        }
+    },
+    "Points_6": {
+        "Stats": {
+            "Max HP": 59.0
+        }
+    },
+    "Points_7": {
+        "Stats": {
+            "Max HP": 74.0
+        }
+    },
+    "Points_8": {
+        "Stats": {
+            "Max HP": 91.0
+        }
+    },
+    "Points_9": {
+        "Stats": {
+            "Max HP": 108.0
+        }
+    },
+    "Points_10": {
+        "Stats": {
+            "Max HP": 126.0
+        }
+    },
+    "Points_11": {
+        "Stats": {
+            "Max HP": 143.0
+        }
+    },
+    "Points_12": {
+        "Stats": {
+            "Max HP": 160.0
+        }
+    },
+    "Points_13": {
+        "Stats": {
+            "Max HP": 176.0
+        }
+    },
+    "Points_14": {
+        "Stats": {
+            "Max HP": 193.0
+        }
+    },
+    "Points_15": {
+        "Stats": {
+            "Max HP": 209.0
+        }
+    },
+    "Points_16": {
+        "Stats": {
+            "Max HP": 226.0
+        }
+    },
+    "Points_17": {
+        "Stats": {
+            "Max HP": 242.0
+        }
+    },
+    "Points_18": {
+        "Stats": {
+            "Max HP": 258.0
+        }
+    },
+    "Points_19": {
+        "Stats": {
+            "Max HP": 274.0
+        }
+    },
+    "Points_20": {
+        "Stats": {
+            "Max HP": 290.0
+        }
+    },
+    "Points_21": {
+        "Stats": {
+            "Max HP": 309.0
+        }
+    },
+    "Points_22": {
+        "Stats": {
+            "Max HP": 328.0
+        }
+    },
+    "Points_23": {
+        "Stats": {
+            "Max HP": 347.0
+        }
+    },
+    "Points_24": {
+        "Stats": {
+            "Max HP": 366.0
+        }
+    },
+    "Points_25": {
+        "Stats": {
+            "Max HP": 385.0
+        }
+    },
+    "Points_26": {
+        "Stats": {
+            "Max HP": 404.0
+        }
+    },
+    "Points_27": {
+        "Stats": {
+            "Max HP": 423.0
+        }
+    },
+    "Points_28": {
+        "Stats": {
+            "Max HP": 442.0
+        }
+    },
+    "Points_29": {
+        "Stats": {
+            "Max HP": 460.0
+        }
+    },
+    "Points_30": {
+        "Stats": {
+            "Max HP": 479.0
+        }
+    },
+    "Points_31": {
+        "Stats": {
+            "Max HP": 498.0
+        }
+    },
+    "Points_32": {
+        "Stats": {
+            "Max HP": 517.0
+        }
+    },
+    "Points_33": {
+        "Stats": {
+            "Max HP": 536.0
+        }
+    },
+    "Points_34": {
+        "Stats": {
+            "Max HP": 555.0
+        }
+    },
+    "Points_35": {
+        "Stats": {
+            "Max HP": 574.0
+        }
+    },
+    "Points_36": {
+        "Stats": {
+            "Max HP": 592.0
+        }
+    },
+    "Points_37": {
+        "Stats": {
+            "Max HP": 610.0
+        }
+    },
+    "Points_38": {
+        "Stats": {
+            "Max HP": 628.0
+        }
+    },
+    "Points_39": {
+        "Stats": {
+            "Max HP": 646.0
+        }
+    },
+    "Points_40": {
+        "Stats": {
+            "Max HP": 664.0
+        }
+    },
+    "Points_41": {
+        "Stats": {
+            "Max HP": 682.0
+        }
+    },
+    "Points_42": {
+        "Stats": {
+            "Max HP": 700.0
+        }
+    },
+    "Points_43": {
+        "Stats": {
+            "Max HP": 718.0
+        }
+    },
+    "Points_44": {
+        "Stats": {
+            "Max HP": 735.0
+        }
+    },
+    "Points_45": {
+        "Stats": {
+            "Max HP": 753.0
+        }
+    },
+    "Points_46": {
+        "Stats": {
+            "Max HP": 770.0
+        }
+    },
+    "Points_47": {
+        "Stats": {
+            "Max HP": 786.0
+        }
+    },
+    "Points_48": {
+        "Stats": {
+            "Max HP": 803.0
+        }
+    },
+    "Points_49": {
+        "Stats": {
+            "Max HP": 819.0
+        }
+    },
+    "Points_50": {
+        "Stats": {
+            "Max HP": 835.0
+        }
+    },
+    "Points_51": {
+        "Stats": {
+            "Max HP": 852.0
+        }
+    },
+    "Points_52": {
+        "Stats": {
+            "Max HP": 868.0
+        }
+    },
+    "Points_53": {
+        "Stats": {
+            "Max HP": 884.0
+        }
+    },
+    "Points_54": {
+        "Stats": {
+            "Max HP": 900.0
+        }
+    },
+    "Points_55": {
+        "Stats": {
+            "Max HP": 915.0
+        }
+    },
+    "Points_56": {
+        "Stats": {
+            "Max HP": 930.0
+        }
+    },
+    "Points_57": {
+        "Stats": {
+            "Max HP": 945.0
+        }
+    },
+    "Points_58": {
+        "Stats": {
+            "Max HP": 960.0
+        }
+    },
+    "Points_59": {
+        "Stats": {
+            "Max HP": 974.0
+        }
+    },
+    "Points_60": {
+        "Stats": {
+            "Max HP": 988.0
+        }
+    },
+    "Points_61": {
+        "Stats": {
+            "Max HP": 1003.0
+        }
+    },
+    "Points_62": {
+        "Stats": {
+            "Max HP": 1017.0
+        }
+    },
+    "Points_63": {
+        "Stats": {
+            "Max HP": 1031.0
+        }
+    },
+    "Points_64": {
+        "Stats": {
+            "Max HP": 1045.0
+        }
+    },
+    "Points_65": {
+        "Stats": {
+            "Max HP": 1058.0
+        }
+    },
+    "Points_66": {
+        "Stats": {
+            "Max HP": 1071.0
+        }
+    },
+    "Points_67": {
+        "Stats": {
+            "Max HP": 1084.0
+        }
+    },
+    "Points_68": {
+        "Stats": {
+            "Max HP": 1097.0
+        }
+    },
+    "Points_69": {
+        "Stats": {
+            "Max HP": 1109.0
+        }
+    },
+    "Points_70": {
+        "Stats": {
+            "Max HP": 1120.0
+        }
+    },
+    "Points_71": {
+        "Stats": {
+            "Max HP": 1133.0
+        }
+    },
+    "Points_72": {
+        "Stats": {
+            "Max HP": 1145.0
+        }
+    },
+    "Points_73": {
+        "Stats": {
+            "Max HP": 1157.0
+        }
+    },
+    "Points_74": {
+        "Stats": {
+            "Max HP": 1169.0
+        }
+    },
+    "Points_75": {
+        "Stats": {
+            "Max HP": 1181.0
+        }
+    },
+    "Points_76": {
+        "Stats": {
+            "Max HP": 1192.0
+        }
+    },
+    "Points_77": {
+        "Stats": {
+            "Max HP": 1202.0
+        }
+    },
+    "Points_78": {
+        "Stats": {
+            "Max HP": 1213.0
+        }
+    },
+    "Points_79": {
+        "Stats": {
+            "Max HP": 1222.0
+        }
+    },
+    "Points_80": {
+        "Stats": {
+            "Max HP": 1232.0
+        }
+    },
+    "Points_81": {
+        "Stats": {
+            "Max HP": 1243.0
+        }
+    },
+    "Points_82": {
+        "Stats": {
+            "Max HP": 1253.0
+        }
+    },
+    "Points_83": {
+        "Stats": {
+            "Max HP": 1263.0
+        }
+    },
+    "Points_84": {
+        "Stats": {
+            "Max HP": 1273.0
+        }
+    },
+    "Points_85": {
+        "Stats": {
+            "Max HP": 1282.0
+        }
+    },
+    "Points_86": {
+        "Stats": {
+            "Max HP": 1291.0
+        }
+    },
+    "Points_87": {
+        "Stats": {
+            "Max HP": 1299.0
+        }
+    },
+    "Points_88": {
+        "Stats": {
+            "Max HP": 1308.0
+        }
+    },
+    "Points_89": {
+        "Stats": {
+            "Max HP": 1316.0
+        }
+    },
+    "Points_90": {
+        "Stats": {
+            "Max HP": 1323.0
+        }
+    },
+    "Points_91": {
+        "Stats": {
+            "Max HP": 1332.0
+        }
+    },
+    "Points_92": {
+        "Stats": {
+            "Max HP": 1340.0
+        }
+    },
+    "Points_93": {
+        "Stats": {
+            "Max HP": 1348.0
+        }
+    },
+    "Points_94": {
+        "Stats": {
+            "Max HP": 1356.0
+        }
+    },
+    "Points_95": {
+        "Stats": {
+            "Max HP": 1363.0
+        }
+    },
+    "Points_96": {
+        "Stats": {
+            "Max HP": 1370.0
+        }
+    },
+    "Points_97": {
+        "Stats": {
+            "Max HP": 1377.0
+        }
+    },
+    "Points_98": {
+        "Stats": {
+            "Max HP": 1383.0
+        }
+    },
+    "Points_99": {
+        "Stats": {
+            "Max HP": 1389.0
+        }
+    }
+}

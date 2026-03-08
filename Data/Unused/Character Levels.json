@@ -1,0 +1,902 @@
+{
+    "Level_0": {
+        "Stats": {
+            "Max HP": 0.0,
+            "Physical Defense": 0.0,
+            "Speed": 0.0,
+            "Crit Rate": 0.0,
+            "Physical Attack": 0.0
+        }
+    },
+    "Level_1": {
+        "Stats": {
+            "Max HP": 150.0,
+            "Physical Defense": 0.0,
+            "Speed": 200.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 17.0
+        }
+    },
+    "Level_2": {
+        "Stats": {
+            "Max HP": 160.0,
+            "Physical Defense": 0.0,
+            "Speed": 204.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 21.0
+        }
+    },
+    "Level_3": {
+        "Stats": {
+            "Max HP": 168.0,
+            "Physical Defense": 0.0,
+            "Speed": 206.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 24.0
+        }
+    },
+    "Level_4": {
+        "Stats": {
+            "Max HP": 177.0,
+            "Physical Defense": 0.0,
+            "Speed": 209.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 28.0
+        }
+    },
+    "Level_5": {
+        "Stats": {
+            "Max HP": 187.0,
+            "Physical Defense": 0.0,
+            "Speed": 212.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 32.0
+        }
+    },
+    "Level_6": {
+        "Stats": {
+            "Max HP": 197.0,
+            "Physical Defense": 0.0,
+            "Speed": 215.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 37.0
+        }
+    },
+    "Level_7": {
+        "Stats": {
+            "Max HP": 209.0,
+            "Physical Defense": 0.0,
+            "Speed": 219.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 42.0
+        }
+    },
+    "Level_8": {
+        "Stats": {
+            "Max HP": 221.0,
+            "Physical Defense": 0.0,
+            "Speed": 222.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 48.0
+        }
+    },
+    "Level_9": {
+        "Stats": {
+            "Max HP": 233.0,
+            "Physical Defense": 0.0,
+            "Speed": 226.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 53.0
+        }
+    },
+    "Level_10": {
+        "Stats": {
+            "Max HP": 246.0,
+            "Physical Defense": 0.0,
+            "Speed": 230.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 60.0
+        }
+    },
+    "Level_11": {
+        "Stats": {
+            "Max HP": 259.0,
+            "Physical Defense": 0.0,
+            "Speed": 234.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 66.0
+        }
+    },
+    "Level_12": {
+        "Stats": {
+            "Max HP": 273.0,
+            "Physical Defense": 0.0,
+            "Speed": 238.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 73.0
+        }
+    },
+    "Level_13": {
+        "Stats": {
+            "Max HP": 288.0,
+            "Physical Defense": 0.0,
+            "Speed": 242.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 80.0
+        }
+    },
+    "Level_14": {
+        "Stats": {
+            "Max HP": 303.0,
+            "Physical Defense": 0.0,
+            "Speed": 246.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 88.0
+        }
+    },
+    "Level_15": {
+        "Stats": {
+            "Max HP": 318.0,
+            "Physical Defense": 0.0,
+            "Speed": 251.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 95.0
+        }
+    },
+    "Level_16": {
+        "Stats": {
+            "Max HP": 334.0,
+            "Physical Defense": 0.0,
+            "Speed": 255.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 103.0
+        }
+    },
+    "Level_17": {
+        "Stats": {
+            "Max HP": 350.0,
+            "Physical Defense": 0.0,
+            "Speed": 260.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 112.0
+        }
+    },
+    "Level_18": {
+        "Stats": {
+            "Max HP": 366.0,
+            "Physical Defense": 0.0,
+            "Speed": 264.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 120.0
+        }
+    },
+    "Level_19": {
+        "Stats": {
+            "Max HP": 383.0,
+            "Physical Defense": 0.0,
+            "Speed": 269.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 129.0
+        }
+    },
+    "Level_20": {
+        "Stats": {
+            "Max HP": 400.0,
+            "Physical Defense": 0.0,
+            "Speed": 274.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 138.0
+        }
+    },
+    "Level_21": {
+        "Stats": {
+            "Max HP": 417.0,
+            "Physical Defense": 0.0,
+            "Speed": 279.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 147.0
+        }
+    },
+    "Level_22": {
+        "Stats": {
+            "Max HP": 435.0,
+            "Physical Defense": 0.0,
+            "Speed": 283.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 156.0
+        }
+    },
+    "Level_23": {
+        "Stats": {
+            "Max HP": 453.0,
+            "Physical Defense": 0.0,
+            "Speed": 288.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 166.0
+        }
+    },
+    "Level_24": {
+        "Stats": {
+            "Max HP": 471.0,
+            "Physical Defense": 0.0,
+            "Speed": 293.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 176.0
+        }
+    },
+    "Level_25": {
+        "Stats": {
+            "Max HP": 490.0,
+            "Physical Defense": 0.0,
+            "Speed": 298.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 186.0
+        }
+    },
+    "Level_26": {
+        "Stats": {
+            "Max HP": 509.0,
+            "Physical Defense": 0.0,
+            "Speed": 304.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 196.0
+        }
+    },
+    "Level_27": {
+        "Stats": {
+            "Max HP": 528.0,
+            "Physical Defense": 0.0,
+            "Speed": 309.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 206.0
+        }
+    },
+    "Level_28": {
+        "Stats": {
+            "Max HP": 547.0,
+            "Physical Defense": 0.0,
+            "Speed": 314.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 217.0
+        }
+    },
+    "Level_29": {
+        "Stats": {
+            "Max HP": 567.0,
+            "Physical Defense": 0.0,
+            "Speed": 319.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 228.0
+        }
+    },
+    "Level_30": {
+        "Stats": {
+            "Max HP": 587.0,
+            "Physical Defense": 0.0,
+            "Speed": 325.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 239.0
+        }
+    },
+    "Level_31": {
+        "Stats": {
+            "Max HP": 607.0,
+            "Physical Defense": 0.0,
+            "Speed": 330.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 250.0
+        }
+    },
+    "Level_32": {
+        "Stats": {
+            "Max HP": 628.0,
+            "Physical Defense": 0.0,
+            "Speed": 336.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 261.0
+        }
+    },
+    "Level_33": {
+        "Stats": {
+            "Max HP": 648.0,
+            "Physical Defense": 0.0,
+            "Speed": 341.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 273.0
+        }
+    },
+    "Level_34": {
+        "Stats": {
+            "Max HP": 669.0,
+            "Physical Defense": 0.0,
+            "Speed": 347.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 285.0
+        }
+    },
+    "Level_35": {
+        "Stats": {
+            "Max HP": 691.0,
+            "Physical Defense": 0.0,
+            "Speed": 353.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 297.0
+        }
+    },
+    "Level_36": {
+        "Stats": {
+            "Max HP": 712.0,
+            "Physical Defense": 0.0,
+            "Speed": 358.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 309.0
+        }
+    },
+    "Level_37": {
+        "Stats": {
+            "Max HP": 734.0,
+            "Physical Defense": 0.0,
+            "Speed": 364.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 321.0
+        }
+    },
+    "Level_38": {
+        "Stats": {
+            "Max HP": 756.0,
+            "Physical Defense": 0.0,
+            "Speed": 370.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 333.0
+        }
+    },
+    "Level_39": {
+        "Stats": {
+            "Max HP": 778.0,
+            "Physical Defense": 0.0,
+            "Speed": 376.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 346.0
+        }
+    },
+    "Level_40": {
+        "Stats": {
+            "Max HP": 800.0,
+            "Physical Defense": 0.0,
+            "Speed": 381.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 359.0
+        }
+    },
+    "Level_41": {
+        "Stats": {
+            "Max HP": 823.0,
+            "Physical Defense": 0.0,
+            "Speed": 387.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 371.0
+        }
+    },
+    "Level_42": {
+        "Stats": {
+            "Max HP": 845.0,
+            "Physical Defense": 0.0,
+            "Speed": 393.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 384.0
+        }
+    },
+    "Level_43": {
+        "Stats": {
+            "Max HP": 868.0,
+            "Physical Defense": 0.0,
+            "Speed": 399.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 398.0
+        }
+    },
+    "Level_44": {
+        "Stats": {
+            "Max HP": 891.0,
+            "Physical Defense": 0.0,
+            "Speed": 405.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 411.0
+        }
+    },
+    "Level_45": {
+        "Stats": {
+            "Max HP": 915.0,
+            "Physical Defense": 0.0,
+            "Speed": 411.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 425.0
+        }
+    },
+    "Level_46": {
+        "Stats": {
+            "Max HP": 938.0,
+            "Physical Defense": 0.0,
+            "Speed": 418.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 438.0
+        }
+    },
+    "Level_47": {
+        "Stats": {
+            "Max HP": 962.0,
+            "Physical Defense": 0.0,
+            "Speed": 424.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 452.0
+        }
+    },
+    "Level_48": {
+        "Stats": {
+            "Max HP": 986.0,
+            "Physical Defense": 0.0,
+            "Speed": 430.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 466.0
+        }
+    },
+    "Level_49": {
+        "Stats": {
+            "Max HP": 1010.0,
+            "Physical Defense": 0.0,
+            "Speed": 436.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 480.0
+        }
+    },
+    "Level_50": {
+        "Stats": {
+            "Max HP": 1034.0,
+            "Physical Defense": 0.0,
+            "Speed": 443.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 494.0
+        }
+    },
+    "Level_51": {
+        "Stats": {
+            "Max HP": 1059.0,
+            "Physical Defense": 0.0,
+            "Speed": 449.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 509.0
+        }
+    },
+    "Level_52": {
+        "Stats": {
+            "Max HP": 1084.0,
+            "Physical Defense": 0.0,
+            "Speed": 455.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 523.0
+        }
+    },
+    "Level_53": {
+        "Stats": {
+            "Max HP": 1108.0,
+            "Physical Defense": 0.0,
+            "Speed": 462.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 538.0
+        }
+    },
+    "Level_54": {
+        "Stats": {
+            "Max HP": 1133.0,
+            "Physical Defense": 0.0,
+            "Speed": 468.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 553.0
+        }
+    },
+    "Level_55": {
+        "Stats": {
+            "Max HP": 1159.0,
+            "Physical Defense": 0.0,
+            "Speed": 475.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 568.0
+        }
+    },
+    "Level_56": {
+        "Stats": {
+            "Max HP": 1184.0,
+            "Physical Defense": 0.0,
+            "Speed": 481.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 583.0
+        }
+    },
+    "Level_57": {
+        "Stats": {
+            "Max HP": 1210.0,
+            "Physical Defense": 0.0,
+            "Speed": 488.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 598.0
+        }
+    },
+    "Level_58": {
+        "Stats": {
+            "Max HP": 1235.0,
+            "Physical Defense": 0.0,
+            "Speed": 494.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 613.0
+        }
+    },
+    "Level_59": {
+        "Stats": {
+            "Max HP": 1261.0,
+            "Physical Defense": 0.0,
+            "Speed": 501.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 629.0
+        }
+    },
+    "Level_60": {
+        "Stats": {
+            "Max HP": 1287.0,
+            "Physical Defense": 0.0,
+            "Speed": 507.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 644.0
+        }
+    },
+    "Level_61": {
+        "Stats": {
+            "Max HP": 1314.0,
+            "Physical Defense": 0.0,
+            "Speed": 514.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 660.0
+        }
+    },
+    "Level_62": {
+        "Stats": {
+            "Max HP": 1340.0,
+            "Physical Defense": 0.0,
+            "Speed": 521.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 676.0
+        }
+    },
+    "Level_63": {
+        "Stats": {
+            "Max HP": 1367.0,
+            "Physical Defense": 0.0,
+            "Speed": 528.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 692.0
+        }
+    },
+    "Level_64": {
+        "Stats": {
+            "Max HP": 1393.0,
+            "Physical Defense": 0.0,
+            "Speed": 534.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 708.0
+        }
+    },
+    "Level_65": {
+        "Stats": {
+            "Max HP": 1420.0,
+            "Physical Defense": 0.0,
+            "Speed": 541.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 724.0
+        }
+    },
+    "Level_66": {
+        "Stats": {
+            "Max HP": 1447.0,
+            "Physical Defense": 0.0,
+            "Speed": 548.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 741.0
+        }
+    },
+    "Level_67": {
+        "Stats": {
+            "Max HP": 1474.0,
+            "Physical Defense": 0.0,
+            "Speed": 555.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 757.0
+        }
+    },
+    "Level_68": {
+        "Stats": {
+            "Max HP": 1502.0,
+            "Physical Defense": 0.0,
+            "Speed": 562.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 774.0
+        }
+    },
+    "Level_69": {
+        "Stats": {
+            "Max HP": 1529.0,
+            "Physical Defense": 0.0,
+            "Speed": 569.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 791.0
+        }
+    },
+    "Level_70": {
+        "Stats": {
+            "Max HP": 1557.0,
+            "Physical Defense": 0.0,
+            "Speed": 576.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 808.0
+        }
+    },
+    "Level_71": {
+        "Stats": {
+            "Max HP": 1585.0,
+            "Physical Defense": 0.0,
+            "Speed": 583.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 825.0
+        }
+    },
+    "Level_72": {
+        "Stats": {
+            "Max HP": 1613.0,
+            "Physical Defense": 0.0,
+            "Speed": 590.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 842.0
+        }
+    },
+    "Level_73": {
+        "Stats": {
+            "Max HP": 1641.0,
+            "Physical Defense": 0.0,
+            "Speed": 597.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 859.0
+        }
+    },
+    "Level_74": {
+        "Stats": {
+            "Max HP": 1669.0,
+            "Physical Defense": 0.0,
+            "Speed": 604.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 876.0
+        }
+    },
+    "Level_75": {
+        "Stats": {
+            "Max HP": 1698.0,
+            "Physical Defense": 0.0,
+            "Speed": 611.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 894.0
+        }
+    },
+    "Level_76": {
+        "Stats": {
+            "Max HP": 1726.0,
+            "Physical Defense": 0.0,
+            "Speed": 618.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 911.0
+        }
+    },
+    "Level_77": {
+        "Stats": {
+            "Max HP": 1755.0,
+            "Physical Defense": 0.0,
+            "Speed": 625.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 929.0
+        }
+    },
+    "Level_78": {
+        "Stats": {
+            "Max HP": 1784.0,
+            "Physical Defense": 0.0,
+            "Speed": 632.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 947.0
+        }
+    },
+    "Level_79": {
+        "Stats": {
+            "Max HP": 1813.0,
+            "Physical Defense": 0.0,
+            "Speed": 640.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 965.0
+        }
+    },
+    "Level_80": {
+        "Stats": {
+            "Max HP": 1842.0,
+            "Physical Defense": 0.0,
+            "Speed": 647.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 983.0
+        }
+    },
+    "Level_81": {
+        "Stats": {
+            "Max HP": 1871.0,
+            "Physical Defense": 0.0,
+            "Speed": 654.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 1001.0
+        }
+    },
+    "Level_82": {
+        "Stats": {
+            "Max HP": 1900.0,
+            "Physical Defense": 0.0,
+            "Speed": 661.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 1019.0
+        }
+    },
+    "Level_83": {
+        "Stats": {
+            "Max HP": 1930.0,
+            "Physical Defense": 0.0,
+            "Speed": 669.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 1038.0
+        }
+    },
+    "Level_84": {
+        "Stats": {
+            "Max HP": 1960.0,
+            "Physical Defense": 0.0,
+            "Speed": 676.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 1056.0
+        }
+    },
+    "Level_85": {
+        "Stats": {
+            "Max HP": 1989.0,
+            "Physical Defense": 0.0,
+            "Speed": 683.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 1075.0
+        }
+    },
+    "Level_86": {
+        "Stats": {
+            "Max HP": 2019.0,
+            "Physical Defense": 0.0,
+            "Speed": 691.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 1094.0
+        }
+    },
+    "Level_87": {
+        "Stats": {
+            "Max HP": 2049.0,
+            "Physical Defense": 0.0,
+            "Speed": 698.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 1113.0
+        }
+    },
+    "Level_88": {
+        "Stats": {
+            "Max HP": 2080.0,
+            "Physical Defense": 0.0,
+            "Speed": 706.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 1131.0
+        }
+    },
+    "Level_89": {
+        "Stats": {
+            "Max HP": 2110.0,
+            "Physical Defense": 0.0,
+            "Speed": 713.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 1150.0
+        }
+    },
+    "Level_90": {
+        "Stats": {
+            "Max HP": 2140.0,
+            "Physical Defense": 0.0,
+            "Speed": 721.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 1170.0
+        }
+    },
+    "Level_91": {
+        "Stats": {
+            "Max HP": 2171.0,
+            "Physical Defense": 0.0,
+            "Speed": 728.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 1189.0
+        }
+    },
+    "Level_92": {
+        "Stats": {
+            "Max HP": 2202.0,
+            "Physical Defense": 0.0,
+            "Speed": 736.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 1208.0
+        }
+    },
+    "Level_93": {
+        "Stats": {
+            "Max HP": 2232.0,
+            "Physical Defense": 0.0,
+            "Speed": 743.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 1228.0
+        }
+    },
+    "Level_94": {
+        "Stats": {
+            "Max HP": 2263.0,
+            "Physical Defense": 0.0,
+            "Speed": 751.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 1247.0
+        }
+    },
+    "Level_95": {
+        "Stats": {
+            "Max HP": 2294.0,
+            "Physical Defense": 0.0,
+            "Speed": 759.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 1267.0
+        }
+    },
+    "Level_96": {
+        "Stats": {
+            "Max HP": 2326.0,
+            "Physical Defense": 0.0,
+            "Speed": 766.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 1287.0
+        }
+    },
+    "Level_97": {
+        "Stats": {
+            "Max HP": 2357.0,
+            "Physical Defense": 0.0,
+            "Speed": 774.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 1307.0
+        }
+    },
+    "Level_98": {
+        "Stats": {
+            "Max HP": 2388.0,
+            "Physical Defense": 0.0,
+            "Speed": 782.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 1327.0
+        }
+    },
+    "Level_99": {
+        "Stats": {
+            "Max HP": 2420.0,
+            "Physical Defense": 0.0,
+            "Speed": 789.0,
+            "Crit Rate": 5.0,
+            "Physical Attack": 1347.0
+        }
+    }
+}

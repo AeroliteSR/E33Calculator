@@ -1,0 +1,502 @@
+{
+    "Points_0": {
+        "Stats": {
+            "Physical Attack": 0.0
+        }
+    },
+    "Points_1": {
+        "Stats": {
+            "Physical Attack": 1.0
+        }
+    },
+    "Points_2": {
+        "Stats": {
+            "Physical Attack": 1.0
+        }
+    },
+    "Points_3": {
+        "Stats": {
+            "Physical Attack": 2.0
+        }
+    },
+    "Points_4": {
+        "Stats": {
+            "Physical Attack": 4.0
+        }
+    },
+    "Points_5": {
+        "Stats": {
+            "Physical Attack": 5.0
+        }
+    },
+    "Points_6": {
+        "Stats": {
+            "Physical Attack": 7.0
+        }
+    },
+    "Points_7": {
+        "Stats": {
+            "Physical Attack": 8.0
+        }
+    },
+    "Points_8": {
+        "Stats": {
+            "Physical Attack": 10.0
+        }
+    },
+    "Points_9": {
+        "Stats": {
+            "Physical Attack": 12.0
+        }
+    },
+    "Points_10": {
+        "Stats": {
+            "Physical Attack": 14.0
+        }
+    },
+    "Points_11": {
+        "Stats": {
+            "Physical Attack": 16.0
+        }
+    },
+    "Points_12": {
+        "Stats": {
+            "Physical Attack": 18.0
+        }
+    },
+    "Points_13": {
+        "Stats": {
+            "Physical Attack": 20.0
+        }
+    },
+    "Points_14": {
+        "Stats": {
+            "Physical Attack": 22.0
+        }
+    },
+    "Points_15": {
+        "Stats": {
+            "Physical Attack": 24.0
+        }
+    },
+    "Points_16": {
+        "Stats": {
+            "Physical Attack": 25.0
+        }
+    },
+    "Points_17": {
+        "Stats": {
+            "Physical Attack": 27.0
+        }
+    },
+    "Points_18": {
+        "Stats": {
+            "Physical Attack": 29.0
+        }
+    },
+    "Points_19": {
+        "Stats": {
+            "Physical Attack": 31.0
+        }
+    },
+    "Points_20": {
+        "Stats": {
+            "Physical Attack": 33.0
+        }
+    },
+    "Points_21": {
+        "Stats": {
+            "Physical Attack": 35.0
+        }
+    },
+    "Points_22": {
+        "Stats": {
+            "Physical Attack": 37.0
+        }
+    },
+    "Points_23": {
+        "Stats": {
+            "Physical Attack": 39.0
+        }
+    },
+    "Points_24": {
+        "Stats": {
+            "Physical Attack": 41.0
+        }
+    },
+    "Points_25": {
+        "Stats": {
+            "Physical Attack": 43.0
+        }
+    },
+    "Points_26": {
+        "Stats": {
+            "Physical Attack": 45.0
+        }
+    },
+    "Points_27": {
+        "Stats": {
+            "Physical Attack": 48.0
+        }
+    },
+    "Points_28": {
+        "Stats": {
+            "Physical Attack": 50.0
+        }
+    },
+    "Points_29": {
+        "Stats": {
+            "Physical Attack": 52.0
+        }
+    },
+    "Points_30": {
+        "Stats": {
+            "Physical Attack": 54.0
+        }
+    },
+    "Points_31": {
+        "Stats": {
+            "Physical Attack": 56.0
+        }
+    },
+    "Points_32": {
+        "Stats": {
+            "Physical Attack": 58.0
+        }
+    },
+    "Points_33": {
+        "Stats": {
+            "Physical Attack": 60.0
+        }
+    },
+    "Points_34": {
+        "Stats": {
+            "Physical Attack": 62.0
+        }
+    },
+    "Points_35": {
+        "Stats": {
+            "Physical Attack": 65.0
+        }
+    },
+    "Points_36": {
+        "Stats": {
+            "Physical Attack": 67.0
+        }
+    },
+    "Points_37": {
+        "Stats": {
+            "Physical Attack": 69.0
+        }
+    },
+    "Points_38": {
+        "Stats": {
+            "Physical Attack": 71.0
+        }
+    },
+    "Points_39": {
+        "Stats": {
+            "Physical Attack": 73.0
+        }
+    },
+    "Points_40": {
+        "Stats": {
+            "Physical Attack": 75.0
+        }
+    },
+    "Points_41": {
+        "Stats": {
+            "Physical Attack": 77.0
+        }
+    },
+    "Points_42": {
+        "Stats": {
+            "Physical Attack": 79.0
+        }
+    },
+    "Points_43": {
+        "Stats": {
+            "Physical Attack": 81.0
+        }
+    },
+    "Points_44": {
+        "Stats": {
+            "Physical Attack": 83.0
+        }
+    },
+    "Points_45": {
+        "Stats": {
+            "Physical Attack": 85.0
+        }
+    },
+    "Points_46": {
+        "Stats": {
+            "Physical Attack": 87.0
+        }
+    },
+    "Points_47": {
+        "Stats": {
+            "Physical Attack": 88.0
+        }
+    },
+    "Points_48": {
+        "Stats": {
+            "Physical Attack": 90.0
+        }
+    },
+    "Points_49": {
+        "Stats": {
+            "Physical Attack": 92.0
+        }
+    },
+    "Points_50": {
+        "Stats": {
+            "Physical Attack": 94.0
+        }
+    },
+    "Points_51": {
+        "Stats": {
+            "Physical Attack": 96.0
+        }
+    },
+    "Points_52": {
+        "Stats": {
+            "Physical Attack": 98.0
+        }
+    },
+    "Points_53": {
+        "Stats": {
+            "Physical Attack": 99.0
+        }
+    },
+    "Points_54": {
+        "Stats": {
+            "Physical Attack": 101.0
+        }
+    },
+    "Points_55": {
+        "Stats": {
+            "Physical Attack": 103.0
+        }
+    },
+    "Points_56": {
+        "Stats": {
+            "Physical Attack": 105.0
+        }
+    },
+    "Points_57": {
+        "Stats": {
+            "Physical Attack": 106.0
+        }
+    },
+    "Points_58": {
+        "Stats": {
+            "Physical Attack": 108.0
+        }
+    },
+    "Points_59": {
+        "Stats": {
+            "Physical Attack": 110.0
+        }
+    },
+    "Points_60": {
+        "Stats": {
+            "Physical Attack": 111.0
+        }
+    },
+    "Points_61": {
+        "Stats": {
+            "Physical Attack": 113.0
+        }
+    },
+    "Points_62": {
+        "Stats": {
+            "Physical Attack": 114.0
+        }
+    },
+    "Points_63": {
+        "Stats": {
+            "Physical Attack": 116.0
+        }
+    },
+    "Points_64": {
+        "Stats": {
+            "Physical Attack": 118.0
+        }
+    },
+    "Points_65": {
+        "Stats": {
+            "Physical Attack": 119.0
+        }
+    },
+    "Points_66": {
+        "Stats": {
+            "Physical Attack": 121.0
+        }
+    },
+    "Points_67": {
+        "Stats": {
+            "Physical Attack": 122.0
+        }
+    },
+    "Points_68": {
+        "Stats": {
+            "Physical Attack": 123.0
+        }
+    },
+    "Points_69": {
+        "Stats": {
+            "Physical Attack": 125.0
+        }
+    },
+    "Points_70": {
+        "Stats": {
+            "Physical Attack": 126.0
+        }
+    },
+    "Points_71": {
+        "Stats": {
+            "Physical Attack": 127.0
+        }
+    },
+    "Points_72": {
+        "Stats": {
+            "Physical Attack": 129.0
+        }
+    },
+    "Points_73": {
+        "Stats": {
+            "Physical Attack": 130.0
+        }
+    },
+    "Points_74": {
+        "Stats": {
+            "Physical Attack": 132.0
+        }
+    },
+    "Points_75": {
+        "Stats": {
+            "Physical Attack": 133.0
+        }
+    },
+    "Points_76": {
+        "Stats": {
+            "Physical Attack": 134.0
+        }
+    },
+    "Points_77": {
+        "Stats": {
+            "Physical Attack": 135.0
+        }
+    },
+    "Points_78": {
+        "Stats": {
+            "Physical Attack": 136.0
+        }
+    },
+    "Points_79": {
+        "Stats": {
+            "Physical Attack": 138.0
+        }
+    },
+    "Points_80": {
+        "Stats": {
+            "Physical Attack": 139.0
+        }
+    },
+    "Points_81": {
+        "Stats": {
+            "Physical Attack": 140.0
+        }
+    },
+    "Points_82": {
+        "Stats": {
+            "Physical Attack": 141.0
+        }
+    },
+    "Points_83": {
+        "Stats": {
+            "Physical Attack": 142.0
+        }
+    },
+    "Points_84": {
+        "Stats": {
+            "Physical Attack": 143.0
+        }
+    },
+    "Points_85": {
+        "Stats": {
+            "Physical Attack": 144.0
+        }
+    },
+    "Points_86": {
+        "Stats": {
+            "Physical Attack": 145.0
+        }
+    },
+    "Points_87": {
+        "Stats": {
+            "Physical Attack": 146.0
+        }
+    },
+    "Points_88": {
+        "Stats": {
+            "Physical Attack": 147.0
+        }
+    },
+    "Points_89": {
+        "Stats": {
+            "Physical Attack": 148.0
+        }
+    },
+    "Points_90": {
+        "Stats": {
+            "Physical Attack": 149.0
+        }
+    },
+    "Points_91": {
+        "Stats": {
+            "Physical Attack": 150.0
+        }
+    },
+    "Points_92": {
+        "Stats": {
+            "Physical Attack": 151.0
+        }
+    },
+    "Points_93": {
+        "Stats": {
+            "Physical Attack": 152.0
+        }
+    },
+    "Points_94": {
+        "Stats": {
+            "Physical Attack": 153.0
+        }
+    },
+    "Points_95": {
+        "Stats": {
+            "Physical Attack": 153.0
+        }
+    },
+    "Points_96": {
+        "Stats": {
+            "Physical Attack": 154.0
+        }
+    },
+    "Points_97": {
+        "Stats": {
+            "Physical Attack": 155.0
+        }
+    },
+    "Points_98": {
+        "Stats": {
+            "Physical Attack": 156.0
+        }
+    },
+    "Points_99": {
+        "Stats": {
+            "Physical Attack": 156.0
+        }
+    }
+}

@@ -1,0 +1,602 @@
+{
+    "Points_0": {
+        "Stats": {
+            "Physical Defense": 0.0,
+            "Crit Rate": 0.0
+        }
+    },
+    "Points_1": {
+        "Stats": {
+            "Physical Defense": 3.0,
+            "Crit Rate": 0.0
+        }
+    },
+    "Points_2": {
+        "Stats": {
+            "Physical Defense": 7.0,
+            "Crit Rate": 1.0
+        }
+    },
+    "Points_3": {
+        "Stats": {
+            "Physical Defense": 9.0,
+            "Crit Rate": 1.0
+        }
+    },
+    "Points_4": {
+        "Stats": {
+            "Physical Defense": 10.0,
+            "Crit Rate": 1.0
+        }
+    },
+    "Points_5": {
+        "Stats": {
+            "Physical Defense": 12.0,
+            "Crit Rate": 2.0
+        }
+    },
+    "Points_6": {
+        "Stats": {
+            "Physical Defense": 14.0,
+            "Crit Rate": 2.0
+        }
+    },
+    "Points_7": {
+        "Stats": {
+            "Physical Defense": 17.0,
+            "Crit Rate": 2.0
+        }
+    },
+    "Points_8": {
+        "Stats": {
+            "Physical Defense": 20.0,
+            "Crit Rate": 2.0
+        }
+    },
+    "Points_9": {
+        "Stats": {
+            "Physical Defense": 23.0,
+            "Crit Rate": 3.0
+        }
+    },
+    "Points_10": {
+        "Stats": {
+            "Physical Defense": 26.0,
+            "Crit Rate": 3.0
+        }
+    },
+    "Points_11": {
+        "Stats": {
+            "Physical Defense": 30.0,
+            "Crit Rate": 3.0
+        }
+    },
+    "Points_12": {
+        "Stats": {
+            "Physical Defense": 33.0,
+            "Crit Rate": 4.0
+        }
+    },
+    "Points_13": {
+        "Stats": {
+            "Physical Defense": 37.0,
+            "Crit Rate": 4.0
+        }
+    },
+    "Points_14": {
+        "Stats": {
+            "Physical Defense": 40.0,
+            "Crit Rate": 4.0
+        }
+    },
+    "Points_15": {
+        "Stats": {
+            "Physical Defense": 44.0,
+            "Crit Rate": 4.0
+        }
+    },
+    "Points_16": {
+        "Stats": {
+            "Physical Defense": 49.0,
+            "Crit Rate": 5.0
+        }
+    },
+    "Points_17": {
+        "Stats": {
+            "Physical Defense": 53.0,
+            "Crit Rate": 5.0
+        }
+    },
+    "Points_18": {
+        "Stats": {
+            "Physical Defense": 57.0,
+            "Crit Rate": 5.0
+        }
+    },
+    "Points_19": {
+        "Stats": {
+            "Physical Defense": 62.0,
+            "Crit Rate": 5.0
+        }
+    },
+    "Points_20": {
+        "Stats": {
+            "Physical Defense": 67.0,
+            "Crit Rate": 5.0
+        }
+    },
+    "Points_21": {
+        "Stats": {
+            "Physical Defense": 71.0,
+            "Crit Rate": 6.0
+        }
+    },
+    "Points_22": {
+        "Stats": {
+            "Physical Defense": 76.0,
+            "Crit Rate": 6.0
+        }
+    },
+    "Points_23": {
+        "Stats": {
+            "Physical Defense": 81.0,
+            "Crit Rate": 6.0
+        }
+    },
+    "Points_24": {
+        "Stats": {
+            "Physical Defense": 86.0,
+            "Crit Rate": 6.0
+        }
+    },
+    "Points_25": {
+        "Stats": {
+            "Physical Defense": 91.0,
+            "Crit Rate": 7.0
+        }
+    },
+    "Points_26": {
+        "Stats": {
+            "Physical Defense": 96.0,
+            "Crit Rate": 7.0
+        }
+    },
+    "Points_27": {
+        "Stats": {
+            "Physical Defense": 101.0,
+            "Crit Rate": 7.0
+        }
+    },
+    "Points_28": {
+        "Stats": {
+            "Physical Defense": 107.0,
+            "Crit Rate": 7.0
+        }
+    },
+    "Points_29": {
+        "Stats": {
+            "Physical Defense": 112.0,
+            "Crit Rate": 7.0
+        }
+    },
+    "Points_30": {
+        "Stats": {
+            "Physical Defense": 118.0,
+            "Crit Rate": 8.0
+        }
+    },
+    "Points_31": {
+        "Stats": {
+            "Physical Defense": 122.0,
+            "Crit Rate": 8.0
+        }
+    },
+    "Points_32": {
+        "Stats": {
+            "Physical Defense": 126.0,
+            "Crit Rate": 8.0
+        }
+    },
+    "Points_33": {
+        "Stats": {
+            "Physical Defense": 130.0,
+            "Crit Rate": 8.0
+        }
+    },
+    "Points_34": {
+        "Stats": {
+            "Physical Defense": 134.0,
+            "Crit Rate": 9.0
+        }
+    },
+    "Points_35": {
+        "Stats": {
+            "Physical Defense": 138.0,
+            "Crit Rate": 9.0
+        }
+    },
+    "Points_36": {
+        "Stats": {
+            "Physical Defense": 142.0,
+            "Crit Rate": 9.0
+        }
+    },
+    "Points_37": {
+        "Stats": {
+            "Physical Defense": 146.0,
+            "Crit Rate": 9.0
+        }
+    },
+    "Points_38": {
+        "Stats": {
+            "Physical Defense": 150.0,
+            "Crit Rate": 9.0
+        }
+    },
+    "Points_39": {
+        "Stats": {
+            "Physical Defense": 154.0,
+            "Crit Rate": 10.0
+        }
+    },
+    "Points_40": {
+        "Stats": {
+            "Physical Defense": 158.0,
+            "Crit Rate": 10.0
+        }
+    },
+    "Points_41": {
+        "Stats": {
+            "Physical Defense": 164.0,
+            "Crit Rate": 10.0
+        }
+    },
+    "Points_42": {
+        "Stats": {
+            "Physical Defense": 170.0,
+            "Crit Rate": 10.0
+        }
+    },
+    "Points_43": {
+        "Stats": {
+            "Physical Defense": 176.0,
+            "Crit Rate": 10.0
+        }
+    },
+    "Points_44": {
+        "Stats": {
+            "Physical Defense": 183.0,
+            "Crit Rate": 11.0
+        }
+    },
+    "Points_45": {
+        "Stats": {
+            "Physical Defense": 189.0,
+            "Crit Rate": 11.0
+        }
+    },
+    "Points_46": {
+        "Stats": {
+            "Physical Defense": 195.0,
+            "Crit Rate": 11.0
+        }
+    },
+    "Points_47": {
+        "Stats": {
+            "Physical Defense": 201.0,
+            "Crit Rate": 11.0
+        }
+    },
+    "Points_48": {
+        "Stats": {
+            "Physical Defense": 208.0,
+            "Crit Rate": 11.0
+        }
+    },
+    "Points_49": {
+        "Stats": {
+            "Physical Defense": 214.0,
+            "Crit Rate": 11.0
+        }
+    },
+    "Points_50": {
+        "Stats": {
+            "Physical Defense": 220.0,
+            "Crit Rate": 12.0
+        }
+    },
+    "Points_51": {
+        "Stats": {
+            "Physical Defense": 227.0,
+            "Crit Rate": 12.0
+        }
+    },
+    "Points_52": {
+        "Stats": {
+            "Physical Defense": 234.0,
+            "Crit Rate": 12.0
+        }
+    },
+    "Points_53": {
+        "Stats": {
+            "Physical Defense": 240.0,
+            "Crit Rate": 12.0
+        }
+    },
+    "Points_54": {
+        "Stats": {
+            "Physical Defense": 247.0,
+            "Crit Rate": 12.0
+        }
+    },
+    "Points_55": {
+        "Stats": {
+            "Physical Defense": 254.0,
+            "Crit Rate": 12.0
+        }
+    },
+    "Points_56": {
+        "Stats": {
+            "Physical Defense": 260.0,
+            "Crit Rate": 13.0
+        }
+    },
+    "Points_57": {
+        "Stats": {
+            "Physical Defense": 267.0,
+            "Crit Rate": 13.0
+        }
+    },
+    "Points_58": {
+        "Stats": {
+            "Physical Defense": 274.0,
+            "Crit Rate": 13.0
+        }
+    },
+    "Points_59": {
+        "Stats": {
+            "Physical Defense": 280.0,
+            "Crit Rate": 13.0
+        }
+    },
+    "Points_60": {
+        "Stats": {
+            "Physical Defense": 287.0,
+            "Crit Rate": 13.0
+        }
+    },
+    "Points_61": {
+        "Stats": {
+            "Physical Defense": 291.0,
+            "Crit Rate": 13.0
+        }
+    },
+    "Points_62": {
+        "Stats": {
+            "Physical Defense": 295.0,
+            "Crit Rate": 14.0
+        }
+    },
+    "Points_63": {
+        "Stats": {
+            "Physical Defense": 299.0,
+            "Crit Rate": 14.0
+        }
+    },
+    "Points_64": {
+        "Stats": {
+            "Physical Defense": 302.0,
+            "Crit Rate": 14.0
+        }
+    },
+    "Points_65": {
+        "Stats": {
+            "Physical Defense": 306.0,
+            "Crit Rate": 14.0
+        }
+    },
+    "Points_66": {
+        "Stats": {
+            "Physical Defense": 310.0,
+            "Crit Rate": 14.0
+        }
+    },
+    "Points_67": {
+        "Stats": {
+            "Physical Defense": 313.0,
+            "Crit Rate": 14.0
+        }
+    },
+    "Points_68": {
+        "Stats": {
+            "Physical Defense": 317.0,
+            "Crit Rate": 14.0
+        }
+    },
+    "Points_69": {
+        "Stats": {
+            "Physical Defense": 320.0,
+            "Crit Rate": 15.0
+        }
+    },
+    "Points_70": {
+        "Stats": {
+            "Physical Defense": 323.0,
+            "Crit Rate": 15.0
+        }
+    },
+    "Points_71": {
+        "Stats": {
+            "Physical Defense": 330.0,
+            "Crit Rate": 15.0
+        }
+    },
+    "Points_72": {
+        "Stats": {
+            "Physical Defense": 337.0,
+            "Crit Rate": 15.0
+        }
+    },
+    "Points_73": {
+        "Stats": {
+            "Physical Defense": 343.0,
+            "Crit Rate": 15.0
+        }
+    },
+    "Points_74": {
+        "Stats": {
+            "Physical Defense": 350.0,
+            "Crit Rate": 15.0
+        }
+    },
+    "Points_75": {
+        "Stats": {
+            "Physical Defense": 357.0,
+            "Crit Rate": 15.0
+        }
+    },
+    "Points_76": {
+        "Stats": {
+            "Physical Defense": 363.0,
+            "Crit Rate": 15.0
+        }
+    },
+    "Points_77": {
+        "Stats": {
+            "Physical Defense": 370.0,
+            "Crit Rate": 16.0
+        }
+    },
+    "Points_78": {
+        "Stats": {
+            "Physical Defense": 376.0,
+            "Crit Rate": 16.0
+        }
+    },
+    "Points_79": {
+        "Stats": {
+            "Physical Defense": 383.0,
+            "Crit Rate": 16.0
+        }
+    },
+    "Points_80": {
+        "Stats": {
+            "Physical Defense": 389.0,
+            "Crit Rate": 16.0
+        }
+    },
+    "Points_81": {
+        "Stats": {
+            "Physical Defense": 396.0,
+            "Crit Rate": 16.0
+        }
+    },
+    "Points_82": {
+        "Stats": {
+            "Physical Defense": 403.0,
+            "Crit Rate": 16.0
+        }
+    },
+    "Points_83": {
+        "Stats": {
+            "Physical Defense": 409.0,
+            "Crit Rate": 16.0
+        }
+    },
+    "Points_84": {
+        "Stats": {
+            "Physical Defense": 416.0,
+            "Crit Rate": 16.0
+        }
+    },
+    "Points_85": {
+        "Stats": {
+            "Physical Defense": 423.0,
+            "Crit Rate": 16.0
+        }
+    },
+    "Points_86": {
+        "Stats": {
+            "Physical Defense": 429.0,
+            "Crit Rate": 17.0
+        }
+    },
+    "Points_87": {
+        "Stats": {
+            "Physical Defense": 436.0,
+            "Crit Rate": 17.0
+        }
+    },
+    "Points_88": {
+        "Stats": {
+            "Physical Defense": 442.0,
+            "Crit Rate": 17.0
+        }
+    },
+    "Points_89": {
+        "Stats": {
+            "Physical Defense": 448.0,
+            "Crit Rate": 17.0
+        }
+    },
+    "Points_90": {
+        "Stats": {
+            "Physical Defense": 454.0,
+            "Crit Rate": 17.0
+        }
+    },
+    "Points_91": {
+        "Stats": {
+            "Physical Defense": 465.0,
+            "Crit Rate": 17.0
+        }
+    },
+    "Points_92": {
+        "Stats": {
+            "Physical Defense": 475.0,
+            "Crit Rate": 17.0
+        }
+    },
+    "Points_93": {
+        "Stats": {
+            "Physical Defense": 486.0,
+            "Crit Rate": 17.0
+        }
+    },
+    "Points_94": {
+        "Stats": {
+            "Physical Defense": 496.0,
+            "Crit Rate": 17.0
+        }
+    },
+    "Points_95": {
+        "Stats": {
+            "Physical Defense": 506.0,
+            "Crit Rate": 18.0
+        }
+    },
+    "Points_96": {
+        "Stats": {
+            "Physical Defense": 517.0,
+            "Crit Rate": 18.0
+        }
+    },
+    "Points_97": {
+        "Stats": {
+            "Physical Defense": 527.0,
+            "Crit Rate": 18.0
+        }
+    },
+    "Points_98": {
+        "Stats": {
+            "Physical Defense": 537.0,
+            "Crit Rate": 18.0
+        }
+    },
+    "Points_99": {
+        "Stats": {
+            "Physical Defense": 547.0,
+            "Crit Rate": 18.0
+        }
+    }
+}

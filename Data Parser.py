@@ -138,6 +138,22 @@ def get_scaling_data(data):
 
     return output
 
+def get_charLevel_data(data):
+    output = {}
+
+    stats = {stat['Key']: stat['Value'] for stat in data.get('Stats_19_14AC0B3B43D586575C5433A630321A61', [])}
+    output['Stats']= applyMap(stats, EnemyStatsMap)
+
+    return output
+
+def get_charStat_data(data):
+    output = {}
+
+    stats = {stat['Key']: stat['Value'] for stat in data.get('Stats_10_D3A8C0304962FBC09B7E3B9C5CC2FB50', [])}
+    output['Stats']= applyMap(stats, EnemyStatsMap)
+
+    return output
+
 def split_CCase(text):
     if len(text)<3:
         return text
@@ -219,6 +235,9 @@ def main():
         #"Encounters.json": ["jRPGTemplate/Datatables/Encounters_Datatables/DT_Encounters_Composite.json", get_encounter_data],
         #"Items.json": ["jRPGTemplate/Datatables/DT_jRPG_Items_Composite.json", get_item_data],
         #"Effects.json": ["Gameplay/Lumina/DT_PassiveEffects.json", get_effect_data],
+
+        #"Character Stats": ["Gameplay/CharacterData/AttributeScalingTables", get_charStat_data],
+        #"Character Levels.json": ["Gameplay/CharacterData/DT_CharactersLevelScaling.json", get_charLevel_data]
     }
 
     for name, values in tasks.items():

@@ -1,0 +1,602 @@
+{
+    "Points_0": {
+        "Stats": {
+            "Speed": 0.0,
+            "Crit Rate": 0.0
+        }
+    },
+    "Points_1": {
+        "Stats": {
+            "Speed": 1.0,
+            "Crit Rate": 1.0
+        }
+    },
+    "Points_2": {
+        "Stats": {
+            "Speed": 2.0,
+            "Crit Rate": 1.0
+        }
+    },
+    "Points_3": {
+        "Stats": {
+            "Speed": 4.0,
+            "Crit Rate": 2.0
+        }
+    },
+    "Points_4": {
+        "Stats": {
+            "Speed": 6.0,
+            "Crit Rate": 2.0
+        }
+    },
+    "Points_5": {
+        "Stats": {
+            "Speed": 8.0,
+            "Crit Rate": 3.0
+        }
+    },
+    "Points_6": {
+        "Stats": {
+            "Speed": 10.0,
+            "Crit Rate": 4.0
+        }
+    },
+    "Points_7": {
+        "Stats": {
+            "Speed": 13.0,
+            "Crit Rate": 4.0
+        }
+    },
+    "Points_8": {
+        "Stats": {
+            "Speed": 15.0,
+            "Crit Rate": 5.0
+        }
+    },
+    "Points_9": {
+        "Stats": {
+            "Speed": 17.0,
+            "Crit Rate": 5.0
+        }
+    },
+    "Points_10": {
+        "Stats": {
+            "Speed": 20.0,
+            "Crit Rate": 6.0
+        }
+    },
+    "Points_11": {
+        "Stats": {
+            "Speed": 22.0,
+            "Crit Rate": 7.0
+        }
+    },
+    "Points_12": {
+        "Stats": {
+            "Speed": 24.0,
+            "Crit Rate": 7.0
+        }
+    },
+    "Points_13": {
+        "Stats": {
+            "Speed": 26.0,
+            "Crit Rate": 8.0
+        }
+    },
+    "Points_14": {
+        "Stats": {
+            "Speed": 28.0,
+            "Crit Rate": 8.0
+        }
+    },
+    "Points_15": {
+        "Stats": {
+            "Speed": 30.0,
+            "Crit Rate": 9.0
+        }
+    },
+    "Points_16": {
+        "Stats": {
+            "Speed": 32.0,
+            "Crit Rate": 9.0
+        }
+    },
+    "Points_17": {
+        "Stats": {
+            "Speed": 34.0,
+            "Crit Rate": 9.0
+        }
+    },
+    "Points_18": {
+        "Stats": {
+            "Speed": 36.0,
+            "Crit Rate": 10.0
+        }
+    },
+    "Points_19": {
+        "Stats": {
+            "Speed": 38.0,
+            "Crit Rate": 10.0
+        }
+    },
+    "Points_20": {
+        "Stats": {
+            "Speed": 40.0,
+            "Crit Rate": 11.0
+        }
+    },
+    "Points_21": {
+        "Stats": {
+            "Speed": 42.0,
+            "Crit Rate": 11.0
+        }
+    },
+    "Points_22": {
+        "Stats": {
+            "Speed": 44.0,
+            "Crit Rate": 12.0
+        }
+    },
+    "Points_23": {
+        "Stats": {
+            "Speed": 46.0,
+            "Crit Rate": 12.0
+        }
+    },
+    "Points_24": {
+        "Stats": {
+            "Speed": 48.0,
+            "Crit Rate": 13.0
+        }
+    },
+    "Points_25": {
+        "Stats": {
+            "Speed": 51.0,
+            "Crit Rate": 13.0
+        }
+    },
+    "Points_26": {
+        "Stats": {
+            "Speed": 53.0,
+            "Crit Rate": 14.0
+        }
+    },
+    "Points_27": {
+        "Stats": {
+            "Speed": 55.0,
+            "Crit Rate": 14.0
+        }
+    },
+    "Points_28": {
+        "Stats": {
+            "Speed": 57.0,
+            "Crit Rate": 15.0
+        }
+    },
+    "Points_29": {
+        "Stats": {
+            "Speed": 59.0,
+            "Crit Rate": 15.0
+        }
+    },
+    "Points_30": {
+        "Stats": {
+            "Speed": 61.0,
+            "Crit Rate": 15.0
+        }
+    },
+    "Points_31": {
+        "Stats": {
+            "Speed": 63.0,
+            "Crit Rate": 16.0
+        }
+    },
+    "Points_32": {
+        "Stats": {
+            "Speed": 65.0,
+            "Crit Rate": 16.0
+        }
+    },
+    "Points_33": {
+        "Stats": {
+            "Speed": 67.0,
+            "Crit Rate": 17.0
+        }
+    },
+    "Points_34": {
+        "Stats": {
+            "Speed": 69.0,
+            "Crit Rate": 17.0
+        }
+    },
+    "Points_35": {
+        "Stats": {
+            "Speed": 70.0,
+            "Crit Rate": 18.0
+        }
+    },
+    "Points_36": {
+        "Stats": {
+            "Speed": 72.0,
+            "Crit Rate": 18.0
+        }
+    },
+    "Points_37": {
+        "Stats": {
+            "Speed": 74.0,
+            "Crit Rate": 18.0
+        }
+    },
+    "Points_38": {
+        "Stats": {
+            "Speed": 76.0,
+            "Crit Rate": 19.0
+        }
+    },
+    "Points_39": {
+        "Stats": {
+            "Speed": 78.0,
+            "Crit Rate": 19.0
+        }
+    },
+    "Points_40": {
+        "Stats": {
+            "Speed": 79.0,
+            "Crit Rate": 20.0
+        }
+    },
+    "Points_41": {
+        "Stats": {
+            "Speed": 81.0,
+            "Crit Rate": 20.0
+        }
+    },
+    "Points_42": {
+        "Stats": {
+            "Speed": 83.0,
+            "Crit Rate": 20.0
+        }
+    },
+    "Points_43": {
+        "Stats": {
+            "Speed": 85.0,
+            "Crit Rate": 21.0
+        }
+    },
+    "Points_44": {
+        "Stats": {
+            "Speed": 86.0,
+            "Crit Rate": 21.0
+        }
+    },
+    "Points_45": {
+        "Stats": {
+            "Speed": 88.0,
+            "Crit Rate": 21.0
+        }
+    },
+    "Points_46": {
+        "Stats": {
+            "Speed": 89.0,
+            "Crit Rate": 22.0
+        }
+    },
+    "Points_47": {
+        "Stats": {
+            "Speed": 91.0,
+            "Crit Rate": 22.0
+        }
+    },
+    "Points_48": {
+        "Stats": {
+            "Speed": 93.0,
+            "Crit Rate": 23.0
+        }
+    },
+    "Points_49": {
+        "Stats": {
+            "Speed": 94.0,
+            "Crit Rate": 23.0
+        }
+    },
+    "Points_50": {
+        "Stats": {
+            "Speed": 95.0,
+            "Crit Rate": 23.0
+        }
+    },
+    "Points_51": {
+        "Stats": {
+            "Speed": 97.0,
+            "Crit Rate": 24.0
+        }
+    },
+    "Points_52": {
+        "Stats": {
+            "Speed": 98.0,
+            "Crit Rate": 24.0
+        }
+    },
+    "Points_53": {
+        "Stats": {
+            "Speed": 100.0,
+            "Crit Rate": 24.0
+        }
+    },
+    "Points_54": {
+        "Stats": {
+            "Speed": 101.0,
+            "Crit Rate": 25.0
+        }
+    },
+    "Points_55": {
+        "Stats": {
+            "Speed": 103.0,
+            "Crit Rate": 25.0
+        }
+    },
+    "Points_56": {
+        "Stats": {
+            "Speed": 104.0,
+            "Crit Rate": 25.0
+        }
+    },
+    "Points_57": {
+        "Stats": {
+            "Speed": 105.0,
+            "Crit Rate": 26.0
+        }
+    },
+    "Points_58": {
+        "Stats": {
+            "Speed": 107.0,
+            "Crit Rate": 26.0
+        }
+    },
+    "Points_59": {
+        "Stats": {
+            "Speed": 108.0,
+            "Crit Rate": 26.0
+        }
+    },
+    "Points_60": {
+        "Stats": {
+            "Speed": 109.0,
+            "Crit Rate": 26.0
+        }
+    },
+    "Points_61": {
+        "Stats": {
+            "Speed": 110.0,
+            "Crit Rate": 27.0
+        }
+    },
+    "Points_62": {
+        "Stats": {
+            "Speed": 111.0,
+            "Crit Rate": 27.0
+        }
+    },
+    "Points_63": {
+        "Stats": {
+            "Speed": 113.0,
+            "Crit Rate": 27.0
+        }
+    },
+    "Points_64": {
+        "Stats": {
+            "Speed": 114.0,
+            "Crit Rate": 28.0
+        }
+    },
+    "Points_65": {
+        "Stats": {
+            "Speed": 115.0,
+            "Crit Rate": 28.0
+        }
+    },
+    "Points_66": {
+        "Stats": {
+            "Speed": 116.0,
+            "Crit Rate": 28.0
+        }
+    },
+    "Points_67": {
+        "Stats": {
+            "Speed": 117.0,
+            "Crit Rate": 29.0
+        }
+    },
+    "Points_68": {
+        "Stats": {
+            "Speed": 118.0,
+            "Crit Rate": 29.0
+        }
+    },
+    "Points_69": {
+        "Stats": {
+            "Speed": 119.0,
+            "Crit Rate": 29.0
+        }
+    },
+    "Points_70": {
+        "Stats": {
+            "Speed": 120.0,
+            "Crit Rate": 29.0
+        }
+    },
+    "Points_71": {
+        "Stats": {
+            "Speed": 121.0,
+            "Crit Rate": 30.0
+        }
+    },
+    "Points_72": {
+        "Stats": {
+            "Speed": 122.0,
+            "Crit Rate": 30.0
+        }
+    },
+    "Points_73": {
+        "Stats": {
+            "Speed": 123.0,
+            "Crit Rate": 30.0
+        }
+    },
+    "Points_74": {
+        "Stats": {
+            "Speed": 124.0,
+            "Crit Rate": 30.0
+        }
+    },
+    "Points_75": {
+        "Stats": {
+            "Speed": 124.0,
+            "Crit Rate": 31.0
+        }
+    },
+    "Points_76": {
+        "Stats": {
+            "Speed": 125.0,
+            "Crit Rate": 31.0
+        }
+    },
+    "Points_77": {
+        "Stats": {
+            "Speed": 126.0,
+            "Crit Rate": 31.0
+        }
+    },
+    "Points_78": {
+        "Stats": {
+            "Speed": 127.0,
+            "Crit Rate": 31.0
+        }
+    },
+    "Points_79": {
+        "Stats": {
+            "Speed": 128.0,
+            "Crit Rate": 32.0
+        }
+    },
+    "Points_80": {
+        "Stats": {
+            "Speed": 128.0,
+            "Crit Rate": 32.0
+        }
+    },
+    "Points_81": {
+        "Stats": {
+            "Speed": 129.0,
+            "Crit Rate": 32.0
+        }
+    },
+    "Points_82": {
+        "Stats": {
+            "Speed": 130.0,
+            "Crit Rate": 32.0
+        }
+    },
+    "Points_83": {
+        "Stats": {
+            "Speed": 130.0,
+            "Crit Rate": 33.0
+        }
+    },
+    "Points_84": {
+        "Stats": {
+            "Speed": 131.0,
+            "Crit Rate": 33.0
+        }
+    },
+    "Points_85": {
+        "Stats": {
+            "Speed": 132.0,
+            "Crit Rate": 33.0
+        }
+    },
+    "Points_86": {
+        "Stats": {
+            "Speed": 132.0,
+            "Crit Rate": 33.0
+        }
+    },
+    "Points_87": {
+        "Stats": {
+            "Speed": 133.0,
+            "Crit Rate": 33.0
+        }
+    },
+    "Points_88": {
+        "Stats": {
+            "Speed": 134.0,
+            "Crit Rate": 34.0
+        }
+    },
+    "Points_89": {
+        "Stats": {
+            "Speed": 134.0,
+            "Crit Rate": 34.0
+        }
+    },
+    "Points_90": {
+        "Stats": {
+            "Speed": 134.0,
+            "Crit Rate": 34.0
+        }
+    },
+    "Points_91": {
+        "Stats": {
+            "Speed": 135.0,
+            "Crit Rate": 34.0
+        }
+    },
+    "Points_92": {
+        "Stats": {
+            "Speed": 136.0,
+            "Crit Rate": 34.0
+        }
+    },
+    "Points_93": {
+        "Stats": {
+            "Speed": 136.0,
+            "Crit Rate": 35.0
+        }
+    },
+    "Points_94": {
+        "Stats": {
+            "Speed": 137.0,
+            "Crit Rate": 35.0
+        }
+    },
+    "Points_95": {
+        "Stats": {
+            "Speed": 137.0,
+            "Crit Rate": 35.0
+        }
+    },
+    "Points_96": {
+        "Stats": {
+            "Speed": 137.0,
+            "Crit Rate": 35.0
+        }
+    },
+    "Points_97": {
+        "Stats": {
+            "Speed": 138.0,
+            "Crit Rate": 35.0
+        }
+    },
+    "Points_98": {
+        "Stats": {
+            "Speed": 138.0,
+            "Crit Rate": 36.0
+        }
+    },
+    "Points_99": {
+        "Stats": {
+            "Speed": 139.0,
+            "Crit Rate": 36.0
+        }
+    }
+}
