@@ -197,6 +197,27 @@ EffectCategoryMap = { # Sandfall/Content/Gameplay/Lumina/E_PassiveEffectCategory
     22: "Gradient"
 }
 
+AttributeScalingGradeMap = { # Sandfall/Content/Gameplay/Pictos/Weapons/EAttributeScalingGrade.uasset
+    'title': 'EAttributeScalingGrade',
+    0: "Invalid",
+    1: "D",
+    2: "C",
+    3: "B",
+    4: "A",
+    5: "S"
+}
+ 
+CharacterAttributeMap = { # Sandfall/Content/Gameplay/CharacterData/ECharacterAttribute.uasset
+    'title': 'ECharacterAttribute',
+    0: "Vitality",
+    1: "Strength",
+    2: "Intelligence",
+    3: "Agility",
+    4: "Defense",
+    5: "Luck",
+    6: "Invalid"
+}
+
 AreaNames = {
 "MainMenu": "Main Menu",
 "WorldMap": "The Continent",

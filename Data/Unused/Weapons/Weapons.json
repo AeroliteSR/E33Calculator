@@ -1,0 +1,2675 @@
+{
+    "Noahram": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Vitality": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.7
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 0.7,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "None",
+            "Level 10": "None",
+            "Level 20": "None"
+        }
+    },
+    "Maellum": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Vitality": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.0
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Earth",
+        "Chroma Multiplier": 1.0,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "None",
+            "Level 10": "None",
+            "Level 20": "None"
+        }
+    },
+    "Lunerim": {
+        "Damage Type": "Fire",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.75
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Lightning",
+        "Chroma Multiplier": 0.75,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "None",
+            "Level 10": "None",
+            "Level 20": "None"
+        }
+    },
+    "Scieleson": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Agility": "C",
+            "Luck": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.07
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Dark",
+        "Chroma Multiplier": 1.07,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "None",
+            "Level 10": "None",
+            "Level 20": "None"
+        }
+    },
+    "Verleso": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Vitality": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.07
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 1.07,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "None",
+            "Level 10": "None",
+            "Level 20": "None"
+        }
+    },
+    "Monocaro": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Agility": "C",
+            "Luck": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.85
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 0.85,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Masks_StartBalanced",
+            "Level 10": "Masks_PowerfulOnBalanced",
+            "Level 20": "Masks_CritDMG+OnBalanced"
+        }
+    },
+    "Lanceram": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Vitality": "C",
+            "Agility": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.15
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 1.15,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Perfection_MinC",
+            "Level 10": "Perfection_Attackx2",
+            "Level 20": "Perfection_Parryx2"
+        }
+    },
+    "Nosaram": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Agility": "C",
+            "Luck": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.1
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 1.1,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Perfection_DoubleOnFreeAimShots",
+            "Level 10": "FreeAimBreaksMoreShields",
+            "Level 20": "AugmentedAim_Weapon"
+        }
+    },
+    "Volesterum": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.02
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Ice",
+        "Chroma Multiplier": 1.02,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stance_APOnSwitch",
+            "Level 10": "Stance_AttackDefensive",
+            "Level 20": "Stance_HealOnSwitch"
+        }
+    },
+    "Gaulteram": {
+        "Damage Type": "Earth",
+        "Attribute Scaling": {
+            "Agility": "C",
+            "Luck": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.01
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Earth",
+        "Chroma Multiplier": 1.01,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Perfection_RankLossOneByOne",
+            "Level 10": "Perfection_RushOnS",
+            "Level 20": "Perfection_OnTurnStart"
+        }
+    },
+    "Elerim": {
+        "Damage Type": "Earth",
+        "Attribute Scaling": {
+            "Vitality": "C",
+            "Defense": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.1
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Earth",
+        "Chroma Multiplier": 1.1,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stains_EarthAppliesShield",
+            "Level 10": "SkillsEarthDMG+",
+            "Level 20": "Stains_AttackEarth+"
+        }
+    },
+    "Medalum": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Defense": "C",
+            "Agility": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.9
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Lightning",
+        "Chroma Multiplier": 0.9,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stance_StartOnVStance",
+            "Level 10": "Stance_VirtuoseDoubleBurn",
+            "Level 20": "Stance_VirtuoseDoubleDMG"
+        }
+    },
+    "Potierim": {
+        "Damage Type": "Ice",
+        "Attribute Scaling": {
+            "Defense": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.9
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Ice",
+        "Chroma Multiplier": 0.9,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stains_+RandomStainOnHeal",
+            "Level 10": "Stains_IceAppliesSlow",
+            "Level 20": "Stains_AttackLight+"
+        }
+    },
+    "Brulerum": {
+        "Damage Type": "Fire",
+        "Attribute Scaling": {
+            "Agility": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.85
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 0.85,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "CritAppliesBurn",
+            "Level 10": "AttackBurn",
+            "Level 20": "Stance_FullCritIfStanceless"
+        }
+    },
+    "Jarum": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Defense": "C",
+            "Luck": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.8
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Ice",
+        "Chroma Multiplier": 0.8,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stance_CounterSwitchToVStance",
+            "Level 10": "CounterBurn",
+            "Level 20": "CounterDamagePerShield"
+        }
+    },
+    "Chevalam": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Agility": "C",
+            "Luck": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.95
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Light",
+        "Chroma Multiplier": 0.95,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Perfection_StartRankSButNoHeal",
+            "Level 10": "DMG+WhenNoDMGTaken",
+            "Level 20": "Perfection_RushOnS"
+        }
+    },
+    "Delaram": {
+        "Damage Type": "Light",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.05
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 1.05,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Perfection_StartRankBButLessHP",
+            "Level 10": "AttackLifesteal_Weapon",
+            "Level 20": "Perfection_PowerfulOnB"
+        }
+    },
+    "Saperim": {
+        "Damage Type": "Lightning",
+        "Attribute Scaling": {
+            "Defense": "C",
+            "Luck": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.95
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Lightning",
+        "Chroma Multiplier": 0.95,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stains_GenerateStainsOnGradientAttack",
+            "Level 10": "Stains_LightningOnFire",
+            "Level 20": "GradientAttackAndCounterDMG+"
+        }
+    },
+    "Seashelum": {
+        "Damage Type": "Fire",
+        "Attribute Scaling": {
+            "Defense": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.93
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Earth",
+        "Chroma Multiplier": 0.93,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stance_ShieldOnOSstance",
+            "Level 10": "Stance_AttackOffensive",
+            "Level 20": "Stance_CritChanceOffensive"
+        }
+    },
+    "Scaverim": {
+        "Damage Type": "Dark",
+        "Attribute Scaling": {
+            "Vitality": "C",
+            "Agility": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.3
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Ice",
+        "Chroma Multiplier": 1.3,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stains_GenerateDarkStainRandom",
+            "Level 10": "Stains_ConsumeDarkStainsOnAttackDMG+",
+            "Level 20": "Stains_ConsumeFourDarkStainsDMG+OnSkills"
+        }
+    },
+    "Glaisum": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Defense": "C",
+            "Agility": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.15
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Ice",
+        "Chroma Multiplier": 1.15,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stance_VirtuoseHealAllies",
+            "Level 10": "Stance_ShellOutVStance",
+            "Level 20": "Stance_CleanseVirtuose"
+        }
+    },
+    "Cruleram": {
+        "Damage Type": "Ice",
+        "Attribute Scaling": {
+            "Defense": "C",
+            "Luck": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.07
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Lightning",
+        "Chroma Multiplier": 1.07,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Perfection_NoPerfectionLossOnPowerlessEnemy",
+            "Level 10": "Perfection_Perfection+1OnPowerlessEnemy",
+            "Level 20": "PowerlessOnCounter"
+        }
+    },
+    "Minason": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.87
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Dark",
+        "Chroma Multiplier": 0.87,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Foretell_SunSkillsDMG+PerForetell",
+            "Level 10": "Foretell_SunAPIncrease",
+            "Level 20": "Foretell_AttackConsumeSunCharge"
+        }
+    },
+    "Seeram": {
+        "Damage Type": "Light",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.15
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 1.15,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Perfection_Perfection+butDMG+",
+            "Level 10": "Perfection_Attackx2",
+            "Level 20": "SkillsLightDMG+"
+        }
+    },
+    "Deminerim": {
+        "Damage Type": "Lightning",
+        "Attribute Scaling": {
+            "Agility": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.85
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Lightning",
+        "Chroma Multiplier": 0.85,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "LightningAPCost-",
+            "Level 10": "SkillsLightningDMG+",
+            "Level 20": "Stains_FireStart"
+        }
+    },
+    "Lusteson": {
+        "Damage Type": "Dark",
+        "Attribute Scaling": {
+            "Vitality": "C",
+            "Agility": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.06
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Dark",
+        "Chroma Multiplier": 1.06,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Foretell_PropagationOnKill",
+            "Level 10": "Foretell_MarkOnConsume",
+            "Level 20": "SkillsDarkDMG+"
+        }
+    },
+    "Abysseram": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Vitality": "C",
+            "Defense": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.0
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Earth",
+        "Chroma Multiplier": 1.0,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Perfection_IncreasedDamageOnRankD",
+            "Level 10": "AugmentedAttack_Weapon",
+            "Level 20": "Perfection_AttackLifestealOnD"
+        }
+    },
+    "Gobluson": {
+        "Damage Type": "Fire",
+        "Attribute Scaling": {
+            "Defense": "C",
+            "Agility": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.04
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 1.04,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Foretell_PropagateForetellOnApplication",
+            "Level 10": "Foretell_ApplyBurnEveryXForetell",
+            "Level 20": "SkillsFireDMG+"
+        }
+    },
+    "Sakaram": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Agility": "C",
+            "Luck": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.91
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Light",
+        "Chroma Multiplier": 0.91,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Perfection_NoPerfectionLossButNoDamageIncrease",
+            "Level 10": "AugmentedAttack_Weapon",
+            "Level 20": "Perfection_Attackx2"
+        }
+    },
+    "Coralim": {
+        "Damage Type": "Ice",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Defense": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.85
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Ice",
+        "Chroma Multiplier": 0.85,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "IceAPCost-",
+            "Level 10": "SkillsIceDMG+",
+            "Level 20": "Stains_EarthStart"
+        }
+    },
+    "Algueron": {
+        "Damage Type": "Ice",
+        "Attribute Scaling": {
+            "Vitality": "C",
+            "Luck": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.0
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Dark",
+        "Chroma Multiplier": 1.0,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Foretell_FreeAimShotsConsumeForDMG+",
+            "Level 10": "Foretell_ApplyOnAttack",
+            "Level 20": "Foretell_TwilightFreeAimDMG+"
+        }
+    },
+    "Gesam": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.0
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 1.0,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "SkillsLightToPhysical",
+            "Level 10": "SkillsPhysicalDMG+",
+            "Level 20": "PhysicalAPCost-"
+        }
+    },
+    "Redalim": {
+        "Damage Type": "Ice",
+        "Attribute Scaling": {
+            "Defense": "C",
+            "Agility": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.8
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Ice",
+        "Chroma Multiplier": 0.8,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stains_+RandomStainOnHeal",
+            "Level 10": "Stains_IceStainOnTurnStart",
+            "Level 20": "InstantReplayOnOverchargedHealSkills"
+        }
+    },
+    "Sekarum": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Vitality": "C",
+            "Agility": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.05
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 1.05,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stance_VirtuoseOnShieldBreak",
+            "Level 10": "FreeAimBreaksMoreShields",
+            "Level 20": "Stance_PierceOnVStance"
+        }
+    },
+    "Bourgelon": {
+        "Damage Type": "Light",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.96
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 0.96,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Foretell_ApplyBurnPerSunChargeOnConsume",
+            "Level 10": "Foretell_OnTwilightBurnDMG+",
+            "Level 20": "Foretell_SunSkillsCharge+"
+        }
+    },
+    "Blodam": {
+        "Damage Type": "Light",
+        "Attribute Scaling": {
+            "Defense": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.08
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 1.08,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Perfection_PerfectionBaseOnCurrentHP",
+            "Level 10": "SkillsLightDMG+",
+            "Level 20": "Perfection_GainAPOnRankUp"
+        }
+    },
+    "Corderon": {
+        "Damage Type": "Dark",
+        "Attribute Scaling": {
+            "Defense": "C",
+            "Luck": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.85
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Dark",
+        "Chroma Multiplier": 0.85,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Foretell_CurseSelfButDMG+",
+            "Level 10": "Foretell_ResetCurseOnTwilight",
+            "Level 20": "Foretell_InstantReplayOnTwilight"
+        }
+    },
+    "Cultam": {
+        "Damage Type": "Dark",
+        "Attribute Scaling": {
+            "Defense": "C",
+            "Agility": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.97
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 0.97,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Perfection_PerfectionLostOnHeal",
+            "Level 10": "APOnCounter",
+            "Level 20": "Perfection_RankUpOnCounter"
+        }
+    },
+    "Demonam": {
+        "Damage Type": "Light",
+        "Attribute Scaling": {
+            "Defense": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.87
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 0.87,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "DMG+OnAlternatingPhysicalLight",
+            "Level 10": "SkillsPhysicalDMG+",
+            "Level 20": "LightSkillsRegenHP"
+        }
+    },
+    "Trebuchim": {
+        "Damage Type": "Lightning",
+        "Attribute Scaling": {
+            "Vitality": "C",
+            "Luck": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.95
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Lightning",
+        "Chroma Multiplier": 0.95,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stains_RandomGeneration",
+            "Level 10": "Stains_APOnConsumption",
+            "Level 20": "Stains_RandomGenerationOnAttack"
+        }
+    },
+    "Rangeson": {
+        "Damage Type": "Dark",
+        "Attribute Scaling": {
+            "Defense": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.97
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Dark",
+        "Chroma Multiplier": 0.97,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Foretell_HealOnApply",
+            "Level 10": "HealAPCost-",
+            "Level 20": "Foretell_HealEfficiencyPerMoonCharge"
+        }
+    },
+    "Betelim": {
+        "Damage Type": "Earth",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.0
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Earth",
+        "Chroma Multiplier": 1.0,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stains_OverchargeDMG+",
+            "Level 10": "Stains_TurnStart+StainsIfNoStain",
+            "Level 20": "Stains_APOnConsumption"
+        }
+    },
+    "Veremum": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.02
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 1.02,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stance_AttackOffensive",
+            "Level 10": "CounterDefenseless",
+            "Level 20": "Stance_CritChanceOffensive"
+        }
+    },
+    "Hevason": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Vitality": "C",
+            "Defense": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.07
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Earth",
+        "Chroma Multiplier": 1.07,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Foretell_ConsumeChargesOnFreeAim",
+            "Level 10": "Foretell_GivesAPOnConsumingCharge",
+            "Level 20": "Foretell_AttackGainMoonCharge"
+        }
+    },
+    "Painerim": {
+        "Damage Type": "Earth",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.85
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Earth",
+        "Chroma Multiplier": 0.85,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "EarthAPCost-",
+            "Level 10": "SkillsEarthDMG+",
+            "Level 20": "Stains_LightningStart"
+        }
+    },
+    "Yeverum": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Defense": "C",
+            "Agility": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.04
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 1.04,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "ShieldOnShell",
+            "Level 10": "APOnShield",
+            "Level 20": "Stance_VirtuoseDoubleShields"
+        }
+    },
+    "Direton": {
+        "Damage Type": "Earth",
+        "Attribute Scaling": {
+            "Defense": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.25
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Lightning",
+        "Chroma Multiplier": 1.25,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Foretell_GainAPPerMoonChargeOnTurnStart",
+            "Level 10": "Foretell_AttackGainMoonCharge",
+            "Level 20": "Foretell_BaseAttackConsumeAllAPOnTwilight"
+        }
+    },
+    "Melarum": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Vitality": "C",
+            "Luck": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.11
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Lightning",
+        "Chroma Multiplier": 1.11,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stance_VirtuoseHealAllies",
+            "Level 10": "Stance_ShellOnHighHP",
+            "Level 20": "Stance_VirtuoseOnLowHP"
+        }
+    },
+    "Lighterim": {
+        "Damage Type": "Fire",
+        "Attribute Scaling": {
+            "Defense": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.85
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 0.85,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "FireAPCost-",
+            "Level 10": "SkillsFireDMG+",
+            "Level 20": "Stains_IceStart"
+        }
+    },
+    "Duenum": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Defense": "C",
+            "Agility": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.75
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Ice",
+        "Chroma Multiplier": 0.75,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stance_DefensiveSharedAP",
+            "Level 10": "Stance_AttackDefensive",
+            "Level 20": "Stance_APOnSwitch"
+        }
+    },
+    "Chation": {
+        "Damage Type": "Dark",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.1
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 1.1,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Foretell_ApplyMaxForetellOnSunSkills",
+            "Level 10": "Foretell_AttackConsumeToApplyBurnMoonCharge",
+            "Level 20": "Foretell_OnTwilightBurnDMG+"
+        }
+    },
+    "Chainebum": {
+        "Damage Type": "Void",
+        "Attribute Scaling": {
+            "Defense": "C",
+            "Agility": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.12
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Void",
+        "Chroma Multiplier": 1.12,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "CanStealShield",
+            "Level 10": "Stance_VirtuoseOnShieldBreak",
+            "Level 20": "MarkBreakShields"
+        }
+    },
+    "Troubadum": {
+        "Damage Type": "Light",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.06
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 1.06,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stance_ShieldOnParry",
+            "Level 10": "SkillsLightDMG+",
+            "Level 20": "CounterDamagePerShield"
+        }
+    },
+    "Ramasson": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.09
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 1.09,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Foretell_HealOnTurnStartConsumeMoonCharge",
+            "Level 10": "Foretell_AttackGainMoonCharge",
+            "Level 20": "Foretell_MoonSkillsCharge+"
+        }
+    },
+    "Chaliso": {
+        "Damage Type": "Lightning",
+        "Attribute Scaling": {
+            "Vitality": "C",
+            "Defense": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.55
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Dark",
+        "Chroma Multiplier": 0.55,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "AttackPlayAgain",
+            "Level 10": "AugmentedAttack_Weapon",
+            "Level 20": "Perfection_Attackx2"
+        }
+    },
+    "Benisim": {
+        "Damage Type": "Earth",
+        "Attribute Scaling": {
+            "Vitality": "C",
+            "Defense": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.85
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Earth",
+        "Chroma Multiplier": 0.85,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "HealAPCost-",
+            "Level 10": "Stains_EarthStainOnTurnStart",
+            "Level 20": "InstantReplayOnOverchargedHealSkills"
+        }
+    },
+    "Battlum": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Defense": "C",
+            "Luck": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.95
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 0.95,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stance_DefensiveGradientCharges",
+            "Level 10": "Stance_AttackDefensive",
+            "Level 20": "GradientChargesOnParry"
+        }
+    },
+    "Charnon": {
+        "Damage Type": "Void",
+        "Attribute Scaling": {
+            "Defense": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.92
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Void",
+        "Chroma Multiplier": 0.92,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Foretell_ChangeTwilightAlwaysCrit",
+            "Level 10": "Foretell_ApplyForetellOnCrit",
+            "Level 20": "DMG+WhenNoDMGTaken"
+        }
+    },
+    "Corpeso": {
+        "Damage Type": "Fire",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.13
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 1.13,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Perfection_BurnOnBaseAtkPerRank",
+            "Level 10": "Perfection_GainAPOnRankUp",
+            "Level 20": "Perfection_BurnDamagePerRank"
+        }
+    },
+    "Dualim": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Defense": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.95
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 0.95,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "FreeAimDoubleShot",
+            "Level 10": "AugmentedAim_Weapon",
+            "Level 20": "Stains_RandomGeneration"
+        }
+    },
+    "Stalum": {
+        "Damage Type": "Fire",
+        "Attribute Scaling": {
+            "Defense": "C",
+            "Luck": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.0
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 1.0,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "SelfBurnButDmg+",
+            "Level 10": "AttackBurn",
+            "Level 20": "Stance_BurnHealOnDStance"
+        }
+    },
+    "Contorson": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Agility": "C",
+            "Luck": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.03
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 1.03,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Foretell_DarkConversionOnTwilight",
+            "Level 10": "SkillsDarkDMG+",
+            "Level 20": "Foretell_BuffsOnStates"
+        }
+    },
+    "Danseso": {
+        "Damage Type": "Fire",
+        "Attribute Scaling": {
+            "Agility": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.92
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 0.92,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Perfection_DoublePerfectionVSBurn",
+            "Level 10": "AttackBurnWhilePowerful",
+            "Level 20": "Perfection_GainAPOnRankUp"
+        }
+    },
+    "Braselim": {
+        "Damage Type": "Fire",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.05
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 1.05,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stains_IncreaseCritChancePerFireStain",
+            "Level 10": "GradientPointOnCrit",
+            "Level 20": "SkillsFireDMG+"
+        }
+    },
+    "Coldum": {
+        "Damage Type": "Ice",
+        "Attribute Scaling": {
+            "Vitality": "C",
+            "Defense": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.8
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Ice",
+        "Chroma Multiplier": 0.8,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "HealOnCrit",
+            "Level 10": "Stance_CritChanceDefensive",
+            "Level 20": "Stance_AttackDefensive"
+        }
+    },
+    "Glaceso": {
+        "Damage Type": "Ice",
+        "Attribute Scaling": {
+            "Defense": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.89
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Light",
+        "Chroma Multiplier": 0.89,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Perfection_Perfection+1OnCrit",
+            "Level 10": "HealOnCrit",
+            "Level 20": "AlwaysCritOnCounterDamage"
+        }
+    },
+    "Snowim": {
+        "Damage Type": "Ice",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.2
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Ice",
+        "Chroma Multiplier": 1.2,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "FreezeSelfOnLowHP2",
+            "Level 10": "DefreezeAndHealOnTurnStart",
+            "Level 20": "Stains_Ice+IfSelfFrozen"
+        }
+    },
+    "Sadon": {
+        "Damage Type": "Light",
+        "Attribute Scaling": {
+            "Defense": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.8
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Dark",
+        "Chroma Multiplier": 0.8,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Foretell_ShieldOnTurnStartWhenSunCharge",
+            "Level 10": "Foretell_ApplyForetellOnShieldBreakPerSunCharge",
+            "Level 20": "Foretell_GivesSunChargesOnCounterAttack"
+        }
+    },
+    "Clierum": {
+        "Damage Type": "Lightning",
+        "Attribute Scaling": {
+            "Defense": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.99
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Lightning",
+        "Chroma Multiplier": 0.99,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "APOnCrit",
+            "Level 10": "SkillsLightningDMG+",
+            "Level 20": "Stance_CritChanceOffensive"
+        }
+    },
+    "Garganon": {
+        "Damage Type": "Fire",
+        "Attribute Scaling": {
+            "Vitality": "C",
+            "Defense": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.97
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 0.97,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Foretell_ApplyBurnOnHitTakenOnSun",
+            "Level 10": "Foretell_ApplyBurnPerSunChargeOnCounterAttack",
+            "Level 20": "Foretell_AttackConsumeBurnToApplyForetell"
+        }
+    },
+    "Moissoso": {
+        "Damage Type": "Lightning",
+        "Attribute Scaling": {
+            "Defense": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.88
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Lightning",
+        "Chroma Multiplier": 0.88,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Perfection_SwitchRankSOnBreak",
+            "Level 10": "Perfection_AlwaysCritOnRankS",
+            "Level 20": "TriggerLightningOnCrit"
+        }
+    },
+    "Angerim": {
+        "Damage Type": "Fire",
+        "Attribute Scaling": {
+            "Defense": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.02
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 1.02,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stains_ApplyBurnStackPerFireStainOnAttack",
+            "Level 10": "Stains_FireStainOnTurnStart",
+            "Level 20": "Stains_IncreaseBurnDMGPerFireStain"
+        }
+    },
+    "Blizzon": {
+        "Damage Type": "Ice",
+        "Attribute Scaling": {
+            "Defense": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.3
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Earth",
+        "Chroma Multiplier": 1.3,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Foretell_MoonSkillsAlwaysCritOnMoon",
+            "Level 10": "Foretell_DMG+PerMoonCharge",
+            "Level 20": "Foretell_AttackGainMoonCharge"
+        }
+    },
+    "Confuso": {
+        "Damage Type": "Light",
+        "Attribute Scaling": {
+            "Agility": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.95
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Light",
+        "Chroma Multiplier": 0.95,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "LightDMGBurnOnCrit",
+            "Level 10": "MarkIsBurn",
+            "Level 20": "Perfection_BurnDamagePerRank"
+        }
+    },
+    "Facesum": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.09
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Ice",
+        "Chroma Multiplier": 1.09,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stance_OffensiveBurnStacks",
+            "Level 10": "BurnDamage",
+            "Level 20": "AttackPropagatesBurn"
+        }
+    },
+    "Chapelim": {
+        "Damage Type": "Earth",
+        "Attribute Scaling": {
+            "Defense": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.98
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Earth",
+        "Chroma Multiplier": 0.98,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stains_IncreaseBreakDMGPerEarthStain",
+            "Level 10": "APonBreak",
+            "Level 20": "Stains_EarthStainOnTurnStart"
+        }
+    },
+    "Sireso_1": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Vitality": "C",
+            "Agility": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.8
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 0.8,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Perfection_PerfectionBonusDamageShare",
+            "Level 10": "Perfection_Perfection+1OnPowerful",
+            "Level 20": "SupportSkillsCostReduced"
+        }
+    },
+    "Sirenon_1": {
+        "Damage Type": "Lightning",
+        "Attribute Scaling": {
+            "Defense": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.95
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Lightning",
+        "Chroma Multiplier": 0.95,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Foretell_ExtendOrIncreaseTwilight",
+            "Level 10": "Foretell_ExtendTwilight",
+            "Level 20": "Foretell_InstantReplayOnTwilight"
+        }
+    },
+    "Sirenum_1": {
+        "Damage Type": "Earth",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.2
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Earth",
+        "Chroma Multiplier": 1.2,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stance_DefensiveBreakDamage",
+            "Level 10": "APonBreak",
+            "Level 20": "BreakEarthBurst"
+        }
+    },
+    "Sireso_2": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Agility": "C",
+            "Luck": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.95
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 0.95,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Perfection_RankUpOnCounter",
+            "Level 10": "IncreaseCounterDamage",
+            "Level 20": "APOnCounter"
+        }
+    },
+    "Sirenim_1": {
+        "Damage Type": "Fire",
+        "Attribute Scaling": {
+            "Defense": "C",
+            "Agility": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.1
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 1.1,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stains_FullCritIfFullStain",
+            "Level 10": "DMG+WhenNoDMGTaken",
+            "Level 20": "CritAppliesBurn"
+        }
+    },
+    "Sirenum_2": {
+        "Damage Type": "Fire",
+        "Attribute Scaling": {
+            "Agility": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.88
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 0.88,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stance_StancelessSwitchToOStance",
+            "Level 10": "FireAPCost-",
+            "Level 20": "Stance_ShieldOnOSstance"
+        }
+    },
+    "Sirenim_2": {
+        "Damage Type": "Light",
+        "Attribute Scaling": {
+            "Vitality": "C",
+            "Agility": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.8
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Light",
+        "Chroma Multiplier": 0.8,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stains_GenerateLightStainRandom",
+            "Level 10": "Stains_GainAPOnLightStainConsumption",
+            "Level 20": "Stains_IncreaseDMGPerLightStain"
+        }
+    },
+    "Sirenon_2": {
+        "Damage Type": "Earth",
+        "Attribute Scaling": {
+            "Vitality": "C",
+            "Agility": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.2
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 1.2,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Foretell_DealAOEDamagePerChargeOnTwilightSwitch",
+            "Level 10": "Foretell_ApplyForetellPerChargeOnTwilightSwitch",
+            "Level 20": "Foretell_DoubleChargeGain"
+        }
+    },
+    "Reacheso_1": {
+        "Damage Type": "Earth",
+        "Attribute Scaling": {
+            "Vitality": "C",
+            "Defense": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.15
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 1.15,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Perfection_RankUpOnMark",
+            "Level 10": "MarkOnBaseAttack",
+            "Level 20": "PowerlessOnMarking"
+        }
+    },
+    "Reachum_1": {
+        "Damage Type": "Void",
+        "Attribute Scaling": {
+            "Agility": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.0
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Void",
+        "Chroma Multiplier": 1.0,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stance_VirtuoseKeepMark",
+            "Level 10": "Stance_CounterSwitchToVStance",
+            "Level 20": "Stance_ShellOutVStance"
+        }
+    },
+    "Reacherim_1": {
+        "Damage Type": "Lightning",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.05
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Dark",
+        "Chroma Multiplier": 1.05,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stains_ElementalCyclingDMG+",
+            "Level 10": "Stains_TurnStart+StainsIfNoStain",
+            "Level 20": "Stains_APOnConsumption"
+        }
+    },
+    "Reacheron_1": {
+        "Damage Type": "Lightning",
+        "Attribute Scaling": {
+            "Agility": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.97
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Light",
+        "Chroma Multiplier": 0.97,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Foretell_OnTwilightSwitchApplyMarkAOE",
+            "Level 10": "Foretell_DontRemoveMarkOnTwilight",
+            "Level 20": "Foretell_ApplyForetellOnApplyMark"
+        }
+    },
+    "Reacheso_2": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Defense": "C",
+            "Agility": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.1
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 1.1,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "AttackConsumeShieldForExtraDMG",
+            "Level 10": "ShieldOnCounter",
+            "Level 20": "Perfection_Attackx2"
+        }
+    },
+    "Reacheron_2": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Agility": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.87
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 0.87,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Foretell_ApplyGreaterRushSlowOnSunMoon",
+            "Level 10": "Foretell_ApplyGreaterRushSlowOnTwilight",
+            "Level 20": "GainAPOnApplyBuffsDebuffs"
+        }
+    },
+    "Reachum_2": {
+        "Damage Type": "Ice",
+        "Attribute Scaling": {
+            "Defense": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.94
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Void",
+        "Chroma Multiplier": 0.94,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stance_StancelessSwitchToDStance",
+            "Level 10": "Stance_DefensiveBreakDamage",
+            "Level 20": "SupportSkillsCostReduced"
+        }
+    },
+    "Reacherim_2": {
+        "Damage Type": "Void",
+        "Attribute Scaling": {
+            "Vitality": "C",
+            "Luck": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.96
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Void",
+        "Chroma Multiplier": 0.96,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Stains_GenerateLightOrDarkStainRandom",
+            "Level 10": "Stains_GainAPOnLightStainConsumption",
+            "Level 20": "Stains_ConsumeDarkStainsOnAttackDMG+"
+        }
+    },
+    "GDC_Weapon_Sciel": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Strength": "B"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 3.0
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Earth",
+        "Chroma Multiplier": 3.0,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "None",
+            "Level 10": "None",
+            "Level 20": "None"
+        }
+    },
+    "GDC_Weapon_Maelle": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Strength": "B"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 3.0
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Void",
+        "Chroma Multiplier": 3.0,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "None",
+            "Level 10": "None",
+            "Level 20": "None"
+        }
+    },
+    "GDC_Weapon_Lune": {
+        "Damage Type": "Ice",
+        "Attribute Scaling": {
+            "Strength": "B"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 3.0
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Earth",
+        "Chroma Multiplier": 3.0,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "None",
+            "Level 10": "None",
+            "Level 20": "None"
+        }
+    },
+    "GDC_Weapon_Verso": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Strength": "B"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 3.0
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 3.0,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "None",
+            "Level 10": "None",
+            "Level 20": "None"
+        }
+    },
+    "GDC_Weapon_Monoco": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Strength": "B"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 3.0
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 3.0,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "None",
+            "Level 10": "None",
+            "Level 20": "None"
+        }
+    },
+    "Grandaro": {
+        "Damage Type": "Earth",
+        "Attribute Scaling": {
+            "Vitality": "C",
+            "Defense": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.1
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Lightning",
+        "Chroma Multiplier": 1.1,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Masks_StartHeavy",
+            "Level 10": "Masks_ShellOnHeavy",
+            "Level 20": "Masks_GainAPOnDMGTakenOnHeavy"
+        }
+    },
+    "Chromaro": {
+        "Damage Type": "Ice",
+        "Attribute Scaling": {
+            "Defense": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.05
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 1.05,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Masks_StartCaster",
+            "Level 10": "Masks_RegenOnCaster",
+            "Level 20": "Mask_APCost-1OnCaster"
+        }
+    },
+    "Boucharo": {
+        "Damage Type": "Fire",
+        "Attribute Scaling": {
+            "Agility": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.0
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Lightning",
+        "Chroma Multiplier": 1.0,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Masks_StartAgile",
+            "Level 10": "Masks_RushOnAgile",
+            "Level 20": "Masks_CritChanceOnAgile"
+        }
+    },
+    "Joyaro": {
+        "Damage Type": "Lightning",
+        "Attribute Scaling": {
+            "Defense": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.15
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Light",
+        "Chroma Multiplier": 1.15,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Masks_StartAlmighty",
+            "Level 10": "DMG+WhenNoDMGTaken",
+            "Level 20": "Masks_DoubleBreakDMGOnAlmighty"
+        }
+    },
+    "Sirenaro_1": {
+        "Damage Type": "Light",
+        "Attribute Scaling": {
+            "Defense": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.95
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Earth",
+        "Chroma Multiplier": 0.95,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Masks_ReverseBestialMeter",
+            "Level 10": "Masks_Overcharge+APOnAllies",
+            "Level 20": "Masks_GainAPAllAlliesOnAlmightySwitch"
+        }
+    },
+    "Sirenaro_2": {
+        "Damage Type": "Earth",
+        "Attribute Scaling": {
+            "Vitality": "C",
+            "Luck": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.06
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Ice",
+        "Chroma Multiplier": 1.06,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Masks_SwitchToAlmightyOnBreak",
+            "Level 10": "Masks_GainAPAllAlliesOnAlmightySwitch",
+            "Level 20": "BreakDMG+"
+        }
+    },
+    "Reacharo_1": {
+        "Damage Type": "Dark",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.3
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Light",
+        "Chroma Multiplier": 1.3,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Masks_BestialMeter+OnParrybutResetOnDMG",
+            "Level 10": "Masks_DMG+OverchargedSkills",
+            "Level 20": "Masks_GainAPOnMaskSwitch"
+        }
+    },
+    "Reacharo_2": {
+        "Damage Type": "Lightning",
+        "Attribute Scaling": {
+            "Defense": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.3
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Dark",
+        "Chroma Multiplier": 1.3,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Masks_WheelSpinOnFreeAimShot",
+            "Level 10": "Masks_DMG+FreeAimIfNotAlmighty",
+            "Level 20": "Masks_AlwaysCritOnAlmighty"
+        }
+    },
+    "Brumaro": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Vitality": "C",
+            "Agility": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.05
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Ice",
+        "Chroma Multiplier": 1.05,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Masks_InstantReplayOnAlmighty",
+            "Level 10": "Masks_APOnAlmighty",
+            "Level 20": "Masks_InstantReviveOnDeathOnAlmighty"
+        }
+    },
+    "Sidaro": {
+        "Damage Type": "Dark",
+        "Attribute Scaling": {
+            "Strength": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 0.94
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Ice",
+        "Chroma Multiplier": 0.94,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "Masks_DMG+BonusStackOnOverchargedSkillsChain",
+            "Level 10": "Masks_WheelSpinOnAttack",
+            "Level 20": "Masks_Overcharge+APOnAllies"
+        }
+    },
+    "MitigatedPerfection": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {},
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.0
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 1.0,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "None",
+            "Level 10": "None",
+            "Level 20": "None"
+        }
+    },
+    "Beselbum": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {},
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.0
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 1.0,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "None",
+            "Level 10": "None",
+            "Level 20": "None"
+        }
+    },
+    "Gelerim": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {},
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.0
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 1.0,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "None",
+            "Level 10": "None",
+            "Level 20": "None"
+        }
+    },
+    "Nibalum": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {},
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.0
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 1.0,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "None",
+            "Level 10": "None",
+            "Level 20": "None"
+        }
+    },
+    "Velokan": {
+        "Damage Type": "Light",
+        "Attribute Scaling": {
+            "Agility": "B"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.1
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Light",
+        "Chroma Multiplier": 1.1,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "None",
+            "Level 10": "None",
+            "Level 20": "None"
+        }
+    },
+    "Telarim": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {},
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.0
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 1.0,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "None",
+            "Level 10": "None",
+            "Level 20": "None"
+        }
+    },
+    "Milerim": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {},
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.0
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 1.0,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "None",
+            "Level 10": "None",
+            "Level 20": "None"
+        }
+    },
+    "03_Weapon_Placeholder": {
+        "Damage Type": "Lightning",
+        "Attribute Scaling": {
+            "Agility": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.1
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Lightning",
+        "Chroma Multiplier": 1.1,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "None",
+            "Level 10": "None",
+            "Level 20": "None"
+        }
+    },
+    "DebugSciel": {
+        "Damage Type": "Void",
+        "Attribute Scaling": {
+            "Agility": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.0
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 1.0,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "AutoDeath",
+            "Level 10": "SecondChance",
+            "Level 20": "FirstStrike"
+        }
+    },
+    "DebugLune": {
+        "Damage Type": "Void",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Defense": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.0
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 1.0,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "AutoDeath",
+            "Level 10": "SecondChance",
+            "Level 20": "FirstStrike"
+        }
+    },
+    "DebugVerso": {
+        "Damage Type": "Void",
+        "Attribute Scaling": {
+            "Defense": "C",
+            "Agility": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.0
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 1.0,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "AutoDeath",
+            "Level 10": "SecondChance",
+            "Level 20": "FirstStrike"
+        }
+    },
+    "DebugMaelle": {
+        "Damage Type": "Void",
+        "Attribute Scaling": {
+            "Defense": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.0
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 1.0,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "AutoDeath",
+            "Level 10": "SecondChance",
+            "Level 20": "FirstStrike"
+        }
+    },
+    "DebugMonoco": {
+        "Damage Type": "Void",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.0
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 1.0,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "AutoDeath",
+            "Level 10": "SecondChance",
+            "Level 20": "FirstStrike"
+        }
+    },
+    "Simoso": {
+        "Damage Type": "Light",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.0
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Light",
+        "Chroma Multiplier": 1.0,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "DoubleHit",
+            "Level 10": "LightDamageBurn",
+            "Level 20": "Perfection_SurvivorRankA"
+        }
+    },
+    "VD_Verso_1": {
+        "Damage Type": "Earth",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Defense": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.15
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Earth",
+        "Chroma Multiplier": 1.15,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "StartD",
+            "Level 10": "PerfectDefense",
+            "Level 20": "DamageOnPerfectionRank"
+        }
+    },
+    "VD_Verso_2": {
+        "Damage Type": "Earth",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Defense": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.15
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Earth",
+        "Chroma Multiplier": 1.15,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "PerfectionOnDamage",
+            "Level 10": "PerfectDefenseB",
+            "Level 20": "PowerlessMark"
+        }
+    },
+    "VD_Verso_3": {
+        "Damage Type": "Light",
+        "Attribute Scaling": {
+            "Agility": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.1
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Light",
+        "Chroma Multiplier": 1.1,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "AureoleRankSToD",
+            "Level 10": "DamageBonusOnRevive",
+            "Level 20": "MoreGradientDamageLessCharge"
+        }
+    },
+    "VD_Maelle_1": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Agility": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.1
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 1.1,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "DamageBonusPerHit",
+            "Level 10": "firstHitApplyMark",
+            "Level 20": "SecondHitDontConsumeMark"
+        }
+    },
+    "VD_Maelle_2": {
+        "Damage Type": "Fire",
+        "Attribute Scaling": {
+            "Defense": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.14
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 1.14,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "More4ApDamageBonus",
+            "Level 10": "BurnInVirtuose",
+            "Level 20": "InflictMarkIfSkillLess4Ap"
+        }
+    },
+    "VD_Lune_1": {
+        "Damage Type": "Lightning",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.18
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Lightning",
+        "Chroma Multiplier": 1.18,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "CritPerBurn",
+            "Level 10": "BurnOnCrit",
+            "Level 20": "ThunderSkillConsumeBurn"
+        }
+    },
+    "VD_Lune_2": {
+        "Damage Type": "Dark",
+        "Attribute Scaling": {
+            "Defense": "D",
+            "Agility": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.12
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Dark",
+        "Chroma Multiplier": 1.12,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "NoOverchargeSkillBuff",
+            "Level 10": "BaseAttackToDarkStain",
+            "Level 20": "Stains_ConsumeFourDarkStainsDMG+OnSkills"
+        }
+    },
+    "Simonim": {
+        "Damage Type": "Light",
+        "Attribute Scaling": {
+            "Agility": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.1
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Light",
+        "Chroma Multiplier": 1.1,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "BypassAffinities",
+            "Level 10": "LuneDoubleHit",
+            "Level 20": "SimonimOvercharge"
+        }
+    },
+    "VD_Monoco_1": {
+        "Damage Type": "Light",
+        "Attribute Scaling": {
+            "Agility": "C",
+            "Luck": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.13
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Light",
+        "Chroma Multiplier": 1.13,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "FreeAimForwardWheel",
+            "Level 10": "DamagePerMaskChange",
+            "Level 20": "DoubleFreeAimDamageAlmighty"
+        }
+    },
+    "VD_Monoco_2": {
+        "Damage Type": "Earth",
+        "Attribute Scaling": {
+            "Vitality": "C",
+            "Defense": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.16
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Earth",
+        "Chroma Multiplier": 1.16,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "BaseAttackToHeavy",
+            "Level 10": "ShieldAllHeroesOnHeavy",
+            "Level 20": "ReducedDamageOnHeavy"
+        }
+    },
+    "Baguettaro": {
+        "Damage Type": "Fire",
+        "Attribute Scaling": {
+            "Defense": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.16
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 1.16,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "BurnOnCrit",
+            "Level 10": "AlmightyDoubleBurn",
+            "Level 20": "AlmightyConsumeBurn"
+        }
+    },
+    "VD_Sciel_1": {
+        "Damage Type": "Fire",
+        "Attribute Scaling": {
+            "Agility": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.17
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Fire",
+        "Chroma Multiplier": 1.17,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "FourthHitForetell",
+            "Level 10": "DamagePerSunCharge",
+            "Level 20": "SunAPDiscount"
+        }
+    },
+    "VD_Sciel_2": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Vitality": "D",
+            "Luck": "C"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.19
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 1.19,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "ChargesBalance",
+            "Level 10": "RandomChargeTurnStart",
+            "Level 20": "AttackSunItemMoon"
+        }
+    },
+    "Duollison": {
+        "Damage Type": "Physical",
+        "Attribute Scaling": {
+            "Agility": "C",
+            "Luck": "D"
+        },
+        "Base Stat Multipliers": {
+            "Physical Attack": 1.14
+        },
+        "Physical Attack Multiplier": 1.0,
+        "Magical Attack Multiplier": 1.0,
+        "Free Aim Damage Type": "Physical",
+        "Chroma Multiplier": 1.14,
+        "Lumina Effects": {
+            "Level 1": "None",
+            "Level 4": "FrenzyAttack",
+            "Level 10": "ShotApplyAttackConsumeForetell",
+            "Level 20": "TwilightForetellNotConsumed"
+        }
+    }
+}

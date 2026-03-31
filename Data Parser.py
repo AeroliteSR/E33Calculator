@@ -154,6 +154,41 @@ def get_charStat_data(data):
 
     return output
 
+def get_wpnAtk_data(data):
+    st = data.get('Stats_19_14AC0B3B43D586575C5433A630321A61')[0]
+    return st['Value']
+
+def get_wpnScaling_data(data):
+    output = {}
+
+    output['Physical Attack'] = data.get('PhysicalAttack_5_9B0990424CCCEE3E826ABFA03DEA6FE6')
+    output['Magical Attack'] = data.get('MagicalAttack_7_35190D724801E779DBA533A5C197EFC6')
+    output['Chroma Value'] = data.get('ChromaValue_10_87D256FB42933A6D1E02839F8D8561A2')
+
+    return output
+
+def get_wpn_data(data):
+    output = {}
+    output['Damage Type'] = ElementsMap[int(data.get('BaseDamageType_31_00CBF5EC48FCC5F58D3E21BCCFF7CEAD').replace('EAttackType::NewEnumerator', ''))]
+
+    asc = {stat['Key']: stat['Value'] for stat in data.get('AttributeScaling_27_D34662B444482CDECBEF098C92BB93EB', [])}
+    output['Attribute Scaling'] = applyMap(asc, CharacterAttributeMap, AttributeScalingGradeMap)
+
+    bsm = {stat['Key']: stat['Value'] for stat in data.get('BaseStatsMultipliers_45_1EA90FEA4365E7D26870AEA1A1398E8F', [])}
+    output['Base Stat Multipliers'] = applyMap(bsm, EnemyStatsMap)
+
+    output['Physical Attack Multiplier'] = data.get('PhysicalAttackMultiplier_18_418AD05A4F77003940CD4B95439FE314')
+    output['Magical Attack Multiplier'] = data.get('MagicalAttackMultiplier_20_833AB2E94AF531EBBC49D6A3C28FE608')
+    output['Free Aim Damage Type'] = ElementsMap[int(data.get('FreeAimDamageType_33_FE91084E4C067A85CD3AEDA63158BF27').replace('EAttackType::NewEnumerator', ''))]
+    output['Chroma Multiplier'] = data.get('ChromaValueMultiplier_21_7F92B6F746B93A81651A40A5F00933A3')
+
+    output['Lumina Effects'] = {'Level 1': data.get('Level1Lumina_37_784B3E9C481C775586D1A89DCF6D6FD4'),
+                                'Level 4': data.get('Level2Lumina_38_82A460E444079A36F26DDCA706CF3CFA'),
+                                'Level 10': data.get('Level3Lumina_39_307DE22A4854A7781B622B91C882BC69'),
+                                'Level 20': data.get('Level4Lumina_40_0EB7E00747F0CED5D7259C995D5AB4A7'),}
+
+    return output
+
 def split_CCase(text):
     if len(text)<3:
         return text
@@ -213,7 +248,6 @@ def process_json_files(path, func: Callable):
 
     return all_data
 
-
 def writeOutput(_path, name, data):
     print(_path, name)
     if not os.path.exists(_path):
@@ -237,7 +271,11 @@ def main():
         #"Effects.json": ["Gameplay/Lumina/DT_PassiveEffects.json", get_effect_data],
 
         #"Character Stats": ["Gameplay/CharacterData/AttributeScalingTables", get_charStat_data],
-        #"Character Levels.json": ["Gameplay/CharacterData/DT_CharactersLevelScaling.json", get_charLevel_data]
+        #"Character Levels.json": ["Gameplay/CharacterData/DT_CharactersLevelScaling.json", get_charLevel_data],
+
+        #"Base Weapon Attack.json": ["Gameplay/Pictos/DT_EquipmentScalingTable_Weapons.json", get_wpnAtk_data],
+        #"Weapon Scaling.json": ["Gameplay/Pictos/Gear/Weapons/DT_WeaponScalingTable.json", get_wpnScaling_data],
+        #"Weapons.json": ["Gameplay/Pictos/Gear/Weapons/DT_WeaponDefinitions.json", get_wpn_data]
     }
 
     for name, values in tasks.items():

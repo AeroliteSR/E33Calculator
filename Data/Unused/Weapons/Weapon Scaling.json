@@ -1,0 +1,172 @@
+{
+    "Level_0": {
+        "Physical Attack": 20.0,
+        "Magical Attack": 20.0,
+        "Chroma Value": 50
+    },
+    "Level_1": {
+        "Physical Attack": 20.0,
+        "Magical Attack": 20.0,
+        "Chroma Value": 55
+    },
+    "Level_2": {
+        "Physical Attack": 44.0,
+        "Magical Attack": 44.0,
+        "Chroma Value": 70
+    },
+    "Level_3": {
+        "Physical Attack": 68.0,
+        "Magical Attack": 68.0,
+        "Chroma Value": 95
+    },
+    "Level_4": {
+        "Physical Attack": 99.0,
+        "Magical Attack": 99.0,
+        "Chroma Value": 130
+    },
+    "Level_5": {
+        "Physical Attack": 122.0,
+        "Magical Attack": 122.0,
+        "Chroma Value": 175
+    },
+    "Level_6": {
+        "Physical Attack": 145.0,
+        "Magical Attack": 145.0,
+        "Chroma Value": 230
+    },
+    "Level_7": {
+        "Physical Attack": 168.0,
+        "Magical Attack": 168.0,
+        "Chroma Value": 295
+    },
+    "Level_8": {
+        "Physical Attack": 191.0,
+        "Magical Attack": 191.0,
+        "Chroma Value": 370
+    },
+    "Level_9": {
+        "Physical Attack": 214.0,
+        "Magical Attack": 214.0,
+        "Chroma Value": 455
+    },
+    "Level_10": {
+        "Physical Attack": 252.0,
+        "Magical Attack": 252.0,
+        "Chroma Value": 550
+    },
+    "Level_11": {
+        "Physical Attack": 272.0,
+        "Magical Attack": 272.0,
+        "Chroma Value": 655
+    },
+    "Level_12": {
+        "Physical Attack": 292.0,
+        "Magical Attack": 292.0,
+        "Chroma Value": 770
+    },
+    "Level_13": {
+        "Physical Attack": 312.0,
+        "Magical Attack": 312.0,
+        "Chroma Value": 895
+    },
+    "Level_14": {
+        "Physical Attack": 332.0,
+        "Magical Attack": 332.0,
+        "Chroma Value": 1030
+    },
+    "Level_15": {
+        "Physical Attack": 352.0,
+        "Magical Attack": 352.0,
+        "Chroma Value": 1175
+    },
+    "Level_16": {
+        "Physical Attack": 372.0,
+        "Magical Attack": 372.0,
+        "Chroma Value": 1330
+    },
+    "Level_17": {
+        "Physical Attack": 392.0,
+        "Magical Attack": 392.0,
+        "Chroma Value": 1495
+    },
+    "Level_18": {
+        "Physical Attack": 412.0,
+        "Magical Attack": 412.0,
+        "Chroma Value": 1670
+    },
+    "Level_19": {
+        "Physical Attack": 432.0,
+        "Magical Attack": 432.0,
+        "Chroma Value": 1855
+    },
+    "Level_20": {
+        "Physical Attack": 472.0,
+        "Magical Attack": 472.0,
+        "Chroma Value": 2050
+    },
+    "Level_21": {
+        "Physical Attack": 554.0,
+        "Magical Attack": 554.0,
+        "Chroma Value": 2255
+    },
+    "Level_22": {
+        "Physical Attack": 636.0,
+        "Magical Attack": 636.0,
+        "Chroma Value": 2470
+    },
+    "Level_23": {
+        "Physical Attack": 718.0,
+        "Magical Attack": 718.0,
+        "Chroma Value": 2695
+    },
+    "Level_24": {
+        "Physical Attack": 800.0,
+        "Magical Attack": 800.0,
+        "Chroma Value": 2930
+    },
+    "Level_25": {
+        "Physical Attack": 882.0,
+        "Magical Attack": 882.0,
+        "Chroma Value": 3175
+    },
+    "Level_26": {
+        "Physical Attack": 964.0,
+        "Magical Attack": 964.0,
+        "Chroma Value": 3430
+    },
+    "Level_27": {
+        "Physical Attack": 1046.0,
+        "Magical Attack": 1046.0,
+        "Chroma Value": 3695
+    },
+    "Level_28": {
+        "Physical Attack": 1128.0,
+        "Magical Attack": 1128.0,
+        "Chroma Value": 3970
+    },
+    "Level_29": {
+        "Physical Attack": 1210.0,
+        "Magical Attack": 1210.0,
+        "Chroma Value": 4255
+    },
+    "Level_30": {
+        "Physical Attack": 1292.0,
+        "Magical Attack": 1292.0,
+        "Chroma Value": 4550
+    },
+    "Level_31": {
+        "Physical Attack": 1374.0,
+        "Magical Attack": 1374.0,
+        "Chroma Value": 4855
+    },
+    "Level_32": {
+        "Physical Attack": 1456.0,
+        "Magical Attack": 1456.0,
+        "Chroma Value": 5170
+    },
+    "Level_33": {
+        "Physical Attack": 1652.0,
+        "Magical Attack": 1652.0,
+        "Chroma Value": 5495
+    }
+}
